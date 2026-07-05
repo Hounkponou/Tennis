@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  THÈME CLAIR / SOMBRE via variables CSS.
+  - Par défaut (racine) = thème CLAIR.
+  - La classe `.dark` sur <html> bascule en thème SOMBRE.
+  Les composants utilisent des classes sémantiques (.text-hi, .surface, .glass…)
+  qui pointent vers ces variables -> un seul endroit à changer, aucun "dark:"
+  éparpillé dans le code.
+*/
+@layer base {
+  :root {
+    --c-page: #f1f5f9;                    /* fond de page */
+    --c-hi: #0f172a;                      /* texte principal */
+    --c-mid: #334155;                     /* texte secondaire */
+    --c-lo: #64748b;                      /* texte discret */
+    --c-surf: rgba(15, 23, 42, 0.04);     /* surface (cartes) */
+    --c-surf2: rgba(15, 23, 42, 0.08);    /* surface accentuée */
+    --c-br: rgba(15, 23, 42, 0.12);       /* bordures */
+    --c-glow1: rgba(124, 58, 237, 0.10);
+    --c-glow2: rgba(34, 211, 238, 0.10);
+  }
+  .dark {
+    --c-page: #020617;
+    --c-hi: #f1f5f9;
+    --c-mid: #cbd5e1;
+    --c-lo: #94a3b8;
+    --c-surf: rgba(255, 255, 255, 0.05);
+    --c-surf2: rgba(255, 255, 255, 0.10);
+    --c-br: rgba(255, 255, 255, 0.10);
+    --c-glow1: rgba(124, 58, 237, 0.16);
+    --c-glow2: rgba(34, 211, 238, 0.13);
+  }
+
+  body {
+    color: var(--c-hi);
+    background-color: var(--c-page);
+    background-image:
+      radial-gradient(60rem 60rem at 80% -10%, var(--c-glow1), transparent),
+      radial-gradient(50rem 50rem at -10% 10%, var(--c-glow2), transparent);
+    background-attachment: fixed;
+    -webkit-font-smoothing: antialiased;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+}
+
+@layer components {
+  /* Carte "verre" (glassmorphism), thème-consciente. */
+  .glass {
+    @apply rounded-2xl backdrop-blur-sm;
+    background: var(--c-surf);
+    border: 1px solid var(--c-br);
+  }
+  /* Surfaces internes. */
+  .surface { background: var(--c-surf); }
+  .surface-2 { background: var(--c-surf2); }
+  .hover-surface { transition: background-color 0.15s ease; }
+  .hover-surface:hover { background: var(--c-surf2); }
+
+  /* Textes sémantiques. */
+  .text-hi { color: var(--c-hi); }
+  .text-mid { color: var(--c-mid); }
+  .text-lo { color: var(--c-lo); }
+}

@@ -1,0 +1,85 @@
+# =====================================================================
+#  Pipeline Data + ML — 100 % GitHub (aucune plateforme externe)
+# ---------------------------------------------------------------------
+#  Déroulé à chaque exécution :
+#    1. scraper  : rafraîchit data/grand_slams_all.csv (saisons récentes)
+#    2. retrain  : réentraîne le modèle SI assez de nouveaux matchs (anti-dérive)
+#    3. predict  : régénère web/public/data/predictions.json
+#    4. commit   : re-committe les fichiers modifiés dans le repo
+#
+#  Le push déclenche automatiquement le redéploiement Vercel du frontend.
+#  -> Une seule source de vérité : le dépôt Git.
+# =====================================================================
+name: tennis-pipeline
+
+on:
+  schedule:
+    # Tous les jours à 06:00 UTC. Le scraping est léger et le réentraînement
+    # est de toute façon conditionné à l'arrivée d'assez de nouveaux matchs
+    # (seuil MIN_NEW_MATCHES), donc un run quotidien ne réentraîne que lorsque
+    # c'est utile — idéal pendant les 2 semaines d'un Grand Chelem.
+    - cron: '0 6 * * *'
+  workflow_dispatch:          # déclenchement manuel depuis l'onglet Actions
+    inputs:
+      force_retrain:
+        description: "Forcer le réentraînement (ignore le seuil anti-dérive)"
+        type: boolean
+        default: false
+
+# Droit d'écriture pour re-committer les données/modèle générés.
+permissions:
+  contents: write
+
+# Évite deux exécutions concurrentes qui se marcheraient dessus.
+concurrency:
+  group: tennis-pipeline
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installation de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Installation des dépendances
+        run: pip install -r requirements.txt
+
+      # 1. Mise à jour de l'historique des matchs.
+      - name: Scraping (mise à jour de l'historique)
+        run: python -m ml.scraper
+
+      # 2. Réentraînement continu (déclencheur anti-dérive intégré au script).
+      - name: Réentraînement du modèle
+        run: python -m ml.retrain ${{ inputs.force_retrain && '--force' || '' }}
+
+      # 3. Inférence sur les matchs à venir.
+      - name: Génération des prédictions
+        run: python -m ml.predict
+
+      # 4. Export des JSON pour le frontend (modèle JS, forme des joueurs,
+      #    historique filtrable).
+      - name: Export des données web
+        run: python -m ml.export_web
+
+      # 5. Commit des fichiers générés (données, modèle, prédictions, exports web).
+      - name: Commit des mises à jour
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(pipeline): mise à jour données + modèle + prédictions [skip ci]"
+          file_pattern: >-
+            data/grand_slams_all.csv
+            models/model.joblib
+            models/metrics.json
+            web/public/data/predictions.json
+            web/public/data/model.json
+            web/public/data/players.json
+            web/public/data/history.json
+            web/public/data/meta.json
+            web/public/data/challenge.json

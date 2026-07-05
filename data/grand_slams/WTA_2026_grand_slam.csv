@@ -1,0 +1,255 @@
+Tour,Year,WTA,Location,Tournament,Date,Tier,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL,BFEW,BFEL
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Putintseva Y.,Haddad Maia B.,94,61.0,799,1052.0,3.0,6.0,7,5,6,3,2.0,1.0,Completed,1.73,2.1,,,1.73,2.15,1.72,2.1,1.79,2.24
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Ruse E.G.,Yastremska D.,79,28.0,872,1610.0,6.0,4.0,7,5,,,2.0,0.0,Completed,2.1,1.73,,,2.15,1.75,2.09,1.72,2.3,1.75
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Gibson T.,Blinkova A.,119,64.0,634,1016.0,6.0,1.0,6,3,,,2.0,0.0,Completed,1.8,2.0,,,1.83,2.1,1.78,2.02,1.87,2.12
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Paolini J.,Sasnovich A.,8,104.0,4267,755.0,6.0,1.0,6,2,,,2.0,0.0,Completed,1.33,3.4,,,1.4,3.4,1.35,3.11,1.4,3.4
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Sakkari M.,Jeanjean L.,53,103.0,1133,760.0,6.0,4.0,6,2,,,2.0,0.0,Completed,1.17,5.0,,,1.24,5.25,1.21,4.34,1.24,5.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,McNally C.,Sakatsume H.,85,140.0,836,514.0,6.0,3.0,6,1,,,2.0,0.0,Completed,1.4,3.0,,,1.55,3.0,1.45,2.67,1.51,2.94
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Jacquemot E.,Kostyuk M.,60,20.0,1070,1983.0,6.0,7.0,7,6,7,6,2.0,1.0,Completed,8,1.08,,,9.0,1.09,7.83,1.07,10.0,1.1
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Svitolina E.,Bucsa C.,12,52.0,2856,1134.0,6.0,4.0,6,1,,,2.0,0.0,Completed,1.17,5.0,,,1.21,5.25,1.18,4.63,1.2,5.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Baptiste H.,Townsend T.,70,116.0,979,652.0,6.0,3.0,6,7,6,3,2.0,1.0,Completed,2.38,1.57,,,3.25,1.58,2.76,1.45,3.25,1.37
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Sonmez Z.,Alexandrova E.,112,11.0,694,3375.0,7.0,5.0,4,6,6,4,2.0,1.0,Completed,4,1.25,,,4.0,1.33,3.67,1.28,4.7,1.26
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Kudermetova P.,Maristany G.,150,185.0,490,386.0,6.0,2.0,6,3,,,2.0,0.0,Completed,,,,,1.33,4.2,1.25,3.82,1.29,4.3
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Sabalenka A.,Rakotomanga Rajaonah T.,1,118.0,10990,640.0,6.0,4.0,6,1,,,2.0,0.0,Completed,-,34.0,,,1.01,51.0,1.01,27.5,1.01,120.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Potapova A.,Lamens S.,55,97.0,1106,780.0,3.0,6.0,7,5,6,2,2.0,1.0,Completed,1.4,3.0,,,1.43,3.0,1.41,2.83,1.42,3.3
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Bai Z.,Pavlyuchenkova A.,702,47.0,55,1185.0,6.0,4.0,2,6,7,6,2.0,1.0,Completed,2.3,1.62,,,2.5,1.67,2.3,1.6,2.46,1.67
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Danilovic O.,Williams V.,69,578.0,981,82.0,6.0,7.0,6,3,6,4,2.0,1.0,Completed,1.14,5.5,,,1.17,5.75,1.15,5.28,1.15,7.2
+WTA,2026,5,Melbourne,Australian Open,2026-01-18,Grand Slam,Outdoor,Hard,1st Round,3,Raducanu E.,Sawangkaew M.,29,197.0,1607,366.0,6.0,4.0,6,1,,,2.0,0.0,Completed,1.2,4.5,,,1.25,4.6,1.21,4.28,1.25,4.7
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Stearns P.,Kenin S.,68,30.0,987,1567.0,6.0,3.0,6,2,,,2.0,0.0,Completed,2.2,1.67,,,2.21,1.7,2.17,1.67,2.3,1.75
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Frech M.,Erjavec V.,57,102.0,1093,765.0,6.0,1.0,6,1,,,2.0,0.0,Completed,1.22,4.33,,,1.27,4.33,1.24,3.96,1.28,4.4
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Kessler M.,Arango E.,37,51.0,1335,1149.0,6.0,3.0,6,2,,,2.0,0.0,Completed,1.17,5.0,,,1.19,5.25,1.17,4.83,1.19,6.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Linette M.,Navarro E.,50,15.0,1157,2515.0,3.0,6.0,6,3,6,3,2.0,1.0,Completed,3.2,1.36,,,3.25,1.36,3.19,1.34,3.25,1.43
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Hunter S.,Bouzas Maneiro J.,367,40.0,169,1262.0,6.0,4.0,6,4,,,2.0,0.0,Completed,2.75,1.44,,,2.8,1.47,2.74,1.43,2.82,1.53
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Marcinko P.,Maria T.,81,42.0,854,1232.0,6.0,3.0,7,5,,,2.0,0.0,Completed,1.4,3.0,,,1.43,3.5,1.4,2.92,1.47,3.1
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Li A.,Osorio M.,38,84.0,1316,840.0,6.0,4.0,6,7,7,5,2.0,1.0,Completed,1.62,2.3,,,1.68,2.3,1.63,2.25,1.68,2.42
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Bondar A.,Mandlik E.,74,182.0,913,387.0,6.0,0.0,6,4,,,2.0,0.0,Completed,1.29,3.75,,,1.3,3.8,1.29,3.53,1.34,3.85
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Gauff C.,Rakhimova K.,3,93.0,6423,802.0,6.0,2.0,6,3,,,2.0,0.0,Completed,1.04,13.0,,,1.06,13.0,1.04,10.41,1.06,16.5
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Hon P.,Stakusic M.,121,127.0,620,565.0,1.0,6.0,6,4,5,3,1.0,1.0,Retired,2.38,1.57,,,2.75,1.62,2.38,1.56,2.38,1.7
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Klimovicova L.,Jones F.,134,71.0,538,951.0,6.0,2.0,3,2,,,1.0,0.0,Retired,1.62,2.3,,,1.73,2.3,1.65,2.21,1.68,2.44
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Pegula J.,Zakharova A.,6,105.0,5453,742.0,6.0,2.0,6,1,,,2.0,0.0,Completed,1.07,9.0,,,1.08,9.5,1.06,8.53,1.07,13.5
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Tauson C.,Galfi D.,14,91.0,2530,805.0,6.0,3.0,6,3,,,2.0,0.0,Completed,1.44,2.75,,,1.47,2.85,1.44,2.73,1.49,3.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Parks A.,Eala A.,99,49.0,770,1159.0,0.0,6.0,6,3,6,2,2.0,1.0,Completed,3.75,1.29,,,4.33,1.3,3.89,1.25,4.8,1.25
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Muchova K.,Cristian J.,19,35.0,2083,1427.0,6.0,3.0,7,6,,,2.0,0.0,Completed,1.17,5.0,,,1.22,5.0,1.19,4.56,1.22,5.3
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Anisimova A.,Waltert S.,4,87.0,6320,824.0,6.0,3.0,6,2,,,2.0,0.0,Completed,1.03,15.0,,,1.04,15.0,1.03,11.56,1.05,18.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Selekhmeteva O.,Seidel E.,101,82.0,769,850.0,6.0,3.0,3,6,6,0,2.0,1.0,Completed,1.73,2.1,,,1.76,2.12,1.72,2.08,1.81,2.18
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Jovic I.,Volynets K.,27,96.0,1671,783.0,6.0,2.0,6,3,,,2.0,0.0,Completed,1.33,3.4,,,1.36,3.8,1.34,3.21,1.41,3.4
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Mboko V.,Jones E.,16,153.0,2447,464.0,6.0,4.0,6,1,,,2.0,0.0,Completed,1.22,4.33,,,1.24,4.4,1.22,4.11,1.25,4.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Noskova L.,Semenistaja D.,13,98.0,2641,779.0,6.0,3.0,6,0,,,2.0,0.0,Completed,1.13,6.0,,,1.18,6.5,1.13,5.74,1.15,7.2
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Tomljanovic A.,Starodubtseva Y.,78,110.0,881,701.0,4.0,6.0,7,6,6,1,2.0,1.0,Completed,1.73,2.1,,,1.75,2.15,1.72,2.09,1.8,2.22
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Badosa P.,Diyas Z.,26,290.0,1676,232.0,6.0,2.0,6,4,,,2.0,0.0,Completed,1.02,17.0,,,1.03,21.0,1.02,13.73,1.06,14.5
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Bouzkova M.,Zarazua R.,44,80.0,1225,855.0,6.0,2.0,7,5,,,2.0,0.0,Completed,1.29,3.75,,,1.3,3.8,1.28,3.58,1.32,4.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Shnaider D.,Krejcikova B.,22,58.0,1953,1081.0,2.0,6.0,6,3,6,3,2.0,1.0,Completed,1.53,2.5,,,1.6,2.5,1.56,2.39,1.6,2.6
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Andreeva M.,Vekic D.,7,72.0,4731,935.0,4.0,6.0,6,3,6,0,2.0,1.0,Completed,1.11,6.5,,,1.13,6.75,1.12,6.04,1.15,7.4
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Swiatek I.,Yuan Y.,2,130.0,8328,552.0,7.0,6.0,6,3,,,2.0,0.0,Completed,1.01,26.0,,,1.03,26.0,1.02,16.97,1.02,36.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Uchijima M.,Sierra S.,88,63.0,822,1018.0,6.0,3.0,6,1,,,2.0,0.0,Completed,2.75,1.44,,,2.85,1.57,2.66,1.46,3.0,1.49
+WTA,2026,5,Melbourne,Australian Open,2026-01-19,Grand Slam,Outdoor,Hard,1st Round,3,Mertens E.,Tararudee L.,21,131.0,1956,549.0,7.0,5.0,6,1,,,2.0,0.0,Completed,1.25,4.0,,,1.25,4.2,1.24,3.96,1.3,4.2
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Siniakova K.,Udvardy P.,45,90.0,1215,819.0,6.0,1.0,6,2,,,2.0,0.0,Completed,1.1,7.0,,,1.13,7.0,1.11,6.37,1.13,7.6
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Tjen J.,Fernandez L.A.,59,23.0,1075,1821.0,6.0,2.0,7,6,,,2.0,0.0,Completed,3.4,1.33,,,3.45,1.44,3.25,1.34,3.6,1.37
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Preston T.,Zhang S.,161,75.0,443,899.0,6.0,3.0,2,6,6,3,2.0,1.0,Completed,2.5,1.53,,,2.63,1.57,2.55,1.5,3.0,1.48
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Gracheva V.,Golubic V.,77,83.0,887,841.0,6.0,1.0,2,6,6,1,2.0,1.0,Completed,1.91,1.91,,,1.93,1.91,1.89,1.88,2.06,1.91
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Krueger A.,Bejlek S.,62,89.0,1026,821.0,6.0,3.0,6,3,,,2.0,0.0,Completed,1.67,2.2,,,1.83,2.25,1.68,2.15,1.78,2.26
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Valentova T.,Joint M.,54,31.0,1121,1549.0,6.0,4.0,6,4,,,2.0,0.0,Completed,1.4,3.0,,,1.44,3.05,1.41,2.85,1.42,3.3
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Keys M.,Oliynykova O.,9,92.0,4111,804.0,7.0,6.0,6,1,,,2.0,0.0,Completed,1.02,17.0,,,1.05,17.0,1.03,12.04,1.06,16.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Wang Xin.,Kalinina A.,46,179.0,1197,393.0,6.0,3.0,6,3,,,2.0,0.0,Completed,1.67,2.2,,,1.73,2.25,1.67,2.17,1.73,2.3
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Grabher J.,Cocciaretto E.,95,56.0,799,1099.0,7.0,5.0,2,6,6,4,2.0,1.0,Completed,4,1.25,,,5.0,1.26,4.03,1.23,4.5,1.27
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Pliskova Ka.,Stephens S.,1057,1102.0,16,14.0,7.0,6.0,6,2,,,2.0,0.0,Completed,3,1.4,,,3.0,1.48,2.88,1.41,3.3,1.42
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Fruhvirtova L.,Sun L.,132,86.0,548,825.0,6.0,3.0,7,5,,,2.0,0.0,Completed,2.1,1.73,,,2.2,1.73,2.12,1.7,2.2,1.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Kalinskaya A.,Kartal S.,33,66.0,1511,1004.0,7.0,6.0,6,1,,,2.0,0.0,Completed,1.53,2.5,,,1.57,2.55,1.53,2.47,1.58,2.68
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Rybakina E.,Juvan K.,5,100.0,5850,770.0,6.0,4.0,6,3,,,2.0,0.0,Completed,1.03,15.0,,,1.04,15.0,1.03,12.08,1.04,17.5
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Cirstea S.,Lys E.,41,39.0,1249,1303.0,3.0,6.0,6,4,6,3,2.0,1.0,Completed,1.91,1.91,,,2.0,2.0,1.87,1.91,1.93,2.02
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Ostapenko J.,Sramkova R.,24,73.0,1741,914.0,6.0,4.0,6,4,,,2.0,0.0,Completed,1.91,1.91,,,2.15,1.91,1.93,1.85,2.16,1.84
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Siegemund L.,Samsonova L.,48,18.0,1171,2122.0,0.0,6.0,7,5,6,4,2.0,1.0,Completed,4.33,1.22,,,5.5,1.27,4.17,1.22,4.3,1.28
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Bencic B.,Boulter K.,10,113.0,3512,684.0,6.0,0.0,7,5,,,2.0,0.0,Completed,1.13,6.0,,,1.15,7.5,1.13,5.92,1.14,7.4
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Osaka N.,Ruzic A.,17,65.0,2366,1008.0,6.0,3.0,3,6,6,4,2.0,1.0,Completed,1.22,4.33,,,1.25,4.33,1.23,4.08,1.26,4.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Inglis M.,Birrell K.,168,76.0,418,892.0,7.0,6.0,6,7,6,4,2.0,1.0,Completed,3,1.4,,,3.1,1.42,2.94,1.39,3.25,1.42
+WTA,2026,5,Melbourne,Australian Open,2026-01-20,Grand Slam,Outdoor,Hard,1st Round,3,Bartunkova N.,Kasatkina D.,126,43.0,582,1227.0,7.0,6.0,0,6,6,3,2.0,1.0,Completed,2.75,1.44,,,2.88,1.45,2.78,1.43,2.8,1.55
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Shnaider D.,Gibson T.,22,119.0,1953,634.0,3.0,6.0,7,5,6,3,2.0,1.0,Completed,1.25,4.0,,,1.26,5.0,1.23,4.18,1.28,4.5
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Sonmez Z.,Bondar A.,112,74.0,694,913.0,6.0,2.0,6,4,,,2.0,0.0,Completed,1.62,2.3,,,1.72,2.3,1.66,2.19,1.72,2.36
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Svitolina E.,Klimovicova L.,12,134.0,2856,538.0,7.0,5.0,6,1,,,2.0,0.0,Completed,1.1,7.0,,,1.14,7.0,1.11,6.52,1.12,9.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Sabalenka A.,Bai Z.,1,702.0,10990,55.0,6.0,3.0,6,1,,,2.0,0.0,Completed,1.01,29.0,,,1.02,34.0,1.01,22.65,1.01,50.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Putintseva Y.,Jacquemot E.,94,60.0,799,1070.0,6.0,1.0,6,2,,,2.0,0.0,Completed,1.36,3.2,,,1.42,3.2,1.38,3.0,1.4,3.4
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Baptiste H.,Hunter S.,70,367.0,979,169.0,6.0,2.0,6,1,,,2.0,0.0,Completed,1.62,2.3,,,1.65,2.38,1.61,2.27,1.76,2.28
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Mboko V.,McNally C.,16,85.0,2447,836.0,6.0,4.0,6,3,,,2.0,0.0,Completed,1.3,3.5,,,1.35,3.5,1.32,3.31,1.35,3.75
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Tauson C.,Kudermetova P.,14,150.0,2530,490.0,6.0,3.0,3,6,7,5,2.0,1.0,Completed,1.44,2.75,,,1.5,2.9,1.43,2.77,1.45,3.15
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Potapova A.,Raducanu E.,55,29.0,1106,1607.0,7.0,6.0,6,2,,,2.0,0.0,Completed,3.2,1.36,,,3.6,1.4,3.13,1.35,3.15,1.45
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Gauff C.,Danilovic O.,3,69.0,6423,981.0,6.0,2.0,6,2,,,2.0,0.0,Completed,1.08,8.0,,,1.11,10.0,1.09,7.38,1.11,9.6
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Ruse E.G.,Tomljanovic A.,79,78.0,872,881.0,6.0,4.0,6,4,,,2.0,0.0,Completed,1.67,2.2,,,1.7,2.5,1.66,2.2,1.74,2.32
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Linette M.,Li A.,50,38.0,1157,1316.0,6.0,3.0,6,3,,,2.0,0.0,Completed,2.1,1.73,,,2.2,1.73,2.12,1.71,2.32,1.74
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Muchova K.,Parks A.,19,99.0,2083,770.0,4.0,6.0,6,4,6,4,2.0,1.0,Completed,1.08,8.0,,,1.1,8.0,1.09,7.23,1.12,8.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Andreeva M.,Sakkari M.,7,53.0,4731,1133.0,6.0,0.0,6,4,,,2.0,0.0,Completed,1.17,5.0,,,1.18,5.25,1.17,4.89,1.2,5.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Paolini J.,Frech M.,8,57.0,4267,1093.0,6.0,2.0,6,3,,,2.0,0.0,Completed,1.25,4.0,,,1.26,4.33,1.25,3.89,1.3,4.2
+WTA,2026,5,Melbourne,Australian Open,2026-01-21,Grand Slam,Outdoor,Hard,2nd Round,3,Jovic I.,Hon P.,27,121.0,1671,620.0,6.0,1.0,6,2,,,2.0,0.0,Completed,1.14,5.5,,,1.18,5.5,1.17,4.87,1.21,5.4
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Keys M.,Krueger A.,9,62.0,4111,1026.0,6.0,1.0,7,5,,,2.0,0.0,Completed,1.2,4.5,,,1.25,4.75,1.21,4.29,1.25,4.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Selekhmeteva O.,Badosa P.,101,26.0,769,1676.0,6.0,4.0,6,4,,,2.0,0.0,Completed,4,1.25,,,4.0,1.27,3.85,1.26,4.3,1.28
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Pegula J.,Kessler M.,6,37.0,5453,1335.0,6.0,0.0,6,2,,,2.0,0.0,Completed,1.22,4.33,,,1.25,4.33,1.23,4.1,1.26,4.7
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Pliskova Ka.,Tjen J.,1057,59.0,16,1075.0,6.0,4.0,6,4,,,2.0,0.0,Completed,3.5,1.3,,,3.66,1.34,3.44,1.31,3.75,1.36
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Kalinskaya A.,Grabher J.,33,95.0,1511,799.0,6.0,3.0,6,3,,,2.0,0.0,Completed,1.08,8.0,,,1.11,8.0,1.09,7.04,1.11,9.4
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Inglis M.,Siegemund L.,168,48.0,418,1171.0,6.0,4.0,6,7,7,6,2.0,1.0,Completed,2.3,1.62,,,2.3,1.68,2.22,1.64,2.5,1.65
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Wang Xin.,Ostapenko J.,46,24.0,1197,1741.0,4.0,6.0,6,4,6,4,2.0,1.0,Completed,1.62,2.3,,,1.67,2.3,1.64,2.22,1.65,2.5
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Noskova L.,Preston T.,13,161.0,2641,443.0,6.0,2.0,4,6,6,2,2.0,1.0,Completed,1.14,5.5,,,1.17,6.0,1.15,5.27,1.18,6.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Stearns P.,Marcinko P.,68,81.0,987,854.0,6.0,2.0,7,5,,,2.0,0.0,Completed,1.67,2.2,,,1.67,2.3,1.63,2.23,1.69,2.42
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Anisimova A.,Siniakova K.,4,45.0,6320,1215.0,6.0,1.0,6,4,,,2.0,0.0,Completed,1.29,3.75,,,1.29,3.75,1.29,3.58,1.29,4.3
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Mertens E.,Uchijima M.,21,88.0,1956,822.0,6.0,3.0,6,1,,,2.0,0.0,Completed,1.11,6.5,,,1.13,7.5,1.11,6.27,1.13,7.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Valentova T.,Fruhvirtova L.,54,132.0,1121,548.0,7.0,5.0,2,6,6,3,2.0,1.0,Completed,1.2,4.5,,,1.23,5.2,1.2,4.5,1.23,5.1
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Swiatek I.,Bouzkova M.,2,44.0,8328,1225.0,6.0,2.0,6,3,,,2.0,0.0,Completed,1.07,9.0,,,1.1,9.0,1.09,7.27,1.11,9.6
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Osaka N.,Cirstea S.,17,41.0,2366,1249.0,6.0,3.0,4,6,6,2,2.0,1.0,Completed,1.57,2.38,,,1.65,2.5,1.57,2.36,1.64,2.5
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Bartunkova N.,Bencic B.,126,10.0,582,3512.0,6.0,3.0,0,6,6,4,2.0,1.0,Completed,10,1.06,,,10.0,1.08,8.56,1.06,12.0,1.08
+WTA,2026,5,Melbourne,Australian Open,2026-01-22,Grand Slam,Outdoor,Hard,2nd Round,3,Rybakina E.,Gracheva V.,5,77.0,5850,887.0,7.0,5.0,6,2,,,2.0,0.0,Completed,1.04,13.0,,,1.04,13.0,1.03,11.46,1.05,20.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-23,Grand Slam,Outdoor,Hard,3rd Round,3,Mboko V.,Tauson C.,16,14.0,2447,2530.0,7.0,6.0,5,7,6,3,2.0,1.0,Completed,1.5,2.63,,,1.52,2.75,1.49,2.58,1.49,2.98
+WTA,2026,5,Melbourne,Australian Open,2026-01-23,Grand Slam,Outdoor,Hard,3rd Round,3,Sabalenka A.,Potapova A.,1,55.0,10990,1106.0,7.0,6.0,7,6,,,2.0,0.0,Completed,1.04,13.0,,,1.04,14.0,1.04,11.38,1.03,26.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-23,Grand Slam,Outdoor,Hard,3rd Round,3,Putintseva Y.,Sonmez Z.,94,112.0,799,694.0,6.0,3.0,6,7,6,3,2.0,1.0,Completed,1.73,2.1,,,1.83,2.15,1.74,2.07,1.82,2.2
+WTA,2026,5,Melbourne,Australian Open,2026-01-23,Grand Slam,Outdoor,Hard,3rd Round,3,Gauff C.,Baptiste H.,3,70.0,6423,979.0,3.0,6.0,6,0,6,3,2.0,1.0,Completed,1.06,10.0,,,1.08,10.0,1.07,8.27,1.09,11.5
+WTA,2026,5,Melbourne,Australian Open,2026-01-23,Grand Slam,Outdoor,Hard,3rd Round,3,Muchova K.,Linette M.,19,50.0,2083,1157.0,6.0,1.0,6,1,,,2.0,0.0,Completed,1.2,4.5,,,1.23,4.6,1.21,4.36,1.22,5.3
+WTA,2026,5,Melbourne,Australian Open,2026-01-23,Grand Slam,Outdoor,Hard,3rd Round,3,Jovic I.,Paolini J.,27,8.0,1671,4267.0,6.0,2.0,7,6,,,2.0,0.0,Completed,2.2,1.67,,,2.28,1.73,2.16,1.68,2.22,1.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-23,Grand Slam,Outdoor,Hard,3rd Round,3,Svitolina E.,Shnaider D.,12,22.0,2856,1953.0,7.0,6.0,6,3,,,2.0,0.0,Completed,1.5,2.63,,,1.53,2.75,1.49,2.58,1.51,2.92
+WTA,2026,5,Melbourne,Australian Open,2026-01-23,Grand Slam,Outdoor,Hard,3rd Round,3,Andreeva M.,Ruse E.G.,7,79.0,4731,872.0,6.0,3.0,6,4,,,2.0,0.0,Completed,1.1,7.0,,,1.13,7.5,1.11,6.23,1.13,8.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-23,Grand Slam,Outdoor,Hard,3rd Round,3,Pegula J.,Selekhmeteva O.,6,101.0,5453,769.0,6.0,3.0,6,2,,,2.0,0.0,Completed,1.05,11.0,,,1.06,11.0,1.05,9.35,1.08,12.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-23,Grand Slam,Outdoor,Hard,3rd Round,3,Keys M.,Pliskova Ka.,9,1057.0,4111,16.0,6.0,3.0,6,3,,,2.0,0.0,Completed,1.14,5.5,,,1.15,6.5,1.14,5.49,1.17,6.2
+WTA,2026,5,Melbourne,Australian Open,2026-01-24,Grand Slam,Outdoor,Hard,3rd Round,3,Anisimova A.,Stearns P.,4,68.0,6320,987.0,6.0,1.0,6,4,,,2.0,0.0,Completed,1.14,5.5,,,1.17,6.0,1.15,5.3,1.19,6.2
+WTA,2026,5,Melbourne,Australian Open,2026-01-24,Grand Slam,Outdoor,Hard,3rd Round,3,Wang Xin.,Noskova L.,46,13.0,1197,2641.0,7.0,5.0,6,4,,,2.0,0.0,Completed,2.75,1.44,,,2.9,1.5,2.71,1.45,2.98,1.49
+WTA,2026,5,Melbourne,Australian Open,2026-01-24,Grand Slam,Outdoor,Hard,3rd Round,3,Mertens E.,Bartunkova N.,21,126.0,1956,582.0,6.0,0.0,6,4,,,2.0,0.0,Completed,1.29,3.75,,,1.29,4.33,1.27,3.74,1.33,4.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-24,Grand Slam,Outdoor,Hard,3rd Round,3,Swiatek I.,Kalinskaya A.,2,33.0,8328,1511.0,6.0,1.0,1,6,6,1,2.0,1.0,Completed,1.22,4.33,,,1.25,4.5,1.22,4.15,1.26,4.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-24,Grand Slam,Outdoor,Hard,3rd Round,3,Inglis M.,Osaka N.,168,17.0,418,2366.0,,,,,,,,,Walkover,7,1.1,,,7.0,1.12,6.54,1.1,8.4,1.13
+WTA,2026,5,Melbourne,Australian Open,2026-01-24,Grand Slam,Outdoor,Hard,3rd Round,3,Rybakina E.,Valentova T.,5,54.0,5850,1121.0,6.0,2.0,6,3,,,2.0,0.0,Completed,1.17,5.0,,,1.2,5.0,1.18,4.78,1.19,6.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-25,Grand Slam,Outdoor,Hard,4th Round,3,Sabalenka A.,Mboko V.,1,16.0,10990,2447.0,6.0,1.0,7,6,,,2.0,0.0,Completed,1.14,5.5,,,1.17,5.75,1.16,5.22,1.18,6.2
+WTA,2026,5,Melbourne,Australian Open,2026-01-25,Grand Slam,Outdoor,Hard,4th Round,3,Jovic I.,Putintseva Y.,27,94.0,1671,799.0,6.0,0.0,6,1,,,2.0,0.0,Completed,1.29,3.75,,,1.44,4.0,1.29,3.59,1.29,4.3
+WTA,2026,5,Melbourne,Australian Open,2026-01-25,Grand Slam,Outdoor,Hard,4th Round,3,Gauff C.,Muchova K.,3,19.0,6423,2083.0,6.0,1.0,3,6,6,3,2.0,1.0,Completed,1.44,2.75,,,1.49,2.8,1.45,2.71,1.48,3.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-25,Grand Slam,Outdoor,Hard,4th Round,3,Svitolina E.,Andreeva M.,12,7.0,2856,4731.0,6.0,2.0,6,4,,,2.0,0.0,Completed,2.5,1.53,,,2.7,1.57,2.53,1.51,2.72,1.57
+WTA,2026,5,Melbourne,Australian Open,2026-01-26,Grand Slam,Outdoor,Hard,4th Round,3,Pegula J.,Keys M.,6,9.0,5453,4111.0,6.0,3.0,6,4,,,2.0,0.0,Completed,1.62,2.3,,,1.65,2.5,1.59,2.33,1.63,2.58
+WTA,2026,5,Melbourne,Australian Open,2026-01-26,Grand Slam,Outdoor,Hard,4th Round,3,Anisimova A.,Wang Xin.,4,46.0,6320,1197.0,7.0,6.0,6,4,,,2.0,0.0,Completed,1.14,5.5,,,1.17,6.5,1.14,5.5,1.16,7.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-26,Grand Slam,Outdoor,Hard,4th Round,3,Rybakina E.,Mertens E.,5,21.0,5850,1956.0,6.0,1.0,6,3,,,2.0,0.0,Completed,1.14,5.5,,,1.18,5.5,1.15,5.22,1.17,6.4
+WTA,2026,5,Melbourne,Australian Open,2026-01-26,Grand Slam,Outdoor,Hard,4th Round,3,Swiatek I.,Inglis M.,2,168.0,8328,418.0,6.0,0.0,6,3,,,2.0,0.0,Completed,1.01,23.0,,,1.02,23.0,1.01,16.77,1.02,34.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-27,Grand Slam,Outdoor,Hard,Quarterfinals,3,Sabalenka A.,Jovic I.,1,27.0,10990,1671.0,6.0,3.0,6,0,,,2.0,0.0,Completed,1.14,5.5,,,1.16,6.0,1.14,5.41,1.17,6.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-27,Grand Slam,Outdoor,Hard,Quarterfinals,3,Svitolina E.,Gauff C.,12,3.0,2856,6423.0,6.0,1.0,6,2,,,2.0,0.0,Completed,2.63,1.5,,,2.8,1.55,2.58,1.5,2.68,1.59
+WTA,2026,5,Melbourne,Australian Open,2026-01-28,Grand Slam,Outdoor,Hard,Quarterfinals,3,Rybakina E.,Swiatek I.,5,2.0,5850,8328.0,7.0,5.0,6,1,,,2.0,0.0,Completed,1.67,2.2,,,1.75,2.2,1.71,2.13,1.78,2.26
+WTA,2026,5,Melbourne,Australian Open,2026-01-28,Grand Slam,Outdoor,Hard,Quarterfinals,3,Pegula J.,Anisimova A.,6,4.0,5453,6320.0,6.0,2.0,7,6,,,2.0,0.0,Completed,2.1,1.73,,,2.1,1.83,2.05,1.76,2.24,1.8
+WTA,2026,5,Melbourne,Australian Open,2026-01-29,Grand Slam,Outdoor,Hard,Semifinals,3,Sabalenka A.,Svitolina E.,1,12.0,10990,2856.0,6.0,2.0,6,3,,,2.0,0.0,Completed,1.2,4.5,,,1.29,4.6,1.22,4.19,1.24,5.0
+WTA,2026,5,Melbourne,Australian Open,2026-01-29,Grand Slam,Outdoor,Hard,Semifinals,3,Rybakina E.,Pegula J.,5,6.0,5850,5453.0,6.0,3.0,7,6,,,2.0,0.0,Completed,1.44,2.75,,,1.48,2.95,1.43,2.77,1.47,3.1
+WTA,2026,5,Melbourne,Australian Open,2026-01-31,Grand Slam,Outdoor,Hard,The Final,3,Rybakina E.,Sabalenka A.,5,1.0,5850,10990.0,6.0,4.0,4,6,6,4,2.0,1.0,Completed,2.38,1.62,,,2.48,1.63,2.36,1.6,2.48,1.67
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,McNally C.,Tomljanovic A.,63,100.0,1018,784.0,3.0,6.0,7,6,6,3,2.0,1.0,Completed,1.3,3.5,,,1.4,3.5,1.35,3.13,1.39,3.5
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Kostyuk M.,Selekhmeteva O.,15,88.0,2387,865.0,6.0,2.0,6,3,	,,2.0,0.0,Completed,1.06,10.0,,,1.07,10.0,1.06,8.77,1.08,12.5
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Bouzkova M.,Bronzetti L.,28,172.0,1631,448.0,6.0,3.0,6,1,,	,2.0,0.0,Completed,1.22,4.33,,,1.25,4.4,1.22,4.17,1.24,4.8
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Wang Xin.,Tagger L.,34,90.0,1371,857.0,6.0,3.0,3,6,6,4,2.0,1.0,Completed,2.3,1.62,,,2.5,1.62,2.33,1.58,2.5,1.65
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Bencic B.,Kraus S.,11,98.0,3145,795.0,6.0,2.0,6,3,,	,2.0,0.0,Completed,1.22,4.33,,,1.29,4.33,1.25,3.9,1.28,4.5
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Volynets K.,Burel C.,108,1486.0,705,3.0,6.0,3.0,6,1,	,,2.0,0.0,Completed,1.2,4.5,,,1.2,4.8,1.19,4.51,1.23,5.1
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Starodubtseva Y.,Blinkova A.,55,103.0,1093,733.0,6.0,3.0,6,1,,	,2.0,0.0,Completed,1.29,3.75,,,1.36,3.75,1.32,3.33,1.38,3.55
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Wang Xiy.,Kovinic D.,148,,516,,6.0,3.0,6,1,,	,2.0,0.0,Completed,1.04,13.0,,,1.04,15.0,1.03,11.75,1.04,17.5
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Linette M.,Valentova T.,73,42.0,931,1265.0,5.0,7.0,6,4,7,6,2.0,1.0,Completed,3.75,1.29,,,4.1,1.3,3.75,1.26,4.1,1.32
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Baptiste H.,Krejcikova B.,26,41.0,1683,1271.0,6.0,7.0,7,6,6,2,2.0,1.0,Completed,1.73,2.1,,,1.8,2.12,1.73,2.07,1.83,2.16
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Korpatsch T.,Sorribes Tormo S.,95,304.0,829,226.0,6.0,4.0,6,2,,	,2.0,0.0,Completed,1.73,2.1,,,1.73,2.2,1.71,2.1,1.81,2.22
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Jones F.,Haddad Maia B.,102,105.0,736,724.0,1.0,6.0,7,6,6,2,2.0,1.0,Completed,1.62,2.3,,,1.68,2.38,1.61,2.28,1.64,2.5
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Frech M.,Ruse E.G.,46,77.0,1238,918.0,7.0,6.0,2,1,	,,1.0,0.0,Retired,2.3,1.62,,,2.34,1.63,2.25,1.61,2.4,1.7
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Andreeva M.,Ferro F.,8,181.0,4181,418.0,6.0,3.0,6,3,	,,2.0,0.0,Completed,1.04,13.0,,,1.05,14.0,1.04,11.25,1.05,18.5
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Sierra S.,Raducanu E.,68,39.0,974,1301.0,6.0,0.0,7,6,,	,2.0,0.0,Completed,1.57,2.38,,,1.58,2.63,1.53,2.46,1.6,2.6
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Snigur D.,Tauson C.,93,20.0,839,1920.0,3.0,6.0,7,5,6,2,2.0,1.0,Completed,2.38,1.57,,,2.5,1.57,2.41,1.55,2.62,1.61
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Bejlek S.,Stephens S.,35,363.0,1369,173.0,6.0,3.0,6,2,	,,2.0,0.0,Completed,1.57,2.38,,,1.62,2.42,1.58,2.33,1.69,2.42
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Stearns P.,Kenin S.,78,87.0,915,867.0,6.0,3.0,6,3,,	,2.0,0.0,Completed,1.44,2.75,,,1.5,2.75,1.47,2.64,,
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Bassols M.,Arango E.,175,94.0,438,833.0,6.0,3.0,6,4,	,,2.0,0.0,Completed,2,1.8,,,2.0,1.95,1.86,1.9,1.94,2.02
+WTA,2026,24,Paris,French Open,2026-05-24,Grand Slam,Outdoor,Clay,1st Round,3,Cirstea S.,Efremova K.,18,623.0,1985,75.0,6.0,3.0,6,1,,	,2.0,0.0,Completed,1.03,15.0,,,1.04,17.0,1.03,12.75,1.07,14.5
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Teichmann J.,Samsonova L.,170,27.0,449,1635.0,6.0,4.0,6,4,,	,2.0,0.0,Completed,3.75,1.29,,,4.0,1.3,3.58,1.28,4.1,1.31
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Chwalinska M.,Zheng Q.,114,56.0,693,1080.0,6.0,4.0,6,0,	,,2.0,0.0,Completed,3.5,1.3,,,3.75,1.33,3.48,1.3,4.0,1.31
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Kasatkina D.,Sonmez Z.,53,66.0,1119,1003.0,6.0,4.0,6,4,	,,2.0,0.0,Completed,1.4,3.0,,,1.42,3.0,1.4,2.91,1.42,3.35
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Paolini J.,Yastremska D.,13,45.0,2787,1246.0,7.0,5.0,6,3,	,,2.0,0.0,Completed,1.53,2.5,,,1.57,2.55,1.53,2.47,1.61,2.58
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Bandecchi S.,Bucsa C.,215,33.0,337,1406.0,6.0,4.0,2,6,6,4,2.0,1.0,Completed,3.2,1.36,,,3.3,1.4,3.13,1.35,3.35,1.41
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Swiatek I.,Jones E.,3,136.0,7273,557.0,6.0,1.0,6,2,,	,2.0,0.0,Completed,-,34.0,,,1.01,51.0,1.01,25.25,1.01,50.0
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Grabher J.,Sramkova R.,121,125.0,661,640.0,6.0,2.0,6,2,	,,2.0,0.0,Completed,2.63,1.5,,,2.63,1.53,2.55,1.5,2.74,1.56
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Mertens E.,Maria T.,21,54.0,1858,1111.0,7.0,5.0,6,0,,	,2.0,0.0,Completed,1.05,11.0,,,1.07,11.0,1.06,9.45,1.07,13.0
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Rybakina E.,Erjavec V.,2,84.0,8313,873.0,6.0,2.0,6,2,,	,2.0,0.0,Completed,1.01,21.0,,,1.03,34.0,1.02,18.25,1.02,34.0
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Lys E.,Marcinko P.,81,51.0,901,1140.0,6.0,3.0,6,0,,	,2.0,0.0,Completed,2.1,1.73,,,2.15,1.8,2.06,1.73,2.28,1.76
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Svitolina E.,Bondar A.,7,57.0,4315,1047.0,3.0,6.0,6,1,7,6,2.0,1.0,Completed,1.14,5.5,,,1.17,6.0,1.14,5.44,1.16,6.8
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Potapova A.,Joint M.,30,52.0,1470,1130.0,6.0,1.0,6,2,,	,2.0,0.0,Completed,1.11,6.5,,,1.14,7.0,1.12,6.1,,
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Putintseva Y.,Gibson T.,76,58.0,918,1040.0,4.0,6.0,6,4,6,1,2.0,1.0,Completed,1.36,3.2,,,1.4,3.3,1.35,3.13,1.4,3.45
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Quevedo K.,Jeanjean L.,126,122.0,622,653.0,7.0,6.0,7,6,	,,2.0,0.0,Completed,2,1.8,,,2.07,1.88,1.98,1.8,,
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Golubic V.,Udvardy P.,82,59.0,901,1029.0,6.0,0.0,6,2,,	,2.0,0.0,Completed,2.1,1.73,,,2.18,1.75,2.09,1.71,2.28,1.77
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Anisimova A.,Rakotomanga Rajaonah T.,6,153.0,5958,494.0,6.0,3.0,6,1,,	,2.0,0.0,Completed,1.06,10.0,,,1.08,11.0,1.06,9.07,1.08,12.0
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Rakhimova K.,Cristian J.,89,32.0,860,1414.0,6.0,3.0,4,6,6,4,2.0,1.0,Completed,3.5,1.3,,,3.75,1.32,3.54,1.28,,
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Ostapenko J.,Seidel E.,31,96.0,1464,818.0,6.0,4.0,6,4,	,,2.0,0.0,Completed,1.17,5.0,,,1.22,5.0,1.2,4.35,1.21,5.4
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Boulter K.,Urhobo A.,71,185.0,941,403.0,6.0,4.0,4,6,6,4,2.0,1.0,Completed,1.4,3.0,,,1.4,3.15,1.37,3.03,1.41,3.35
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Osorio M.,Alexandrova E.,86,14.0,868,2679.0,6.0,2.0,6,4,	,,2.0,0.0,Completed,1.73,2.1,,,1.73,2.2,1.67,2.16,1.75,2.3
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Kessler M.,Guo H.,48,166.0,1229,454.0,4.0,6.0,7,6,7,5,2.0,1.0,Completed,1.36,3.2,,,1.5,3.2,1.37,2.99,,
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Shnaider D.,Zarazua R.,23,74.0,1796,925.0,6.0,4.0,6,1,	,,2.0,0.0,Completed,1.13,6.0,,,1.14,6.0,1.13,5.69,1.15,6.8
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Parks A.,Fernandez L.A.,79,22.0,905,1844.0,6.0,4.0,6,4,	,,2.0,0.0,Completed,3.75,1.29,,,4.0,1.29,3.72,1.26,4.1,1.3
+WTA,2026,24,Paris,French Open,2026-05-25,Grand Slam,Outdoor,Clay,1st Round,3,Muchova K.,Zakharova A.,10,80.0,3318,903.0,7.0,5.0,6,2,,	,2.0,0.0,Completed,1.11,6.5,,,1.12,7.5,1.11,6.2,1.14,7.6
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Liu C.,Uchijima M.,182,107.0,417,707.0,3.0,6.0,6,0,4,1,1.0,1.0,Retired,1.67,2.2,,,1.73,2.2,1.7,2.11,1.78,2.26
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Jovic I.,Eala A.,17,37.0,2306,1340.0,6.0,4.0,6,2,	,,2.0,0.0,Completed,1.36,3.2,,,1.37,3.25,1.36,3.08,1.39,3.5
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Navarro E.,Tjen J.,25,40.0,1719,1292.0,6.0,4.0,6,3,	,,2.0,0.0,Completed,1.3,3.5,,,1.3,4.1,1.25,3.81,1.26,4.7
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Vekic D.,Tubello A.,72,226.0,933,317.0,6.0,3.0,6,2,	,,2.0,0.0,Completed,1.3,3.5,,,1.33,3.75,1.3,3.46,1.34,3.9
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Sabalenka A.,Bouzas Maneiro J.,1,50.0,9960,1200.0,6.0,4.0,6,2,	,,2.0,0.0,Completed,1.03,15.0,,,1.05,19.0,1.03,12.63,1.04,25.0
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Sakkari M.,Noskova L.,49,12.0,1208,3054.0,7.0,5.0,7,6,,	,2.0,0.0,Completed,3,1.4,,,3.1,1.4,2.95,1.38,3.35,1.41
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Li A.,Zhang S.,29,61.0,1601,1025.0,6.0,4.0,6,2,	,,2.0,0.0,Completed,1.36,3.2,,,1.37,3.75,1.34,3.17,1.39,3.5
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Sherif M.,Galfi D.,129,115.0,593,691.0,7.0,5.0,6,4,,	,2.0,0.0,Completed,2.1,1.73,,,2.2,1.75,2.09,1.71,2.18,1.82
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Osaka N.,Siegemund L.,16,47.0,2341,1230.0,6.0,3.0,7,6,,	,2.0,0.0,Completed,1.29,3.75,,,1.3,3.8,1.28,3.58,1.29,4.3
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Gauff C.,Townsend T.,4,75.0,6749,919.0,6.0,4.0,6,0,	,,2.0,0.0,Completed,1.1,7.0,,,1.12,7.5,1.1,6.59,1.12,8.6
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Ruzic A.,Krueger A.,64,120.0,1011,663.0,3.0,6.0,6,2,6,2,2.0,1.0,Completed,2.5,1.53,,,2.55,1.57,2.47,1.52,2.72,1.57
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Jacquemot E.,Fruhvirtova L.,67,149.0,984,506.0,6.0,4.0,6,3,,	,2.0,0.0,Completed,1.8,2.0,,,1.8,2.1,1.76,2.01,1.86,2.14
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Korneeva A.,Cocciaretto E.,117,38.0,685,1320.0,6.0,3.0,6,3,	,,2.0,0.0,Completed,2.75,1.44,,,2.8,1.47,2.69,1.45,2.96,1.5
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Parry D.,Kalinina A.,92,60.0,853,1026.0,0.0,6.0,6,2,6,4,2.0,1.0,Completed,3,1.4,,,3.0,1.41,2.89,1.4,3.05,1.47
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Kalinskaya A.,Boisson L.,24,43.0,1792,1264.0,6.0,2.0,6,2,	,,2.0,0.0,Completed,1.53,2.5,,,1.57,2.55,1.53,2.45,,
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Siniakova K.,Waltert S.,36,91.0,1362,856.0,6.0,4.0,7,6,,	,2.0,0.0,Completed,1.44,2.75,,,1.45,2.9,1.42,2.77,1.5,2.96
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Oliynykova O.,Pridankina E.,65,218.0,1005,330.0,6.0,1.0,6,2,,	,2.0,0.0,Completed,1.44,2.75,,,1.48,2.88,1.44,2.71,1.48,3.0
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Keys M.,Vandewinkel H.,19,99.0,1962,790.0,6.0,3.0,6,0,,	,2.0,0.0,Completed,1.14,5.5,,,1.17,7.0,1.13,5.93,1.17,6.6
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Mboko V.,Bartunkova N.,9,69.0,3710,970.0,6.0,1.0,6,2,	,,2.0,0.0,Completed,1.25,4.0,,,1.3,4.0,1.28,3.6,1.31,4.1
+WTA,2026,24,Paris,French Open,2026-05-26,Grand Slam,Outdoor,Clay,1st Round,3,Birrell K.,Pegula J.,83,5.0,880,6286.0,1.0,6.0,6,3,6,3,2.0,1.0,Completed,19,1.02,,,23.0,1.05,12.9,1.03,18.0,1.08
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Bencic B.,McNally C.,11,63.0,3145,1018.0,6.0,4.0,6,0,,	,2.0,0.0,Completed,1.29,3.75,,,1.3,3.75,1.29,3.54,1.31,4.1
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Korpatsch T.,Wang Xin.,95,34.0,829,1371.0,6.0,2.0,2,6,6,3,2.0,1.0,Completed,1.91,1.91,,,1.95,1.95,1.89,1.88,1.98,2.0
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Swiatek I.,Bejlek S.,3,35.0,7273,1369.0,6.0,2.0,6,3,,	,2.0,0.0,Completed,1.02,17.0,,,1.04,17.0,1.03,13.44,1.04,21.0
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Stearns P.,Snigur D.,78,93.0,915,839.0,6.0,4.0,6,0,,	,2.0,0.0,Completed,1.44,2.75,,,1.57,2.88,1.44,2.74,1.49,3.0
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Linette M.,Ostapenko J.,73,31.0,931,1464.0,6.0,2.0,2,6,6,2,2.0,1.0,Completed,4,1.25,,,4.0,1.29,3.78,1.26,4.1,1.3
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Svitolina E.,Quevedo K.,7,126.0,4315,622.0,6.0,0.0,6,4,	,,2.0,0.0,Completed,1.06,10.0,,,1.07,12.0,1.06,9.08,,
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Golubic V.,Parks A.,82,79.0,901,905.0,6.0,2.0,6,2,	,,2.0,0.0,Completed,1.91,1.91,,,1.95,1.91,1.9,1.86,2.0,1.98
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Kostyuk M.,Volynets K.,15,108.0,2387,705.0,6.0,7.0,6,3,6,3,2.0,1.0,Completed,1.11,6.5,,,1.14,6.5,1.13,5.9,1.14,7.8
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Bouzkova M.,Jones F.,28,102.0,1631,736.0,6.0,0.0,7,6,,	,2.0,0.0,Completed,1.29,3.75,,,1.29,3.9,1.27,3.68,1.3,4.2
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Starodubtseva Y.,Rybakina E.,55,2.0,1093,8313.0,3.0,6.0,6,1,7,6,2.0,1.0,Completed,9,1.06,,,9.5,1.08,8.2,1.07,8.6,1.12
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Teichmann J.,Frech M.,170,46.0,449,1238.0,7.0,5.0,6,4,	,,2.0,0.0,Completed,2.38,1.57,,,2.4,1.64,2.34,1.58,2.66,1.6
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Sierra S.,Paolini J.,68,13.0,974,2787.0,3.0,6.0,6,4,6,3,2.0,1.0,Completed,2.5,1.53,,,2.6,1.67,2.45,1.54,2.72,1.57
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Wang Xiy.,Baptiste H.,148,26.0,516,1683.0,5.0,4.0,,	,,,0.0,0.0,Retired,2.75,1.44,,,2.88,1.48,2.73,1.44,1.43,1.18
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Cirstea S.,Lys E.,18,81.0,1985,901.0,6.0,3.0,6,0,,	,2.0,0.0,Completed,1.22,4.33,,,1.23,4.4,1.21,4.23,1.27,4.6
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Andreeva M.,Bassols M.,8,175.0,4181,438.0,3.0,6.0,6,1,6,1,2.0,1.0,Completed,1.07,9.0,,,1.08,9.5,1.07,8.33,1.09,11.0
+WTA,2026,24,Paris,French Open,2026-05-27,Grand Slam,Outdoor,Clay,2nd Round,3,Muchova K.,Rakhimova K.,10,89.0,3318,860.0,6.0,2.0,6,2,,	,2.0,0.0,Completed,1.08,8.0,,,1.11,8.0,1.08,7.3,1.12,8.6
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Osaka N.,Vekic D.,16,72.0,2341,933.0,7.0,6.0,6,4,,	,2.0,0.0,Completed,1.29,3.75,,,1.3,3.75,1.29,3.53,1.33,3.95
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Oliynykova O.,Birrell K.,65,83.0,1005,880.0,6.0,3.0,0,6,7,6,2.0,1.0,Completed,1.44,2.75,,,1.45,2.88,1.42,2.77,1.46,3.1
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Jovic I.,Navarro E.,17,25.0,2306,1719.0,6.0,0.0,6,3,	,,2.0,0.0,Completed,1.8,2.0,,,1.83,2.02,1.8,1.97,1.88,2.12
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Shnaider D.,Kessler M.,23,48.0,1796,1229.0,7.0,6.0,6,1,	,,2.0,0.0,Completed,1.22,4.33,,,1.29,4.33,1.25,3.91,,
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Chwalinska M.,Mertens E.,114,21.0,693,1858.0,6.0,4.0,6,0,	,,2.0,0.0,Completed,2.63,1.5,,,2.75,1.5,2.71,1.45,2.9,1.51
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Osorio M.,Putintseva Y.,86,76.0,868,918.0,7.0,5.0,6,7,7,5,2.0,1.0,Completed,1.62,2.3,,,1.7,2.3,1.65,2.2,1.68,2.44
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Kalinskaya A.,Korneeva A.,24,117.0,1792,685.0,7.0,6.0,6,4,	,,2.0,0.0,Completed,1.4,3.0,,,1.4,3.1,1.39,2.94,1.45,3.1
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Sakkari M.,Liu C.,49,182.0,1208,417.0,6.0,7.0,6,3,6,3,2.0,1.0,Completed,1.44,2.75,,,1.5,2.8,1.46,2.67,1.5,2.96
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Kasatkina D.,Bandecchi S.,53,215.0,1119,337.0,7.0,5.0,7,6,	,,2.0,0.0,Completed,1.1,7.0,,,1.13,7.5,1.1,6.7,1.13,8.0
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Parry D.,Li A.,92,29.0,853,1601.0,6.0,3.0,6,4,,	,2.0,0.0,Completed,3,1.4,,,3.2,1.4,3.0,1.38,3.3,1.42
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Anisimova A.,Grabher J.,6,121.0,5958,661.0,6.0,0.0,,	,,,1.0,0.0,Retired,1.14,5.5,,,1.18,5.5,1.16,5.03,1.18,6.2
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Gauff C.,Sherif M.,4,129.0,6749,593.0,6.0,3.0,6,2,	,,2.0,0.0,Completed,1.03,15.0,,,1.04,15.0,1.03,12.38,1.05,18.0
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Keys M.,Ruzic A.,19,64.0,1962,1011.0,6.0,4.0,6,4,,	,2.0,0.0,Completed,1.13,6.0,,,1.15,6.0,1.13,5.7,1.16,7.0
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Sabalenka A.,Jacquemot E.,1,67.0,9960,984.0,7.0,5.0,6,2,	,,2.0,0.0,Completed,1.01,23.0,,,1.03,26.0,1.02,18.41,1.03,27.0
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Potapova A.,Boulter K.,30,71.0,1470,941.0,5.0,7.0,6,4,6,2,2.0,1.0,Completed,1.2,4.5,,,1.23,4.5,1.21,4.25,1.23,5.1
+WTA,2026,24,Paris,French Open,2026-05-28,Grand Slam,Outdoor,Clay,2nd Round,3,Mboko V.,Siniakova K.,9,36.0,3710,1362.0,5.0,7.0,6,4,6,2,2.0,1.0,Completed,1.3,3.5,,,1.3,3.75,1.29,3.51,1.35,3.75
+WTA,2026,24,Paris,French Open,2026-05-29,Grand Slam,Outdoor,Clay,3rd Round,3,Kostyuk M.,Golubic V.,15,82.0,2387,901.0,6.0,4.0,6,3,	,,2.0,0.0,Completed,1.08,8.0,,,1.09,9.5,1.07,8.14,1.09,11.5
+WTA,2026,24,Paris,French Open,2026-05-29,Grand Slam,Outdoor,Clay,3rd Round,3,Wang Xiy.,Starodubtseva Y.,148,55.0,516,1093.0,6.0,3.0,7,5,	,,2.0,0.0,Completed,2.5,1.53,,,2.55,1.54,2.49,1.52,,
+WTA,2026,24,Paris,French Open,2026-05-29,Grand Slam,Outdoor,Clay,3rd Round,3,Swiatek I.,Linette M.,3,73.0,7273,931.0,6.0,4.0,6,4,,	,2.0,0.0,Completed,1.03,15.0,,,1.04,21.0,1.03,14.0,1.05,17.5
+WTA,2026,24,Paris,French Open,2026-05-29,Grand Slam,Outdoor,Clay,3rd Round,3,Andreeva M.,Bouzkova M.,8,28.0,4181,1631.0,6.0,4.0,6,2,	,,2.0,0.0,Completed,1.13,6.0,,,1.14,6.0,1.13,5.6,1.17,6.6
+WTA,2026,24,Paris,French Open,2026-05-29,Grand Slam,Outdoor,Clay,3rd Round,3,Teichmann J.,Muchova K.,170,10.0,449,3318.0,6.0,1.0,7,5,	,,2.0,0.0,Completed,7,1.1,,,7.0,1.13,6.31,1.11,7.6,1.14
+WTA,2026,24,Paris,French Open,2026-05-29,Grand Slam,Outdoor,Clay,3rd Round,3,Cirstea S.,Sierra S.,18,68.0,1985,974.0,6.0,0.0,6,0,,	,2.0,0.0,Completed,1.25,4.0,,,1.3,4.0,1.27,3.65,1.33,4.0
+WTA,2026,24,Paris,French Open,2026-05-29,Grand Slam,Outdoor,Clay,3rd Round,3,Svitolina E.,Korpatsch T.,7,95.0,4315,829.0,6.0,2.0,6,3,	,,2.0,0.0,Completed,1.05,11.0,,,1.06,15.0,1.05,10.58,1.1,10.0
+WTA,2026,24,Paris,French Open,2026-05-29,Grand Slam,Outdoor,Clay,3rd Round,3,Bencic B.,Stearns P.,11,78.0,3145,915.0,6.0,3.0,6,3,,	,2.0,0.0,Completed,1.4,3.0,,,1.44,3.3,1.37,3.03,1.39,3.5
+WTA,2026,24,Paris,French Open,2026-05-30,Grand Slam,Outdoor,Clay,3rd Round,3,Osaka N.,Jovic I.,16,17.0,2341,2306.0,7.0,6.0,6,7,6,4,2.0,1.0,Completed,1.8,2.0,,,1.84,2.02,1.8,1.99,1.86,2.12
+WTA,2026,24,Paris,French Open,2026-05-30,Grand Slam,Outdoor,Clay,3rd Round,3,Chwalinska M.,Sakkari M.,114,49.0,693,1208.0,1.0,6.0,6,3,6,2,2.0,1.0,Completed,1.73,2.1,,,1.73,2.2,1.7,2.12,1.8,2.24
+WTA,2026,24,Paris,French Open,2026-05-30,Grand Slam,Outdoor,Clay,3rd Round,3,Shnaider D.,Oliynykova O.,23,65.0,1796,1005.0,7.0,5.0,6,1,	,,2.0,0.0,Completed,1.33,3.4,,,1.34,3.4,1.33,3.28,1.37,3.65
+WTA,2026,24,Paris,French Open,2026-05-30,Grand Slam,Outdoor,Clay,3rd Round,3,Parry D.,Anisimova A.,92,6.0,853,5958.0,6.0,3.0,4,6,7,6,2.0,1.0,Completed,4.5,1.2,,,4.7,1.24,4.39,1.21,5.1,1.23
+WTA,2026,24,Paris,French Open,2026-05-30,Grand Slam,Outdoor,Clay,3rd Round,3,Sabalenka A.,Kasatkina D.,1,53.0,9960,1119.0,6.0,0.0,7,5,	,,2.0,0.0,Completed,1.06,10.0,,,1.08,10.0,1.07,8.61,1.08,12.5
+WTA,2026,24,Paris,French Open,2026-05-30,Grand Slam,Outdoor,Clay,3rd Round,3,Kalinskaya A.,Osorio M.,24,86.0,1792,868.0,6.0,3.0,0,6,6,2,2.0,1.0,Completed,1.8,2.0,,,1.85,2.1,1.79,1.98,1.85,2.14
+WTA,2026,24,Paris,French Open,2026-05-30,Grand Slam,Outdoor,Clay,3rd Round,3,Potapova A.,Gauff C.,30,4.0,1470,6749.0,4.0,6.0,7,6,6,4,2.0,1.0,Completed,4,1.25,,,4.0,1.33,3.78,1.26,4.1,1.3
+WTA,2026,24,Paris,French Open,2026-05-30,Grand Slam,Outdoor,Clay,3rd Round,3,Keys M.,Mboko V.,19,9.0,1962,3710.0,6.0,3.0,5,7,7,5,2.0,1.0,Completed,1.91,1.91,,,1.92,2.05,1.86,1.9,1.98,1.98
+WTA,2026,24,Paris,French Open,2026-05-31,Grand Slam,Outdoor,Clay,4th Round,3,Cirstea S.,Wang Xiy.,18,148.0,1985,516.0,6.0,3.0,7,6,	,,2.0,0.0,Completed,1.2,4.5,,,1.21,4.75,1.2,4.44,1.23,5.1
+WTA,2026,24,Paris,French Open,2026-05-31,Grand Slam,Outdoor,Clay,4th Round,3,Kostyuk M.,Swiatek I.,15,3.0,2387,7273.0,7.0,5.0,6,1,	,,2.0,0.0,Completed,3.2,1.36,,,3.5,1.37,3.22,1.34,3.7,1.35
+WTA,2026,24,Paris,French Open,2026-05-31,Grand Slam,Outdoor,Clay,4th Round,3,Svitolina E.,Bencic B.,7,11.0,4315,3145.0,4.0,6.0,6,4,6,0,2.0,1.0,Completed,1.53,2.5,,,1.54,2.63,1.51,2.51,1.56,2.74
+WTA,2026,24,Paris,French Open,2026-05-31,Grand Slam,Outdoor,Clay,4th Round,3,Andreeva M.,Teichmann J.,8,170.0,4181,449.0,6.0,3.0,6,2,	,,2.0,0.0,Completed,1.08,8.0,,,1.13,8.0,1.1,6.84,1.12,9.0
+WTA,2026,24,Paris,French Open,2026-06-01,Grand Slam,Outdoor,Clay,4th Round,3,Kalinskaya A.,Potapova A.,24,30.0,1792,1470.0,6.0,4.0,2,6,7,6,2.0,1.0,Completed,2.75,1.44,,,2.75,1.55,2.59,1.49,2.78,1.55
+WTA,2026,24,Paris,French Open,2026-06-01,Grand Slam,Outdoor,Clay,4th Round,3,Shnaider D.,Keys M.,23,19.0,1796,1962.0,6.0,3.0,3,6,6,0,2.0,1.0,Completed,2.2,1.67,,,2.24,1.7,2.17,1.67,2.38,1.71
+WTA,2026,24,Paris,French Open,2026-06-01,Grand Slam,Outdoor,Clay,4th Round,3,Chwalinska M.,Parry D.,114,92.0,693,853.0,6.0,3.0,6,2,	,,2.0,0.0,Completed,1.53,2.5,,,1.56,2.63,1.53,2.48,1.59,2.66
+WTA,2026,24,Paris,French Open,2026-06-01,Grand Slam,Outdoor,Clay,4th Round,3,Sabalenka A.,Osaka N.,1,16.0,9960,2341.0,7.0,5.0,6,3,	,,2.0,0.0,Completed,1.2,4.5,,,1.24,4.5,1.22,4.2,1.24,5.0
+WTA,2026,24,Paris,French Open,2026-06-02,Grand Slam,Outdoor,Clay,Quarterfinals,3,Andreeva M.,Cirstea S.,8,18.0,4181,1985.0,6.0,0.0,6,3,	,,2.0,0.0,Completed,1.5,2.63,,,1.5,2.8,1.47,2.64,1.51,2.94
+WTA,2026,24,Paris,French Open,2026-06-02,Grand Slam,Outdoor,Clay,Quarterfinals,3,Kostyuk M.,Svitolina E.,15,7.0,2387,4315.0,6.0,3.0,2,6,6,2,2.0,1.0,Completed,1.8,2.0,,,1.83,2.02,1.78,1.99,1.9,2.1
+WTA,2026,24,Paris,French Open,2026-06-03,Grand Slam,Outdoor,Clay,Quarterfinals,3,Chwalinska M.,Kalinskaya A.,114,24.0,693,1792.0,7.0,6.0,6,3,,	,2.0,0.0,Completed,2.1,1.73,,,2.1,1.78,2.08,1.73,2.18,1.83
+WTA,2026,24,Paris,French Open,2026-06-03,Grand Slam,Outdoor,Clay,Quarterfinals,3,Shnaider D.,Sabalenka A.,23,1.0,1796,9960.0,3.0,6.0,7,5,6,0,2.0,1.0,Completed,8,1.08,,,8.5,1.1,7.45,1.08,9.0,1.12
+WTA,2026,24,Paris,French Open,2026-06-04,Grand Slam,Outdoor,Clay,Semifinals,3,Andreeva M.,Kostyuk M.,8,15.0,4181,2387.0,6.0,1.0,6,3,,	,2.0,0.0,Completed,2.1,1.73,,,2.1,1.8,2.06,1.74,2.16,1.84
+WTA,2026,24,Paris,French Open,2026-06-04,Grand Slam,Outdoor,Clay,Semifinals,3,Chwalinska M.,Shnaider D.,114,23.0,693,1796.0,7.0,6.0,6,4,,	,2.0,0.0,Completed,2.5,1.53,,,2.53,1.57,2.42,1.55,2.56,1.63
+WTA,2026,24,Paris,French Open,2026-06-06,Grand Slam,Outdoor,Clay,The Final,3,Andreeva M.,Chwalinska M.,8,114.0,4181,693.0,6.0,3.0,6,2,,	,2.0,0.0,Completed,1.2,4.8,,,1.25,4.8,1.22,4.36,1.21,5.5

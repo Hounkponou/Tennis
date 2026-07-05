@@ -1,0 +1,509 @@
+Tour,Year,ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,IWW,IWL,SBW,SBL,B&WW,B&WL
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Agassi A.,Vahaly B.,2.0,93,7.0,5.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.063,7.5,,,1.02,6.0,,,1.02,7.5
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Ancic M.,Waske A.,88.0,120,6.0,3.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,1.727,2.0,,,1.6,1.9,,,1.6,1.95
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Arthurs W.,Daniel M.,52.0,241,6.0,7.0,3.0,6.0,7.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed,1.364,3.0,,,1.35,2.5,,,1.46,2.2
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Canas G.,Voltchkov V.,18.0,71,6.0,3.0,7.0,5.0,6.0,3.0,,,,,3.0,0.0,Completed,1.25,3.75,,,1.25,3.0,,,1.19,3.45
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Coria G.,Clavet F.,45.0,118,6.0,4.0,7.0,5.0,6.0,1.0,,,,,3.0,0.0,Completed,1.25,3.4,,,1.2,3.3,,,1.16,3.85
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Costa A.,Prinosil D.,8.0,213,6.0,4.0,6.0,1.0,3.0,6.0,7.0,6.0,,,3.0,1.0,Completed,1.333,3.25,,,1.2,3.3,,,1.18,3.5
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Draper S.,Kim A.,139.0,116,7.0,5.0,6.0,3.0,3.0,6.0,6.0,3.0,,,3.0,1.0,Completed,1.667,2.1,,,1.6,1.9,,,1.5,2.15
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Escude N.,Motomura G.,37.0,233,6.0,1.0,2.0,6.0,6.0,3.0,6.0,2.0,,,3.0,1.0,Completed,1.083,7.0,,,1.1,4.5,,,1.05,6.1
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Ferreira W.,Robredo T.,39.0,32,5.0,7.0,6.0,0.0,6.0,3.0,6.0,4.0,,,3.0,1.0,Completed,1.615,2.2,,,1.55,2.0,,,1.48,2.17
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Ferrero J.C.,Squillari F.,4.0,79,7.0,6.0,3.0,6.0,6.0,2.0,6.0,3.0,,,3.0,1.0,Completed,1.2,4.333,,,1.15,3.8,,,1.03,7.0
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Fish M.,Johansson J.,77.0,221,6.0,3.0,7.0,5.0,6.0,2.0,,,,,3.0,0.0,Completed,1.333,3.25,,,1.35,2.5,,,1.3,2.85
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Furlan R.,Pavel A.,184.0,25,4.0,1.0,,,,,,,,,0.0,0.0,Retired,3.25,1.333,,,2.5,1.35,,,3.0,1.25
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Gambill J.M.,Llodra M.,33.0,110,6.0,2.0,7.0,5.0,6.0,7.0,2.0,6.0,6.0,2.0,3.0,2.0,Completed,1.25,3.5,,,1.2,3.3,,,1.09,4.7
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Gaudio G.,Enqvist T.,21.0,47,7.0,5.0,7.0,5.0,6.0,2.0,,,,,3.0,0.0,Completed,2.0,1.727,,,1.75,1.75,,,1.7,1.8
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Grosjean S.,Meligeni F.,16.0,75,6.0,4.0,6.0,2.0,6.0,3.0,,,,,3.0,0.0,Completed,1.125,5.5,,,1.1,4.5,,,1.09,4.7
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Kafelnikov Y.,Morrison J.,27.0,99,7.0,6.0,6.0,3.0,4.0,6.0,6.0,3.0,,,3.0,1.0,Completed,1.444,2.625,,,1.35,2.5,,,1.53,2.07
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Kratochvil M.,Sanguinetti D.,78.0,48,6.0,3.0,6.0,0.0,6.0,3.0,,,,,3.0,0.0,Completed,1.727,2.0,,,1.8,1.7,,,1.75,1.75
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Kucera K.,Vacek J.,80.0,111,6.0,2.0,6.0,1.0,6.0,4.0,,,,,3.0,0.0,Completed,1.4,2.75,,,1.3,2.7,,,1.3,2.85
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Lapentti N.,Benneteau J.,30.0,253,6.0,0.0,6.0,4.0,6.0,0.0,,,,,3.0,0.0,Completed,1.286,3.5,,,1.3,2.7,,,1.21,3.35
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Lee H.T.,Ferrer D.,67.0,54,5.0,7.0,6.0,2.0,6.0,2.0,6.0,3.0,,,3.0,1.0,Completed,1.615,2.2,,,1.55,2.0,,,1.61,1.94
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Lisnard J.R.,Gaudenzi A.,89.0,121,6.0,4.0,2.0,6.0,6.0,1.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed,1.5,2.5,,,1.55,2.0,,,1.43,2.28
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Luczak P.,Savolt A.,178.0,97,7.0,5.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,Completed,1.727,2.0,,,1.55,2.0,,,1.58,1.97
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Mantilla F.,Zabaleta M.,73.0,46,4.0,6.0,7.0,5.0,6.0,3.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed,1.833,1.833,,,1.85,1.65,,,1.78,1.72
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Moya C.,Norman D.,5.0,98,7.0,5.0,6.0,3.0,6.0,4.0,,,,,3.0,0.0,Completed,1.083,7.0,,,1.1,4.5,,,1.06,5.5
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Nieminen J.,Davydenko N.,41.0,61,6.0,3.0,3.0,6.0,3.0,6.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed,1.833,1.833,,,1.75,1.75,,,1.8,1.7
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Philippoussis M.,Verkerk M.,104.0,85,6.0,4.0,6.0,4.0,6.0,7.0,6.0,3.0,,,3.0,1.0,Completed,1.286,3.5,,,1.3,2.7,,,1.23,3.17
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Rochus C.,Labadze I.,135.0,95,6.0,2.0,6.0,3.0,6.0,4.0,,,,,3.0,0.0,Completed,1.727,2.0,,,1.5,2.1,,,1.66,1.88
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Sanchez D.,Pless K.,60.0,82,5.0,7.0,6.0,3.0,1.0,6.0,6.0,4.0,10.0,8.0,3.0,2.0,Completed,2.25,1.571,,,2.0,1.55,,,2.05,1.55
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Santoro F.,Phau B.,34.0,157,6.0,4.0,6.0,3.0,6.0,4.0,,,,,3.0,0.0,Completed,1.333,3.25,,,1.25,3.0,,,1.2,3.45
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Sargsian S.,Calleri A.,94.0,51,6.0,4.0,3.0,6.0,7.0,6.0,6.0,0.0,,,3.0,1.0,Completed,2.25,1.571,,,1.8,1.7,,,1.9,1.65
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Schalken S.,Brasington J.,20.0,138,6.0,4.0,6.0,2.0,7.0,6.0,,,,,3.0,0.0,Completed,,,,,1.2,3.3,,,1.14,4.05
+ATP,2003,6,Melbourne,Australian Open,2003-01-13,Grand Slam,Outdoor,Hard,1st Round,5,Srichaphan P.,Melzer J.,14.0,90,7.0,5.0,6.0,4.0,1.0,6.0,6.0,0.0,,,3.0,1.0,Completed,1.083,7.0,,,1.05,5.0,,,1.04,6.5
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Acasuso J.,Carraz G.,42.0,130,5.0,7.0,4.0,3.0,,,,,,,0.0,1.0,Retired,1.833,1.833,,,1.9,1.6,,,1.9,1.65
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Blake J.,Vanek J.,28.0,219,7.0,6.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.125,5.5,,,1.1,4.5,1.071,7.0,1.04,7.0
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Burgsmuller L.,Balcells J.,76.0,109,6.0,4.0,7.0,5.0,7.0,5.0,,,,,3.0,0.0,Completed,1.615,2.2,,,1.6,1.9,1.615,2.2,1.48,2.17
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Chela J.I.,Beck K.,26.0,114,6.0,4.0,3.0,6.0,6.0,1.0,6.0,0.0,,,3.0,1.0,Completed,1.143,5.0,,,1.15,3.8,1.143,5.0,1.12,4.35
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Crabb J.,Ilie A.,206.0,525,6.0,3.0,3.0,6.0,7.0,6.0,6.0,4.0,,,3.0,1.0,Completed,1.533,2.375,,,1.5,2.1,,,1.47,2.18
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Dupuis A.,Diaz J.,70.0,433,6.0,4.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.222,4.0,,,1.15,3.8,1.167,4.5,1.13,4.25
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,El Aynaoui Y.,Gimelstob J.,22.0,106,2.0,6.0,4.0,6.0,6.0,4.0,1.0,0.0,,,1.0,2.0,Retired,1.167,4.5,,,1.15,3.8,1.167,4.5,1.14,4.05
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Federer R.,Saretta F.,6.0,83,7.0,6.0,7.0,5.0,6.0,3.0,,,,,3.0,0.0,Completed,1.125,5.5,,,1.15,3.8,,,1.09,4.7
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Ginepri R.,Rosset M.,101.0,103,6.0,3.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.533,2.375,,,1.45,2.2,1.5,2.5,1.38,2.42
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Gonzalez F.,Varlet J.,17.0,160,6.0,2.0,3.0,6.0,4.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed,1.167,4.5,,,1.15,3.8,,,1.12,4.35
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Hewitt L.,Larsson M.,1.0,155,6.0,3.0,3.0,6.0,6.0,1.0,6.0,7.0,6.0,2.0,3.0,2.0,Completed,1.04,9.0,,,1.03,5.5,,,1.04,6.75
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Knowle J.,Henry R.,131.0,578,5.0,7.0,6.0,4.0,6.0,2.0,7.0,5.0,,,3.0,1.0,Completed,1.8,1.909,,,1.7,1.8,,,1.75,1.75
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Krajicek R.,Reid T.,92.0,295,3.0,6.0,6.0,2.0,6.0,2.0,6.0,1.0,,,3.0,1.0,Completed,1.167,4.5,,,1.15,3.8,1.2,4.0,1.8,1.7
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Kuerten G.,Arazi H.,29.0,102,6.0,4.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,1.222,4.0,,,1.25,3.0,1.2,4.0,1.16,3.85
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Kutsenko V.,Ljubicic I.,185.0,50,6.0,3.0,6.0,4.0,1.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed,4.0,1.222,,,3.3,1.2,,,4.05,1.14
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Larkham T.,Mamiit C.,235.0,107,6.0,7.0,6.0,3.0,7.0,6.0,6.0,4.0,,,3.0,1.0,Completed,2.375,1.533,,,1.9,1.6,,,2.28,1.43
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Lopez F.,Corretja A.,62.0,19,6.0,7.0,7.0,6.0,7.0,6.0,6.0,3.0,,,3.0,1.0,Completed,2.75,1.4,,,2.5,1.35,3.0,1.333,2.65,1.34
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Malisse X.,Hrbaty D.,23.0,44,6.0,2.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.615,2.2,,,1.7,1.8,1.909,1.8,1.75,1.75
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Martin A.,Bogomolov Jr. A.,66.0,169,6.0,2.0,6.0,4.0,6.0,7.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed,1.4,2.75,,,1.35,2.5,,,1.33,2.7
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Montanes A.,Puerta M.,81.0,117,6.0,2.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.533,2.375,,,1.55,2.0,1.533,2.375,1.48,2.17
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Nalbandian D.,Golmard J.,12.0,141,3.0,6.0,6.0,3.0,6.0,1.0,,,,,2.0,1.0,Retired,,,,,1.35,2.5,,,1.4,2.5
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Novak J.,Spadea V.,7.0,68,6.0,2.0,2.0,6.0,6.0,2.0,7.0,6.0,,,3.0,1.0,Completed,1.167,4.5,,,1.2,3.3,1.167,4.5,1.13,4.25
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Rochus O.,Di Pasquale A.,64.0,100,4.0,6.0,4.0,6.0,6.0,3.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed,1.727,2.0,,,1.75,1.75,1.833,1.833,1.62,1.93
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Roddick A.,Krajan Z.,10.0,105,6.0,7.0,6.0,2.0,7.0,6.0,6.0,3.0,,,3.0,1.0,Completed,,,,,1.05,5.0,1.063,7.0,1.04,7.0
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Safin M.,Sluiter R.,3.0,72,6.0,4.0,4.0,6.0,6.0,3.0,6.0,4.0,,,3.0,1.0,Completed,,,,,1.2,3.3,,,1.17,3.7
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Schuettler R.,Portas A.,36.0,86,6.0,3.0,6.0,2.0,6.0,0.0,,,,,3.0,0.0,Completed,1.125,5.5,,,1.15,3.8,1.125,5.5,1.09,4.7
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Sirianni J.,Mirnyi M.,252.0,49,6.0,3.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,9.0,1.04,,,5.0,1.05,8.0,1.05,5.4,1.07
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Stepanek R.,Carlsen K.,69.0,63,6.0,0.0,7.0,5.0,6.0,1.0,,,,,3.0,0.0,Completed,1.909,1.8,,,1.9,1.6,,,1.75,1.75
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Vicente F.,Horna L.,58.0,87,3.0,6.0,4.0,6.0,6.0,3.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed,1.4,2.75,,,1.35,2.5,1.4,2.75,1.4,2.4
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Vinciguerra A.,Koubek S.,145.0,35,6.0,4.0,6.0,4.0,6.0,1.0,,,,,3.0,0.0,Completed,2.5,1.5,,,2.3,1.4,,,2.25,1.45
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Voinea A.,Sa A.,59.0,65,6.0,2.0,7.0,6.0,6.0,4.0,,,,,3.0,0.0,Completed,,,,,1.75,1.75,1.727,2.0,2.05,1.54
+ATP,2003,6,Melbourne,Australian Open,2003-01-14,Grand Slam,Outdoor,Hard,1st Round,5,Youzhny M.,Gasquet R.,31.0,156,3.0,6.0,6.0,0.0,6.0,1.0,6.0,4.0,,,3.0,1.0,Completed,1.4,2.75,,,1.4,2.3,1.4,2.75,1.38,2.42
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Agassi A.,Lee H.T.,2.0,67,6.0,1.0,6.0,0.0,6.0,0.0,,,,,3.0,0.0,Completed,1.125,5.5,,,1.15,3.8,1.111,5.5,1.09,4.7
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Ancic M.,Schalken S.,88.0,20,6.0,3.0,1.0,6.0,6.0,7.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed,2.75,1.4,,,2.5,1.35,2.875,1.364,3.0,1.27
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Coria G.,Canas G.,45.0,18,6.0,2.0,4.0,6.0,6.0,4.0,6.0,4.0,,,3.0,1.0,Completed,2.25,1.571,,,1.85,1.65,2.25,1.571,2.2,1.46
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Costa A.,Draper S.,8.0,139,6.0,4.0,6.0,7.0,6.0,2.0,6.0,3.0,,,3.0,1.0,Completed,1.4,2.75,,,1.45,2.2,1.4,2.75,1.43,2.28
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Escude N.,Rochus C.,37.0,135,1.0,6.0,6.0,2.0,6.0,2.0,6.0,4.0,,,3.0,1.0,Completed,1.25,3.75,,,1.25,3.0,1.222,3.75,1.18,3.5
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Ferreira W.,Kratochvil M.,39.0,78,6.0,2.0,6.0,2.0,7.0,5.0,,,,,3.0,0.0,Completed,1.444,2.625,,,1.4,2.3,1.444,2.625,1.38,2.42
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Ferrero J.C.,Lisnard J.R.,4.0,89,6.0,0.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.111,6.0,,,1.1,4.5,1.111,5.5,1.05,6.1
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Fish M.,Moya C.,77.0,5,3.0,6.0,7.0,6.0,6.0,4.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed,3.0,1.364,,,2.5,1.35,3.0,1.333,3.35,1.21
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Grosjean S.,Kucera K.,16.0,80,7.0,6.0,2.0,6.0,6.0,3.0,7.0,6.0,,,3.0,1.0,Completed,1.286,3.5,,,1.3,2.7,1.222,3.75,1.18,3.5
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Lapentti N.,Sanchez D.,30.0,60,6.0,1.0,6.0,0.0,2.0,6.0,6.0,2.0,,,3.0,1.0,Completed,1.364,3.0,,,1.3,2.7,,,1.23,3.17
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Luczak P.,Furlan R.,178.0,184,7.0,6.0,4.0,6.0,6.0,0.0,6.0,2.0,,,3.0,1.0,Completed,1.533,2.375,,,1.5,2.1,1.533,2.375,1.38,2.42
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Mantilla F.,Gambill J.M.,73.0,33,5.0,7.0,6.0,4.0,4.0,6.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed,2.5,1.5,,,2.3,1.4,,,2.42,1.38
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Nieminen J.,Kafelnikov Y.,41.0,27,6.0,3.0,6.0,3.0,3.0,6.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed,2.2,1.615,,,1.85,1.65,2.0,1.727,2.25,1.45
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Philippoussis M.,Srichaphan P.,104.0,14,3.0,6.0,6.0,1.0,1.0,6.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed,2.5,1.5,,,2.2,1.45,2.5,1.5,2.75,1.32
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Santoro F.,Arthurs W.,34.0,52,6.0,3.0,6.0,1.0,,,,,,,2.0,0.0,Retired,1.533,2.375,,,1.4,2.3,1.5,2.5,1.34,2.65
+ATP,2003,6,Melbourne,Australian Open,2003-01-15,Grand Slam,Outdoor,Hard,2nd Round,5,Sargsian S.,Gaudio G.,94.0,21,2.0,6.0,7.0,5.0,6.0,2.0,6.0,2.0,,,3.0,1.0,Completed,2.625,1.444,,,2.2,1.45,2.625,1.444,2.7,1.33
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Blake J.,Acasuso J.,28.0,42,6.0,1.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.111,6.0,,,1.1,4.5,1.1,6.0,1.05,6.1
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,El Aynaoui Y.,Kutsenko V.,22.0,185,6.0,2.0,6.0,1.0,6.0,4.0,,,,,3.0,0.0,Completed,1.25,3.75,,,1.15,3.8,1.2,4.0,1.14,4.05
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Federer R.,Burgsmuller L.,6.0,76,6.0,3.0,6.0,0.0,6.0,3.0,,,,,3.0,0.0,Completed,1.1,6.5,,,1.1,4.5,1.1,6.0,1.03,7.0
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Hewitt L.,Larkham T.,1.0,235,6.0,1.0,6.0,0.0,6.0,1.0,,,,,3.0,0.0,Completed,1.02,11.0,,,1.03,5.5,1.04,9.0,1.01,9.0
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Lopez F.,Ginepri R.,62.0,101,6.0,2.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.667,2.1,,,1.75,1.75,,,1.52,2.1
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Malisse X.,Dupuis A.,23.0,70,6.0,3.0,5.0,7.0,7.0,6.0,7.0,5.0,,,3.0,1.0,Completed,1.3,3.4,,,1.25,3.0,1.286,3.25,1.23,3.17
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Martin A.,Gonzalez F.,66.0,17,6.0,7.0,6.0,3.0,6.0,1.0,7.0,6.0,,,3.0,1.0,Completed,3.25,1.333,,,2.3,1.4,3.0,1.333,2.86,1.29
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Nalbandian D.,Crabb J.,12.0,206,6.0,1.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,1.286,3.5,,,1.3,2.7,,,1.23,3.17
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Novak J.,Rochus O.,7.0,64,7.0,6.0,7.0,6.0,4.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed,1.167,4.5,,,1.15,3.8,1.143,5.0,1.09,4.7
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Roddick A.,Voinea A.,10.0,59,6.0,2.0,6.0,2.0,6.0,2.0,,,,,3.0,0.0,Completed,1.167,4.5,,,1.15,3.8,,,1.11,4.7
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Safin M.,Montanes A.,3.0,81,6.0,3.0,4.0,6.0,6.0,4.0,6.0,1.0,,,3.0,1.0,Completed,1.083,7.0,,,1.05,5.0,1.063,8.0,1.02,7.5
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Schuettler R.,Krajicek R.,36.0,92,6.0,3.0,7.0,5.0,6.0,4.0,,,,,3.0,0.0,Completed,1.727,2.0,,,1.7,1.8,1.667,2.1,1.67,1.85
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Stepanek R.,Kuerten G.,69.0,29,5.0,7.0,6.0,3.0,7.0,5.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed,4.0,1.222,,,3.3,1.2,,,4.05,1.14
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Vicente F.,Chela J.I.,58.0,26,6.0,3.0,6.0,3.0,2.0,6.0,6.0,3.0,,,3.0,1.0,Completed,2.75,1.4,,,2.5,1.35,2.875,1.364,2.8,1.31
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Vinciguerra A.,Knowle J.,145.0,131,6.0,2.0,0.0,1.0,,,,,,,1.0,0.0,Retired,1.286,3.5,,,1.25,3.0,,,1.25,3.1
+ATP,2003,6,Melbourne,Australian Open,2003-01-16,Grand Slam,Outdoor,Hard,2nd Round,5,Youzhny M.,Sirianni J.,31.0,252,6.0,2.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.083,7.0,,,1.1,4.5,1.1,6.0,1.07,5.4
+ATP,2003,6,Melbourne,Australian Open,2003-01-17,Grand Slam,Outdoor,Hard,3rd Round,5,Agassi A.,Escude N.,2.0,37,6.0,2.0,3.0,6.0,6.0,3.0,6.0,4.0,,,3.0,1.0,Completed,1.167,4.5,,,1.1,4.5,,,1.07,5.4
+ATP,2003,6,Melbourne,Australian Open,2003-01-17,Grand Slam,Outdoor,Hard,3rd Round,5,Ancic M.,Luczak P.,88.0,178,2.0,6.0,7.0,6.0,6.0,4.0,6.0,2.0,,,3.0,1.0,Completed,1.5,2.5,,,1.4,2.3,,,1.43,2.28
+ATP,2003,6,Melbourne,Australian Open,2003-01-17,Grand Slam,Outdoor,Hard,3rd Round,5,Coria G.,Nieminen J.,45.0,41,7.0,5.0,6.0,2.0,6.0,2.0,,,,,3.0,0.0,Completed,1.667,2.1,,,1.6,1.9,,,1.56,2.0
+ATP,2003,6,Melbourne,Australian Open,2003-01-17,Grand Slam,Outdoor,Hard,3rd Round,5,Ferreira W.,Fish M.,39.0,77,2.0,6.0,3.0,6.0,6.0,1.0,6.0,4.0,6.0,0.0,3.0,2.0,Completed,1.667,2.1,,,1.6,1.9,,,1.67,1.85
+ATP,2003,6,Melbourne,Australian Open,2003-01-17,Grand Slam,Outdoor,Hard,3rd Round,5,Ferrero J.C.,Santoro F.,4.0,34,4.0,6.0,6.0,3.0,4.0,6.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed,1.286,3.5,,,1.25,3.0,,,1.2,3.45
+ATP,2003,6,Melbourne,Australian Open,2003-01-17,Grand Slam,Outdoor,Hard,3rd Round,5,Grosjean S.,Lapentti N.,16.0,30,6.0,1.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.4,2.75,,,1.45,2.2,,,1.31,2.8
+ATP,2003,6,Melbourne,Australian Open,2003-01-17,Grand Slam,Outdoor,Hard,3rd Round,5,Mantilla F.,Costa A.,73.0,8,3.0,6.0,6.0,3.0,4.0,6.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed,2.0,1.727,,,1.85,1.65,,,2.15,1.5
+ATP,2003,6,Melbourne,Australian Open,2003-01-17,Grand Slam,Outdoor,Hard,3rd Round,5,Sargsian S.,Philippoussis M.,94.0,104,5.0,7.0,7.0,5.0,6.0,0.0,6.0,4.0,,,3.0,1.0,Completed,3.5,1.286,,,3.0,1.25,,,3.1,1.25
+ATP,2003,6,Melbourne,Australian Open,2003-01-18,Grand Slam,Outdoor,Hard,3rd Round,5,Blake J.,Martin A.,28.0,66,6.0,3.0,4.0,6.0,6.0,2.0,6.0,2.0,,,3.0,1.0,Completed,,,,,,,,,,
+ATP,2003,6,Melbourne,Australian Open,2003-01-18,Grand Slam,Outdoor,Hard,3rd Round,5,El Aynaoui Y.,Lopez F.,22.0,62,5.0,7.0,6.0,2.0,7.0,6.0,7.0,6.0,,,3.0,1.0,Completed,,,,,,,,,,
+ATP,2003,6,Melbourne,Australian Open,2003-01-18,Grand Slam,Outdoor,Hard,3rd Round,5,Federer R.,Vinciguerra A.,6.0,145,6.0,3.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,,,,,,,,,,
+ATP,2003,6,Melbourne,Australian Open,2003-01-18,Grand Slam,Outdoor,Hard,3rd Round,5,Hewitt L.,Stepanek R.,1.0,69,6.0,3.0,6.0,2.0,6.0,0.0,,,,,3.0,0.0,Completed,,,,,,,,,,
+ATP,2003,6,Melbourne,Australian Open,2003-01-18,Grand Slam,Outdoor,Hard,3rd Round,5,Nalbandian D.,Malisse X.,12.0,23,4.0,6.0,6.0,2.0,6.0,0.0,3.0,0.0,,,2.0,1.0,Retired,,,,,,,,,,
+ATP,2003,6,Melbourne,Australian Open,2003-01-18,Grand Slam,Outdoor,Hard,3rd Round,5,Roddick A.,Vicente F.,10.0,58,6.0,2.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,,,,,,,,,,
+ATP,2003,6,Melbourne,Australian Open,2003-01-18,Grand Slam,Outdoor,Hard,3rd Round,5,Schuettler R.,Safin M.,36.0,3,,,,,,,,,,,0.0,0.0,Walkover,,,,,,,,,,
+ATP,2003,6,Melbourne,Australian Open,2003-01-18,Grand Slam,Outdoor,Hard,3rd Round,5,Youzhny M.,Novak J.,31.0,7,6.0,1.0,3.0,6.0,6.0,3.0,6.0,2.0,,,3.0,1.0,Completed,,,,,,,,,,
+ATP,2003,6,Melbourne,Australian Open,2003-01-19,Grand Slam,Outdoor,Hard,4th Round,5,Agassi A.,Coria G.,2.0,45,6.0,1.0,3.0,1.0,,,,,,,1.0,0.0,Retired,1.125,5.5,,,1.15,3.8,1.1,6.0,1.04,6.25
+ATP,2003,6,Melbourne,Australian Open,2003-01-19,Grand Slam,Outdoor,Hard,4th Round,5,Ferreira W.,Sargsian S.,39.0,94,6.0,3.0,6.0,4.0,3.0,6.0,6.0,3.0,,,3.0,1.0,Completed,1.571,2.25,,,1.45,2.2,1.615,2.2,1.58,1.97
+ATP,2003,6,Melbourne,Australian Open,2003-01-19,Grand Slam,Outdoor,Hard,4th Round,5,Ferrero J.C.,Ancic M.,4.0,88,6.0,0.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.167,4.5,,,1.15,3.8,1.2,4.0,1.14,4.05
+ATP,2003,6,Melbourne,Australian Open,2003-01-19,Grand Slam,Outdoor,Hard,4th Round,5,Grosjean S.,Mantilla F.,16.0,73,3.0,6.0,2.0,6.0,6.0,3.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed,1.222,4.0,,,1.25,3.0,1.2,4.0,1.14,4.05
+ATP,2003,6,Melbourne,Australian Open,2003-01-20,Grand Slam,Outdoor,Hard,4th Round,5,El Aynaoui Y.,Hewitt L.,22.0,1,6.0,7.0,7.0,6.0,7.0,6.0,6.0,4.0,,,3.0,1.0,Completed,6.0,1.111,,,4.5,1.1,6.0,1.1,6.25,1.04
+ATP,2003,6,Melbourne,Australian Open,2003-01-20,Grand Slam,Outdoor,Hard,4th Round,5,Nalbandian D.,Federer R.,12.0,6,6.0,4.0,3.0,6.0,6.0,1.0,1.0,6.0,6.0,3.0,3.0,2.0,Completed,2.75,1.4,,,2.7,1.3,2.75,1.4,2.85,1.3
+ATP,2003,6,Melbourne,Australian Open,2003-01-20,Grand Slam,Outdoor,Hard,4th Round,5,Roddick A.,Youzhny M.,10.0,31,6.0,7.0,3.0,6.0,7.0,5.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed,1.571,2.25,,,1.45,2.2,1.533,2.375,1.36,2.5
+ATP,2003,6,Melbourne,Australian Open,2003-01-20,Grand Slam,Outdoor,Hard,4th Round,5,Schuettler R.,Blake J.,36.0,28,6.0,3.0,6.0,4.0,1.0,6.0,6.0,3.0,,,3.0,1.0,Completed,2.1,1.667,,,2.1,1.5,2.2,1.615,2.15,1.5
+ATP,2003,6,Melbourne,Australian Open,2003-01-21,Grand Slam,Outdoor,Hard,Quarterfinals,5,Agassi A.,Grosjean S.,2.0,16,6.0,3.0,6.0,2.0,6.0,2.0,,,,,3.0,0.0,Completed,1.222,4.0,,,1.2,3.3,1.167,4.5,1.14,4.05
+ATP,2003,6,Melbourne,Australian Open,2003-01-21,Grand Slam,Outdoor,Hard,Quarterfinals,5,Ferreira W.,Ferrero J.C.,39.0,4,7.0,6.0,7.0,6.0,6.0,1.0,,,,,3.0,0.0,Completed,3.25,1.333,,,2.5,1.35,3.5,1.25,2.7,1.33
+ATP,2003,6,Melbourne,Australian Open,2003-01-22,Grand Slam,Outdoor,Hard,Quarterfinals,5,Roddick A.,El Aynaoui Y.,10.0,22,4.0,6.0,7.0,6.0,4.0,6.0,6.0,4.0,21.0,19.0,3.0,2.0,Completed,1.667,2.1,,,1.55,2.0,1.667,2.1,1.5,2.0
+ATP,2003,6,Melbourne,Australian Open,2003-01-22,Grand Slam,Outdoor,Hard,Quarterfinals,5,Schuettler R.,Nalbandian D.,36.0,12,6.0,3.0,5.0,7.0,6.0,1.0,6.0,0.0,,,3.0,1.0,Completed,2.0,1.727,,,1.9,1.6,2.0,1.727,1.88,1.66
+ATP,2003,6,Melbourne,Australian Open,2003-01-23,Grand Slam,Outdoor,Hard,Semifinals,5,Agassi A.,Ferreira W.,2.0,39,6.0,2.0,6.0,2.0,6.0,3.0,,,,,3.0,0.0,Completed,1.111,6.0,,,1.15,3.8,1.1,6.0,1.06,5.6
+ATP,2003,6,Melbourne,Australian Open,2003-01-24,Grand Slam,Outdoor,Hard,Semifinals,5,Schuettler R.,Roddick A.,36.0,10,7.0,5.0,2.0,6.0,6.0,3.0,6.0,3.0,,,3.0,1.0,Completed,2.2,1.615,,,1.85,1.65,,,2.0,1.56
+ATP,2003,6,Melbourne,Australian Open,2003-01-26,Grand Slam,Outdoor,Hard,The Final,5,Agassi A.,Schuettler R.,2.0,36,6.0,2.0,6.0,2.0,6.0,1.0,,,,,3.0,0.0,Completed,1.118,6.25,,,1.15,3.8,1.125,5.5,1.09,4.7
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Zabaleta M.,Lopez F.,39.0,53,6.0,2.0,7.0,6.0,6.0,0.0,,,,,3.0,0.0,Completed,1.5,2.5,1.52,2.45,1.45,2.2,1.444,2.625,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Hrbaty D.,Srichaphan P.,62.0,10,6.0,4.0,3.0,6.0,6.0,0.0,7.0,5.0,,,3.0,1.0,Completed,1.286,3.5,1.28,3.5,1.2,3.3,1.286,3.25,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,El Aynaoui Y.,Dupuis A.,26.0,80,6.0,4.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.444,2.625,1.4,2.8,1.35,2.5,1.444,2.625,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Schuettler R.,Mamiit C.,11.0,131,6.0,1.0,2.0,6.0,6.0,4.0,6.0,2.0,,,3.0,1.0,Completed,1.111,6.0,1.09,6.5,1.1,4.5,1.1,6.0,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Spadea V.,Labadze I.,32.0,105,6.0,1.0,3.0,6.0,5.0,7.0,6.0,4.0,6.0,1.0,3.0,2.0,Completed,1.333,3.25,1.3,3.35,1.2,3.3,1.333,3.0,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Malisse X.,Calatrava A.,29.0,206,7.0,5.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.4,2.75,1.45,2.65,1.45,2.2,1.4,2.75,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Koubek S.,Popp A.,72.0,170,7.0,5.0,6.0,2.0,6.0,3.0,,,,,3.0,0.0,Completed,1.25,3.75,1.16,4.85,1.15,3.8,1.2,4.0,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,van Lottum J.,Norman D.,96.0,119,6.0,3.0,3.0,6.0,2.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed,2.2,1.615,2.4,1.55,2.2,1.45,2.25,1.571,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Verkerk M.,Krajan Z.,46.0,103,6.0,3.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.364,3.0,1.35,3.05,1.3,2.7,1.364,2.875,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Puerta M.,Gimelstob J.,97.0,90,6.0,2.0,4.0,6.0,7.0,6.0,6.0,1.0,,,3.0,1.0,Completed,1.333,3.25,1.25,3.75,1.25,3.0,1.2,4.0,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Lisnard J.R.,Delfino M.,98.0,185,6.0,1.0,6.0,4.0,4.0,6.0,6.0,4.0,,,3.0,1.0,Completed,,,,,,,,,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Rochus C.,Gamonal H.,101.0,195,7.0,5.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.5,2.5,1.6,2.25,1.6,1.9,1.5,2.5,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Horna L.,Federer R.,88.0,5,7.0,6.0,6.0,2.0,7.0,6.0,,,,,3.0,0.0,Completed,7.0,1.083,7.75,1.06,5.0,1.05,7.5,1.063,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Moya C.,Volandri F.,4.0,79,7.0,6.0,4.0,6.0,6.0,2.0,6.0,3.0,,,3.0,1.0,Completed,1.125,5.5,1.15,5.0,1.1,4.5,1.1,6.0,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Blanco G.,Corretja A.,139.0,17,5.0,7.0,6.0,3.0,6.0,0.0,7.0,5.0,,,3.0,1.0,Completed,3.25,1.333,3.35,1.3,2.7,1.3,3.0,1.333,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Ferreira W.,Behrend T.,24.0,102,6.0,4.0,6.0,2.0,6.0,3.0,,,,,3.0,0.0,Completed,1.333,3.25,1.3,3.35,1.2,3.3,1.286,3.25,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Ferrer D.,Melzer J.,65.0,92,6.0,2.0,6.0,2.0,7.0,6.0,,,,,3.0,0.0,Completed,1.533,2.375,1.57,2.3,1.5,2.1,1.5,2.5,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Lopez M.,Mahut N.,213.0,190,7.0,5.0,6.0,1.0,7.0,6.0,,,,,3.0,0.0,Completed,1.5,2.5,1.48,2.55,1.4,2.3,1.5,2.5,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Blake J.,Dent T.,27.0,40,6.0,4.0,6.0,3.0,7.0,6.0,,,,,3.0,0.0,Completed,1.222,4.0,1.22,4.05,1.2,3.3,1.2,4.0,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Chela J.I.,Saulnier C.,35.0,124,3.0,6.0,7.0,6.0,6.0,3.0,7.0,5.0,,,3.0,1.0,Completed,1.1,6.5,1.08,7.0,1.1,4.5,1.071,7.0,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Saretta F.,Martin A.,78.0,60,7.0,6.0,6.0,0.0,6.0,0.0,,,,,3.0,0.0,Completed,1.667,2.1,1.6,2.25,1.65,1.85,1.667,2.1,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Ljubicic I.,Kucera K.,43.0,49,6.0,2.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.333,3.25,1.23,3.9,1.2,3.3,1.25,3.5,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Philippoussis M.,Kim A.,52.0,172,2.0,6.0,6.0,7.0,7.0,5.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed,1.167,4.5,1.18,4.45,1.15,3.8,1.143,5.0,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Kafelnikov Y.,Boutter J.,18.0,95,6.0,1.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,Completed,1.4,2.75,1.38,2.9,1.35,2.5,1.4,2.75,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Agassi A.,Beck K.,2.0,73,6.0,2.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.03,10.0,1.04,9.5,1.02,6.0,1.03,10.0,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Novak J.,Benneteau J.,14.0,182,6.0,2.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.071,7.5,1.08,7.0,1.05,5.0,1.071,7.0,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Kiefer N.,Larkham T.,77.0,202,6.0,3.0,6.0,3.0,4.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed,1.667,2.1,1.65,2.15,1.6,1.9,1.667,2.1,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Galimberti G.,Heuberger I.,117.0,137,7.0,6.0,4.0,6.0,6.0,2.0,6.0,2.0,,,3.0,1.0,Completed,1.333,3.25,1.33,3.15,1.25,3.0,1.25,3.5,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Youzhny M.,Sanchez D.,30.0,48,6.0,3.0,6.0,0.0,6.0,0.0,,,,,3.0,0.0,Completed,,,,,1.6,1.9,1.727,2.0,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Savolt A.,Vinciguerra A.,141.0,114,7.0,5.0,7.0,6.0,4.0,6.0,6.0,0.0,,,3.0,1.0,Completed,1.533,2.375,1.42,2.7,1.5,2.1,1.444,2.444,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Ancic M.,Rios M.,74.0,42,6.0,1.0,,,,,,,,,1.0,0.0,Retired,3.75,1.25,4.05,1.22,3.3,1.2,4.5,1.167,,
+ATP,2003,31,Paris,French Open,2003-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Coria G.,Sa A.,7.0,87,6.0,3.0,6.0,1.0,6.0,1.0,,,,,3.0,0.0,Completed,1.03,10.0,1.02,11.0,1.02,6.0,1.04,9.0,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Costa A.,Roitman S.,9.0,134,6.0,7.0,2.0,6.0,7.0,5.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed,1.071,7.5,1.05,8.5,1.05,5.0,1.071,7.0,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Henman T.,Voltchkov V.,28.0,66,6.0,2.0,6.0,3.0,6.0,1.0,,,,,3.0,0.0,Completed,1.2,4.333,1.22,4.05,1.2,3.3,1.182,4.333,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Hewitt L.,Vahaly B.,1.0,76,6.0,4.0,6.0,1.0,6.0,7.0,6.0,3.0,,,3.0,1.0,Completed,1.04,9.0,1.05,8.5,1.02,6.0,1.04,9.0,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Coutelot N.,Sanguinetti D.,208.0,86,6.0,3.0,6.0,3.0,6.0,4.0,,,,,3.0,0.0,Completed,1.615,2.2,1.52,2.45,1.5,2.1,1.615,2.2,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Nalbandian D.,Montanes A.,8.0,104,6.0,4.0,6.0,3.0,3.0,6.0,7.0,5.0,,,3.0,1.0,Completed,1.143,5.0,1.15,5.0,1.15,3.8,1.125,5.5,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Massu N.,Norman M.,84.0,82,6.0,4.0,6.0,1.0,6.0,3.0,,,,,3.0,0.0,Completed,,,1.48,2.55,1.3,2.7,1.5,2.5,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Stepanek R.,Arthurs W.,47.0,57,6.0,1.0,4.0,6.0,6.0,1.0,7.0,6.0,,,3.0,1.0,Completed,1.364,3.0,1.31,3.25,1.35,2.5,1.333,3.0,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Robredo T.,Lapentti G.,31.0,203,3.0,6.0,7.0,6.0,3.0,6.0,3.0,1.0,,,1.0,2.0,Retired,1.143,5.0,1.14,5.25,1.2,3.3,1.167,4.5,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Martin T.,Acasuso J.,94.0,50,4.0,6.0,6.0,3.0,6.0,4.0,6.0,2.0,,,3.0,1.0,Completed,2.2,1.615,2.15,1.65,1.85,1.65,2.25,1.571,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Bjorkman J.,Mirnyi M.,69.0,41,6.0,1.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,Completed,2.625,1.444,2.6,1.46,2.7,1.3,2.625,1.444,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Burgsmuller L.,Fish M.,93.0,51,7.0,6.0,6.0,2.0,4.0,6.0,6.0,1.0,,,3.0,1.0,Completed,2.2,1.615,2.15,1.65,2.1,1.5,2.1,1.667,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Ferrero J.C.,Kratochvil M.,3.0,85,7.0,5.0,7.0,5.0,6.0,4.0,,,,,3.0,0.0,Completed,,,1.01,12.5,1.02,6.0,1.03,10.0,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Gaudio G.,Mathieu P.H.,22.0,44,7.0,5.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.143,5.0,1.14,5.25,1.15,3.8,1.167,4.5,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Clement A.,Enqvist T.,36.0,100,6.0,3.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.4,2.75,1.4,2.8,1.35,2.5,1.4,2.75,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Mutis O.,Golmard J.,83.0,136,6.0,2.0,6.0,7.0,6.0,2.0,6.0,3.0,,,3.0,1.0,Completed,,,1.38,2.9,1.35,2.5,,,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Portas A.,Ascione T.,81.0,177,3.0,6.0,6.0,2.0,6.0,4.0,6.0,4.0,,,3.0,1.0,Completed,1.222,4.0,1.16,4.75,1.15,3.8,1.167,4.5,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Davydenko N.,Rusedski G.,33.0,70,6.0,3.0,7.0,5.0,6.0,2.0,,,,,3.0,0.0,Completed,1.083,7.0,1.06,8.0,1.05,5.0,1.071,7.0,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Arazi H.,Sluiter R.,91.0,64,6.0,1.0,7.0,6.0,2.0,6.0,6.0,0.0,,,3.0,1.0,Completed,,,1.48,2.55,1.3,2.7,1.444,2.625,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Gonzalez F.,Gambill J.M.,20.0,38,6.0,0.0,6.0,2.0,6.0,3.0,,,,,3.0,0.0,Completed,1.083,7.0,1.08,7.0,1.1,4.5,1.071,7.5,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Nieminen J.,Escude N.,34.0,61,7.0,6.0,6.0,7.0,6.0,3.0,6.0,1.0,,,3.0,1.0,Completed,,,1.26,3.6,1.25,3.0,1.25,3.5,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Schalken S.,Draper S.,13.0,109,6.0,2.0,6.0,4.0,3.0,6.0,6.0,4.0,,,3.0,1.0,Completed,1.222,4.0,1.22,4.05,1.15,3.8,1.222,3.75,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Kuerten G.,Rosset M.,16.0,108,6.0,2.0,6.0,7.0,6.0,3.0,7.0,6.0,,,3.0,1.0,Completed,1.063,8.0,1.06,8.0,1.02,6.0,1.05,8.0,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Grosjean S.,Voinea A.,15.0,99,6.0,4.0,7.0,6.0,3.0,6.0,6.0,3.0,,,3.0,1.0,Completed,,,1.16,4.75,1.1,4.5,1.167,4.5,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Lapentti N.,Gasquet R.,58.0,130,6.0,3.0,7.0,6.0,3.0,0.0,,,,,2.0,0.0,Retired,1.727,2.0,1.75,2.0,1.75,1.75,1.833,1.833,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Sargsian S.,Roddick A.,67.0,6,6.0,7.0,6.0,1.0,6.0,2.0,6.0,4.0,,,3.0,1.0,Completed,5.5,1.125,5.65,1.12,4.5,1.1,6.0,1.1,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Santoro F.,Chang M.,54.0,142,7.0,5.0,6.0,1.0,6.0,1.0,,,,,3.0,0.0,Completed,1.364,3.0,1.4,2.8,1.3,2.7,1.4,2.75,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Browne F.,Rochus O.,147.0,59,4.0,6.0,2.0,6.0,6.0,1.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed,2.5,1.5,2.35,1.55,2.3,1.4,2.375,1.533,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Mantilla F.,Lee H.T.,21.0,55,7.0,6.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,1.125,5.5,1.12,5.65,1.1,4.5,1.143,5.0,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Varlet J.,Carlsen K.,163.0,68,6.0,1.0,4.0,6.0,6.0,3.0,7.0,6.0,,,3.0,1.0,Completed,1.4,2.75,1.33,3.2,1.3,2.7,1.333,3.0,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Squillari F.,Calleri A.,89.0,19,7.0,5.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,4.0,1.222,4.0,1.22,3.3,1.2,4.5,1.167,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Vicente F.,Waske A.,63.0,116,3.0,6.0,6.0,2.0,7.0,5.0,1.0,6.0,6.0,3.0,3.0,2.0,Completed,1.25,3.75,1.28,3.5,1.3,2.7,1.286,3.25,,
+ATP,2003,31,Paris,French Open,2003-05-27,Grand Slam,Outdoor,Clay,1st Round,5,Hanescu V.,Llodra M.,122.0,132,6.0,4.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.4,2.75,1.33,3.2,1.25,3.0,1.364,2.875,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Saretta F.,Kafelnikov Y.,78.0,18,6.0,4.0,3.0,6.0,6.0,0.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed,2.75,1.4,2.6,1.46,2.3,1.4,2.625,1.444,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Savolt A.,Youzhny M.,141.0,30,3.0,6.0,6.0,4.0,5.0,7.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed,3.0,1.364,3.25,1.31,3.0,1.25,3.0,1.333,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Zabaleta M.,Hrbaty D.,39.0,62,6.0,2.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.727,2.0,1.65,2.2,1.55,2.0,1.667,2.1,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Blanco G.,Puerta M.,139.0,97,6.0,2.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,Completed,1.833,1.833,1.95,1.85,1.65,1.85,1.833,1.833,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,El Aynaoui Y.,Rochus C.,26.0,101,6.0,4.0,6.0,4.0,6.0,3.0,,,,,3.0,0.0,Completed,1.286,3.5,1.28,3.5,1.25,3.0,1.25,3.5,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Schuettler R.,Lisnard J.R.,11.0,98,4.0,6.0,6.0,2.0,6.0,4.0,6.0,0.0,,,3.0,1.0,Completed,1.333,3.25,1.31,3.25,1.3,2.7,1.333,3.0,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Ferreira W.,Ferrer D.,24.0,65,4.0,6.0,6.0,4.0,6.0,1.0,6.0,3.0,,,3.0,1.0,Completed,1.444,2.625,1.5,2.5,1.35,2.5,1.444,2.625,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Verkerk M.,Horna L.,46.0,88,4.0,6.0,6.0,4.0,4.0,6.0,7.0,5.0,6.0,2.0,3.0,2.0,Completed,1.615,2.2,1.48,2.55,1.55,2.0,1.571,2.25,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Malisse X.,Koubek S.,29.0,72,3.0,6.0,4.0,6.0,6.0,4.0,7.0,5.0,8.0,6.0,3.0,2.0,Completed,1.533,2.375,1.63,2.2,1.45,2.2,1.533,2.375,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Coria G.,Kiefer N.,7.0,77,6.0,3.0,5.0,7.0,6.0,3.0,6.0,1.0,,,3.0,1.0,Completed,1.063,8.0,1.03,10.0,1.02,6.0,1.05,8.0,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Chela J.I.,Galimberti G.,35.0,117,6.0,2.0,5.0,7.0,6.0,2.0,6.0,1.0,,,3.0,1.0,Completed,,,,,,,,,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Novak J.,Lopez M.,14.0,213,6.0,4.0,3.0,6.0,0.0,6.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed,1.125,5.5,1.15,5.0,1.1,4.5,1.143,5.0,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Moya C.,Philippoussis M.,4.0,52,6.0,2.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,1.222,4.0,1.18,4.5,1.15,3.8,1.167,4.5,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Agassi A.,Ancic M.,2.0,74,5.0,7.0,1.0,6.0,6.0,4.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed,1.063,8.0,1.03,10.0,1.02,6.0,1.02,11.0,,
+ATP,2003,31,Paris,French Open,2003-05-28,Grand Slam,Outdoor,Clay,2nd Round,5,Spadea V.,van Lottum J.,32.0,96,7.0,5.0,6.0,1.0,2.0,6.0,6.0,1.0,,,3.0,1.0,Completed,1.25,3.75,1.2,4.25,1.2,3.3,1.25,3.5,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Clement A.,Burgsmuller L.,36.0,93,6.0,3.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.286,3.5,1.28,3.5,1.2,3.3,1.286,3.25,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Ferrero J.C.,Massu N.,3.0,84,6.0,2.0,3.0,0.0,,,,,,,1.0,0.0,Retired,1.1,6.5,1.08,7.0,1.1,4.5,1.071,7.0,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Gonzalez F.,Portas A.,20.0,81,6.0,3.0,4.0,6.0,6.0,4.0,6.0,2.0,,,3.0,1.0,Completed,1.222,4.0,1.18,4.5,1.2,3.3,1.167,4.5,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Nieminen J.,Varlet J.,34.0,163,1.0,6.0,1.0,6.0,7.0,6.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed,1.2,4.333,1.22,4.05,1.25,3.0,1.2,4.0,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Hanescu V.,Sargsian S.,122.0,67,6.0,3.0,7.0,5.0,3.0,6.0,6.0,2.0,,,3.0,1.0,Completed,2.375,1.533,2.2,1.63,2.2,1.45,2.2,1.615,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Coutelot N.,Nalbandian D.,208.0,8,6.0,3.0,6.0,3.0,4.0,6.0,2.0,6.0,6.0,1.0,3.0,2.0,Completed,4.0,1.222,3.6,1.26,3.0,1.25,3.5,1.25,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Hewitt L.,Davydenko N.,1.0,33,6.0,3.0,4.0,6.0,6.0,3.0,7.0,6.0,,,3.0,1.0,Completed,1.25,3.75,1.28,3.5,1.2,3.3,1.222,3.75,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Ljubicic I.,Blake J.,43.0,27,6.0,3.0,4.0,6.0,7.0,6.0,6.0,4.0,,,3.0,1.0,Completed,1.667,2.1,1.58,2.3,1.6,1.9,1.615,2.2,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Schalken S.,Santoro F.,13.0,54,6.0,1.0,6.0,3.0,6.0,4.0,,,,,3.0,0.0,Completed,1.4,2.75,1.42,2.75,1.35,2.5,1.4,2.75,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Kuerten G.,Arazi H.,16.0,91,6.0,1.0,6.0,0.0,6.0,1.0,,,,,3.0,0.0,Completed,1.143,5.0,1.22,4.05,1.2,3.3,1.167,4.5,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Costa A.,Stepanek R.,9.0,47,6.0,3.0,5.0,7.0,6.0,4.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed,1.4,2.75,1.47,2.6,1.3,2.7,1.333,3.0,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Mantilla F.,Browne F.,21.0,147,6.0,3.0,4.0,6.0,6.0,3.0,6.0,1.0,,,3.0,1.0,Completed,1.111,6.0,1.12,5.65,1.1,4.5,1.125,5.5,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Robredo T.,Bjorkman J.,31.0,69,7.0,6.0,6.0,3.0,6.0,4.0,,,,,3.0,0.0,Completed,1.167,4.5,1.18,4.5,1.15,3.8,1.167,4.5,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Gaudio G.,Mutis O.,22.0,83,6.0,2.0,1.0,6.0,6.0,2.0,6.0,2.0,,,3.0,1.0,Completed,1.1,6.5,1.07,7.35,1.05,5.0,1.1,6.0,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Henman T.,Martin T.,28.0,94,7.0,6.0,5.0,7.0,6.0,1.0,7.0,5.0,,,3.0,1.0,Completed,1.615,2.2,1.6,2.3,1.55,2.0,,,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Lapentti N.,Squillari F.,58.0,89,4.0,6.0,6.0,1.0,6.0,4.0,6.0,3.0,,,3.0,1.0,Completed,2.2,1.615,2.45,1.52,2.1,1.5,2.2,1.615,,
+ATP,2003,31,Paris,French Open,2003-05-29,Grand Slam,Outdoor,Clay,2nd Round,5,Vicente F.,Grosjean S.,63.0,15,7.0,6.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,2.75,1.4,2.9,1.38,2.3,1.4,2.75,1.4,,
+ATP,2003,31,Paris,French Open,2003-05-30,Grand Slam,Outdoor,Clay,3rd Round,5,Schuettler R.,Ferreira W.,11.0,24,6.0,3.0,1.0,6.0,7.0,6.0,2.0,3.0,,,2.0,1.0,Retired,1.727,2.0,1.75,2.05,1.75,1.75,,,,
+ATP,2003,31,Paris,French Open,2003-05-30,Grand Slam,Outdoor,Clay,3rd Round,5,Zabaleta M.,El Aynaoui Y.,39.0,26,6.0,2.0,6.0,4.0,3.0,6.0,7.0,6.0,,,3.0,1.0,Completed,2.625,1.444,2.5,1.52,2.5,1.35,,,,
+ATP,2003,31,Paris,French Open,2003-05-30,Grand Slam,Outdoor,Clay,3rd Round,5,Coria G.,Savolt A.,7.0,141,6.0,4.0,6.0,1.0,6.0,1.0,,,,,3.0,0.0,Completed,1.083,7.0,1.07,8.0,1.05,5.0,,,,
+ATP,2003,31,Paris,French Open,2003-05-30,Grand Slam,Outdoor,Clay,3rd Round,5,Verkerk M.,Spadea V.,46.0,32,5.0,7.0,6.0,4.0,6.0,2.0,7.0,5.0,,,3.0,1.0,Completed,1.571,2.25,1.57,2.35,1.5,2.1,,,,
+ATP,2003,31,Paris,French Open,2003-05-30,Grand Slam,Outdoor,Clay,3rd Round,5,Agassi A.,Malisse X.,2.0,29,6.0,4.0,7.0,5.0,7.0,5.0,,,,,3.0,0.0,Completed,1.111,6.0,1.14,5.5,1.1,4.5,1.1,6.0,,
+ATP,2003,31,Paris,French Open,2003-05-30,Grand Slam,Outdoor,Clay,3rd Round,5,Novak J.,Ljubicic I.,14.0,43,6.0,4.0,7.0,5.0,3.0,6.0,6.0,2.0,,,3.0,1.0,Completed,1.667,2.1,1.82,1.95,1.7,1.8,1.727,2.0,,
+ATP,2003,31,Paris,French Open,2003-05-30,Grand Slam,Outdoor,Clay,3rd Round,5,Saretta F.,Blanco G.,78.0,139,7.0,6.0,6.0,3.0,2.0,2.0,,,,,2.0,0.0,Retired,1.533,2.375,1.55,2.4,1.45,2.2,,,,
+ATP,2003,31,Paris,French Open,2003-05-30,Grand Slam,Outdoor,Clay,3rd Round,5,Moya C.,Chela J.I.,4.0,35,6.0,2.0,6.0,3.0,3.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed,1.2,4.333,1.2,4.2,1.2,3.3,1.167,4.5,,
+ATP,2003,31,Paris,French Open,2003-05-31,Grand Slam,Outdoor,Clay,3rd Round,5,Gonzalez F.,Schalken S.,20.0,13,7.0,6.0,6.0,3.0,3.0,1.0,,,,,2.0,0.0,Retired,1.571,2.25,1.52,2.5,1.5,2.1,1.444,2.625,,
+ATP,2003,31,Paris,French Open,2003-05-31,Grand Slam,Outdoor,Clay,3rd Round,5,Costa A.,Lapentti N.,9.0,58,4.0,6.0,4.0,6.0,6.0,3.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed,1.4,2.75,1.5,2.55,1.45,2.2,1.444,2.625,,
+ATP,2003,31,Paris,French Open,2003-05-31,Grand Slam,Outdoor,Clay,3rd Round,5,Clement A.,Coutelot N.,36.0,208,6.0,4.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.4,2.75,1.42,2.8,1.3,2.7,1.444,2.625,,
+ATP,2003,31,Paris,French Open,2003-05-31,Grand Slam,Outdoor,Clay,3rd Round,5,Nieminen J.,Hanescu V.,34.0,122,6.0,7.0,6.0,4.0,6.0,2.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed,1.4,2.75,1.5,2.55,1.45,2.2,1.444,2.625,,
+ATP,2003,31,Paris,French Open,2003-05-31,Grand Slam,Outdoor,Clay,3rd Round,5,Robredo T.,Hewitt L.,31.0,1,4.0,6.0,1.0,6.0,6.0,3.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed,3.25,1.333,3.25,1.33,3.0,1.25,3.0,1.333,,
+ATP,2003,31,Paris,French Open,2003-05-31,Grand Slam,Outdoor,Clay,3rd Round,5,Ferrero J.C.,Henman T.,3.0,28,4.0,6.0,6.0,2.0,6.0,4.0,6.0,2.0,,,3.0,1.0,Completed,1.1,6.5,1.06,8.5,1.1,4.5,1.071,7.0,,
+ATP,2003,31,Paris,French Open,2003-05-31,Grand Slam,Outdoor,Clay,3rd Round,5,Mantilla F.,Vicente F.,21.0,63,7.0,6.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.286,3.5,1.28,3.55,1.3,2.7,1.25,3.5,,
+ATP,2003,31,Paris,French Open,2003-06-01,Grand Slam,Outdoor,Clay,3rd Round,5,Kuerten G.,Gaudio G.,16.0,22,7.0,6.0,7.0,5.0,5.0,7.0,6.0,3.0,,,3.0,1.0,Completed,1.727,2.0,1.85,1.95,1.65,1.85,1.727,2.0,,
+ATP,2003,31,Paris,French Open,2003-06-01,Grand Slam,Outdoor,Clay,4th Round,5,Verkerk M.,Schuettler R.,46.0,11,6.0,3.0,6.0,3.0,7.0,5.0,,,,,3.0,0.0,Completed,2.375,1.533,2.2,1.65,1.9,1.6,2.25,1.571,,
+ATP,2003,31,Paris,French Open,2003-06-01,Grand Slam,Outdoor,Clay,4th Round,5,Moya C.,Novak J.,4.0,14,7.0,5.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.4,2.75,1.46,2.6,1.45,2.2,1.364,2.875,,
+ATP,2003,31,Paris,French Open,2003-06-01,Grand Slam,Outdoor,Clay,4th Round,5,Agassi A.,Saretta F.,2.0,78,6.0,2.0,6.0,1.0,7.0,5.0,,,,,3.0,0.0,Completed,1.125,5.5,1.16,5.0,1.15,3.8,1.1,6.0,,
+ATP,2003,31,Paris,French Open,2003-06-02,Grand Slam,Outdoor,Clay,4th Round,5,Ferrero J.C.,Mantilla F.,3.0,21,6.0,2.0,6.0,1.0,6.0,1.0,,,,,3.0,0.0,Completed,1.222,4.0,1.23,4.05,1.2,3.3,1.182,4.333,,
+ATP,2003,31,Paris,French Open,2003-06-02,Grand Slam,Outdoor,Clay,4th Round,5,Gonzalez F.,Nieminen J.,20.0,34,6.0,3.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.25,3.75,1.33,3.25,1.2,3.3,1.333,3.0,,
+ATP,2003,31,Paris,French Open,2003-06-02,Grand Slam,Outdoor,Clay,4th Round,5,Costa A.,Clement A.,9.0,36,6.0,2.0,7.0,5.0,7.0,5.0,,,,,3.0,0.0,Completed,1.667,2.1,1.78,2.0,1.6,1.9,,,,
+ATP,2003,31,Paris,French Open,2003-06-02,Grand Slam,Outdoor,Clay,4th Round,5,Coria G.,Zabaleta M.,7.0,39,6.0,4.0,7.0,6.0,5.0,7.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed,1.25,3.75,1.25,3.7,1.25,3.0,1.25,3.5,,
+ATP,2003,31,Paris,French Open,2003-06-02,Grand Slam,Outdoor,Clay,4th Round,5,Robredo T.,Kuerten G.,31.0,16,6.0,4.0,1.0,6.0,7.0,6.0,6.0,4.0,,,3.0,1.0,Completed,3.25,1.333,3.1,1.35,3.0,1.25,3.25,1.286,,
+ATP,2003,31,Paris,French Open,2003-06-03,Grand Slam,Outdoor,Clay,Quarterfinals,5,Verkerk M.,Moya C.,46.0,4,6.0,3.0,6.0,4.0,5.0,7.0,4.0,6.0,8.0,6.0,3.0,2.0,Completed,3.75,1.25,3.6,1.28,3.3,1.2,4.0,1.2,,
+ATP,2003,31,Paris,French Open,2003-06-03,Grand Slam,Outdoor,Clay,Quarterfinals,5,Coria G.,Agassi A.,7.0,2,4.0,6.0,6.0,3.0,6.0,2.0,6.0,4.0,,,3.0,1.0,Completed,2.75,1.4,2.75,1.45,2.3,1.4,3.0,1.333,,
+ATP,2003,31,Paris,French Open,2003-06-04,Grand Slam,Outdoor,Clay,Quarterfinals,5,Costa A.,Robredo T.,9.0,31,2.0,6.0,3.0,6.0,6.0,4.0,7.0,5.0,6.0,2.0,3.0,2.0,Completed,1.727,2.0,1.8,2.0,1.6,1.9,1.833,1.833,,
+ATP,2003,31,Paris,French Open,2003-06-04,Grand Slam,Outdoor,Clay,Quarterfinals,5,Ferrero J.C.,Gonzalez F.,3.0,20,6.0,1.0,3.0,6.0,6.0,1.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed,1.286,3.5,1.27,3.7,1.25,3.0,1.25,3.5,,
+ATP,2003,31,Paris,French Open,2003-06-06,Grand Slam,Outdoor,Clay,Semifinals,5,Verkerk M.,Coria G.,46.0,7,7.0,6.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,3.25,1.333,3.25,1.35,2.5,1.35,3.25,1.286,,
+ATP,2003,31,Paris,French Open,2003-06-06,Grand Slam,Outdoor,Clay,Semifinals,5,Ferrero J.C.,Costa A.,3.0,9,6.0,3.0,7.0,6.0,6.0,4.0,,,,,3.0,0.0,Completed,1.333,3.25,1.3,3.6,1.25,3.0,1.25,3.5,,
+ATP,2003,31,Paris,French Open,2003-06-08,Grand Slam,Outdoor,Clay,The Final,5,Ferrero J.C.,Verkerk M.,3.0,46,6.0,1.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.333,3.5,1.33,3.35,1.25,3.0,1.3,3.25,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Srichaphan P.,Hrbaty D.,11.0,66,6.0,3.0,6.0,4.0,4.0,6.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed,1.4,2.75,1.38,3.0,1.3,2.7,1.364,2.875,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Schuettler R.,Kratochvil M.,8.0,101,6.0,3.0,6.0,4.0,6.0,7.0,7.0,5.0,,,3.0,1.0,Completed,1.533,2.375,1.63,2.25,1.4,2.3,1.571,2.25,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Mirnyi M.,Spadea V.,43.0,33,6.0,2.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.444,2.625,1.48,2.6,1.35,2.5,1.4,2.75,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Nadal R.,Ancic M.,76.0,68,6.0,3.0,6.0,4.0,4.0,6.0,6.0,4.0,,,3.0,1.0,Completed,4.0,1.222,4.65,1.18,3.8,1.15,4.5,1.16,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Lopez F.,Kendrick R.,52.0,130,6.0,3.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,1.333,3.25,1.33,3.25,1.25,3.0,1.28,3.25,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Childs L.,Davydenko N.,489.0,35,2.0,6.0,7.0,6.0,1.0,6.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed,2.75,1.4,2.8,1.42,2.7,1.3,2.62,1.44,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Saretta F.,Mackin A.,60.0,356,6.0,2.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.167,4.5,1.16,5.0,1.15,3.8,1.12,5.5,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Calleri A.,Voinea A.,18.0,113,6.0,2.0,7.0,5.0,1.0,0.0,,,,,2.0,0.0,Retired,1.833,1.833,2.05,1.75,1.85,1.65,1.833,1.833,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Vahaly B.,Volandri F.,81.0,69,2.0,6.0,6.0,1.0,6.0,4.0,6.0,4.0,,,3.0,1.0,Completed,1.286,3.5,1.33,3.25,1.25,3.0,,,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Karlovic I.,Hewitt L.,203.0,2,1.0,6.0,7.0,6.0,6.0,3.0,6.0,4.0,,,3.0,1.0,Completed,9.0,1.04,9.0,1.05,5.0,1.05,9.0,1.04,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Roddick A.,Sanguinetti D.,6.0,91,6.0,2.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.071,7.5,1.08,7.0,1.05,5.0,1.063,7.0,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Santoro F.,Vinciguerra A.,49.0,107,4.0,6.0,6.0,3.0,2.0,6.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed,1.333,3.25,1.33,3.25,1.35,2.5,1.25,3.5,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Baccanello P.,Heuberger I.,204.0,137,7.0,6.0,6.0,3.0,3.0,6.0,7.0,6.0,,,3.0,1.0,Completed,2.0,1.727,2.05,1.75,1.75,1.75,2.0,1.727,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Ljubicic I.,Dent T.,39.0,37,7.0,5.0,3.0,6.0,6.0,3.0,7.0,5.0,,,3.0,1.0,Completed,2.625,1.444,2.5,1.52,2.0,1.55,2.5,1.5,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Youzhny M.,Beck K.,25.0,75,6.0,4.0,6.0,2.0,6.0,3.0,,,,,3.0,0.0,Completed,1.125,5.5,1.16,5.0,1.15,3.8,1.143,5.0,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Mutis O.,Squillari F.,78.0,86,4.0,6.0,0.0,6.0,6.0,4.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed,1.333,3.25,1.33,3.25,1.3,2.7,1.286,3.25,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Robredo T.,Acasuso J.,21.0,53,3.0,6.0,6.0,3.0,7.0,6.0,6.0,4.0,,,3.0,1.0,Completed,1.083,7.0,1.08,7.25,1.1,4.5,1.083,7.0,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Gambill J.M.,Kunitsyn I.,42.0,146,6.0,3.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,Completed,1.167,4.5,1.16,5.0,1.1,4.5,,,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Fish M.,Gaudio G.,45.0,26,6.0,2.0,4.0,6.0,6.0,3.0,6.0,3.0,,,3.0,1.0,Completed,1.25,3.75,1.28,3.6,1.25,3.0,1.2,4.0,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Gimelstob J.,Labadze I.,96.0,103,6.0,2.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,Completed,1.444,2.625,1.36,3.1,1.25,3.0,1.444,2.625,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Koubek S.,Rochus C.,70.0,92,4.0,6.0,6.0,3.0,6.0,1.0,6.0,1.0,,,3.0,1.0,Completed,1.833,1.833,1.72,2.1,1.75,1.75,1.833,1.833,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Hanescu V.,Portas A.,99.0,85,7.0,6.0,6.0,0.0,6.0,0.0,,,,,3.0,0.0,Completed,1.444,2.625,1.36,3.1,1.45,2.2,1.333,3.0,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Lapentti N.,Carlsen K.,47.0,83,6.0,3.0,6.0,4.0,3.0,6.0,6.0,4.0,,,3.0,1.0,Completed,1.8,1.909,1.82,1.95,1.8,1.7,1.833,1.833,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Federer R.,Lee H.T.,5.0,55,6.0,3.0,6.0,3.0,7.0,6.0,,,,,3.0,0.0,Completed,1.111,6.0,1.08,7.0,1.05,5.0,1.05,8.0,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Rusedski G.,Waske A.,51.0,116,7.0,6.0,7.0,5.0,7.0,6.0,,,,,3.0,0.0,Completed,1.1,6.5,1.08,7.0,1.05,5.0,1.1,6.0,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Kuerten G.,van Lottum J.,13.0,89,2.0,6.0,3.0,2.0,,,,,,,0.0,1.0,Retired,1.4,2.75,1.52,2.5,1.4,2.3,1.4,2.75,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Chela J.I.,Behrend T.,34.0,98,6.0,4.0,6.0,2.0,6.0,3.0,,,,,3.0,0.0,Completed,1.25,3.75,1.28,3.6,1.25,3.0,1.25,3.5,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Martin T.,Vicente F.,102.0,57,6.0,7.0,6.0,4.0,2.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed,1.364,3.0,1.35,3.15,1.25,3.0,1.25,3.5,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Bjorkman J.,Luxa P.,79.0,253,6.0,3.0,7.0,6.0,6.0,2.0,,,,,3.0,0.0,Completed,1.111,6.0,1.1,6.5,1.1,4.5,1.143,5.0,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Schalken S.,Parmar A.,12.0,209,6.0,3.0,6.0,4.0,6.0,1.0,,,,,3.0,0.0,Completed,1.111,6.0,1.1,6.5,1.1,4.5,1.083,7.0,,
+ATP,2003,36,London,Wimbledon,2003-06-23,Grand Slam,Outdoor,Grass,1st Round,5,Melzer J.,Gonzalez F.,100.0,15,6.0,3.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,3.0,1.364,3.1,1.35,2.5,1.35,2.875,1.364,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Rochus O.,Coria G.,65.0,7,7.0,5.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,2.1,1.667,2.2,1.65,1.85,1.65,2.1,1.667,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Philippoussis M.,Zabaleta M.,48.0,40,6.0,3.0,4.0,6.0,6.0,3.0,6.0,2.0,,,3.0,1.0,Completed,1.1,6.5,1.1,6.5,1.1,4.5,1.063,7.0,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Saulnier C.,Malisse X.,124.0,31,6.0,4.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,4.0,1.222,3.75,1.26,3.0,1.25,4.0,1.2,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Elseneer G.,Kiefer N.,160.0,72,3.0,6.0,6.0,3.0,6.0,4.0,6.0,4.0,,,3.0,1.0,Completed,,,3.0,1.35,2.5,1.35,2.875,1.364,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Draper S.,Mathieu P.H.,115.0,56,7.0,6.0,4.0,6.0,6.0,3.0,6.0,4.0,,,3.0,1.0,Completed,1.533,2.375,1.55,2.3,1.4,2.3,1.533,2.375,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Stepanek R.,Mertinak M.,38.0,327,7.0,6.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.12,5.5,1.12,6.0,1.1,4.5,,,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Henman T.,Zib T.,29.0,154,6.0,2.0,7.0,6.0,3.0,6.0,6.0,1.0,,,3.0,1.0,Completed,1.05,8.5,1.04,10.0,1.05,5.0,1.02,11.0,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Nalbandian D.,Voltchkov V.,9.0,59,7.0,5.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.615,2.2,1.65,2.2,1.65,1.85,1.667,2.1,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Clement A.,Ginepri R.,30.0,54,6.0,3.0,4.0,6.0,7.0,6.0,6.0,7.0,10.0,8.0,3.0,2.0,Completed,1.286,3.5,1.33,3.25,1.2,3.3,1.286,3.25,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Dupuis A.,Bloomfield R.,74.0,413,6.0,4.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,1.167,4.5,1.15,5.25,1.1,4.5,1.1,6.0,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Kucera K.,Ferreira W.,46.0,24,6.0,1.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,Completed,,,1.5,2.5,1.45,2.2,,,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Massu N.,Krajan Z.,80.0,120,6.0,1.0,6.0,1.0,6.0,1.0,,,,,3.0,0.0,Completed,1.4,2.75,1.33,3.0,1.15,3.8,1.5,2.5,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Ferrer D.,Lee M.,64.0,332,1.0,6.0,6.0,3.0,6.0,1.0,6.0,2.0,,,3.0,1.0,Completed,3.0,1.364,3.1,1.35,2.5,1.35,3.0,1.33,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Llodra M.,Sanchez D.,136.0,58,6.0,3.0,6.0,4.0,6.0,7.0,6.0,3.0,,,3.0,1.0,Completed,1.167,4.5,1.22,4.15,1.1,4.5,1.167,4.5,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,El Aynaoui Y.,Hilton M.,22.0,382,6.0,3.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,Completed,1.125,5.5,1.1,6.5,1.05,5.0,1.1,6.0,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Agassi A.,Delgado J.,1.0,458,6.0,4.0,6.0,0.0,5.0,7.0,6.0,4.0,,,3.0,1.0,Completed,1.02,11.0,1.02,13.0,1.02,6.0,1.02,11.0,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Sa A.,Puerta M.,84.0,87,6.0,2.0,,,,,,,,,1.0,0.0,Retired,1.167,4.5,1.18,4.5,1.15,3.8,1.182,4.333,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Galvani S.,Boutter J.,159.0,95,6.0,3.0,2.0,6.0,1.0,6.0,6.0,2.0,8.0,6.0,3.0,2.0,Completed,3.0,1.364,3.15,1.35,2.7,1.3,,,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Novak J.,Horna L.,10.0,114,3.0,6.0,7.0,6.0,6.0,1.0,6.0,1.0,,,3.0,1.0,Completed,1.111,6.0,1.12,6.0,1.1,4.5,1.1,6.0,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Popp A.,Arazi H.,198.0,90,6.0,4.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,2.1,1.667,2.35,1.57,1.9,1.6,2.0,1.727,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Soderling R.,Verkerk M.,152.0,16,6.0,3.0,6.0,4.0,6.0,7.0,6.0,1.0,,,3.0,1.0,Completed,3.25,1.333,3.15,1.35,3.3,1.2,3.25,1.286,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Blake J.,Larkham T.,27.0,186,6.0,3.0,6.0,1.0,6.0,1.0,,,,,3.0,0.0,Completed,1.167,4.5,1.22,4.15,1.15,3.8,1.14,5.0,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Suzuki T.,Norman D.,303.0,112,7.0,6.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,3.5,1.286,3.75,1.25,3.0,1.25,3.75,1.222,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Nieminen J.,Verdasco F.,32.0,121,6.0,7.0,6.0,4.0,4.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed,1.4,2.75,1.45,2.7,1.4,2.3,1.4,2.75,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Ferrero J.C.,Lisnard J.R.,3.0,94,6.0,2.0,6.0,1.0,6.0,3.0,,,,,3.0,0.0,Completed,1.143,5.0,1.14,5.5,1.15,3.8,1.1,6.0,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Sargsian S.,Bogdanovic A.,62.0,305,6.0,1.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.727,2.0,1.7,2.12,1.6,1.9,1.727,2.0,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Niemeyer F.,Mantilla F.,308.0,17,6.0,4.0,7.0,6.0,4.0,6.0,7.0,6.0,,,3.0,1.0,Completed,2.0,1.727,1.93,1.84,1.8,1.7,1.9,1.8,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Escude N.,Economidis K.,61.0,280,7.0,6.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,1.286,3.5,1.25,3.6,1.25,3.0,1.25,3.5,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Moodie W.,Rosset M.,150.0,104,6.0,4.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.909,1.8,2.1,1.72,1.9,1.6,1.833,1.833,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Sluiter R.,Kafelnikov Y.,67.0,23,7.0,5.0,3.0,6.0,2.0,6.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed,2.25,1.571,2.12,1.7,2.2,1.45,2.375,1.533,,
+ATP,2003,36,London,Wimbledon,2003-06-24,Grand Slam,Outdoor,Grass,1st Round,5,Arthurs W.,Martin A.,77.0,63,7.0,6.0,6.0,1.0,7.0,6.0,,,,,3.0,0.0,Completed,1.143,5.0,1.16,5.0,1.1,4.5,1.08,7.0,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,1st Round,5,Burgsmuller L.,Montanes A.,88.0,109,6.0,3.0,7.0,6.0,4.0,6.0,6.0,2.0,,,3.0,1.0,Completed,1.143,5.0,1.18,4.75,1.15,3.8,1.167,4.5,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,1st Round,5,Grosjean S.,Enqvist T.,14.0,106,4.0,6.0,6.0,3.0,6.0,4.0,7.0,6.0,,,3.0,1.0,Completed,1.364,3.0,1.35,3.1,1.35,2.5,1.364,2.875,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Fish M.,Gambill J.M.,45.0,42,6.0,4.0,6.0,4.0,6.0,1.0,,,,,3.0,0.0,Completed,1.833,1.833,1.8,1.98,1.75,1.75,1.833,1.833,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Schuettler R.,Santoro F.,8.0,49,6.0,2.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.364,3.0,1.29,3.5,1.3,2.7,1.333,3.0,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Srichaphan P.,Mutis O.,11.0,78,4.0,6.0,1.0,6.0,7.0,6.0,7.0,5.0,7.0,5.0,3.0,2.0,Completed,1.333,3.25,1.36,3.1,1.25,3.0,1.364,2.875,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Nadal R.,Childs L.,76.0,489,6.0,2.0,6.0,4.0,6.0,3.0,,,,,3.0,0.0,Completed,1.364,3.0,1.38,3.0,1.35,2.5,1.44,2.62,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Federer R.,Koubek S.,5.0,70,7.0,5.0,6.0,1.0,6.0,1.0,,,,,3.0,0.0,Completed,1.083,7.0,1.08,7.0,1.05,5.0,1.063,8.0,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Martin T.,Kuerten G.,102.0,13,7.0,6.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.533,2.375,1.53,2.45,1.45,2.2,1.444,2.625,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Saretta F.,Calleri A.,60.0,18,6.0,4.0,6.0,7.0,6.0,2.0,6.0,7.0,10.0,8.0,3.0,2.0,Completed,1.833,1.833,1.78,2.0,1.75,1.75,1.833,1.833,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Lopez F.,Youzhny M.,52.0,25,7.0,6.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,3.25,1.333,2.9,1.4,2.7,1.3,3.0,1.333,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Mirnyi M.,Ljubicic I.,43.0,39,6.0,3.0,6.0,4.0,2.0,6.0,6.0,2.0,,,3.0,1.0,Completed,1.833,1.833,1.8,1.95,1.6,1.9,1.833,1.833,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Bjorkman J.,Melzer J.,79.0,100,6.0,4.0,6.0,2.0,2.0,6.0,6.0,3.0,,,3.0,1.0,Completed,1.2,4.333,1.22,4.1,1.2,3.3,1.2,4.0,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Robredo T.,Vahaly B.,21.0,81,6.0,4.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.364,3.0,1.42,2.8,1.25,3.0,1.364,2.875,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Roddick A.,Rusedski G.,6.0,51,7.0,6.0,7.0,6.0,7.0,5.0,,,,,3.0,0.0,Completed,1.444,2.625,1.48,2.6,1.5,2.1,1.444,2.625,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Schalken S.,Lapentti N.,12.0,47,6.0,2.0,3.0,6.0,6.0,7.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed,1.25,3.75,1.22,4.1,1.15,3.8,1.222,3.75,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Hanescu V.,Chela J.I.,99.0,34,6.0,2.0,6.0,1.0,6.0,4.0,,,,,3.0,0.0,Completed,2.1,1.667,2.05,1.75,1.9,1.6,2.0,1.727,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Gimelstob J.,Clement A.,96.0,30,2.0,6.0,6.0,3.0,6.0,4.0,6.0,7.0,6.0,1.0,3.0,2.0,Completed,4.0,1.222,4.15,1.22,3.0,1.25,4.5,1.167,,
+ATP,2003,36,London,Wimbledon,2003-06-25,Grand Slam,Outdoor,Grass,2nd Round,5,Karlovic I.,Baccanello P.,203.0,204,6.0,4.0,7.0,6.0,5.0,7.0,6.0,2.0,,,3.0,1.0,Completed,1.444,2.625,1.52,2.5,1.4,2.3,1.444,2.625,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Soderling R.,Elseneer G.,152.0,160,2.0,6.0,7.0,6.0,6.0,4.0,6.0,3.0,,,3.0,1.0,Completed,1.727,2.0,1.6,2.3,1.65,1.85,1.66,2.1,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Nieminen J.,Galvani S.,32.0,159,6.0,4.0,5.0,7.0,6.0,4.0,7.0,6.0,,,3.0,1.0,Completed,1.25,3.75,1.26,3.75,1.15,3.8,1.25,3.5,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,El Aynaoui Y.,Massu N.,22.0,80,7.0,6.0,3.0,6.0,7.0,6.0,6.0,4.0,,,3.0,1.0,Completed,1.333,3.25,1.26,3.7,1.3,2.7,1.333,3.0,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Rochus O.,Dupuis A.,65.0,74,2.0,6.0,6.0,3.0,4.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed,1.833,1.833,1.9,1.88,1.8,1.7,1.833,1.833,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Nalbandian D.,Sa A.,9.0,84,6.0,2.0,7.0,5.0,6.0,2.0,,,,,3.0,0.0,Completed,1.222,4.0,1.28,3.6,1.25,3.0,1.2,4.0,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Henman T.,Llodra M.,29.0,136,6.0,4.0,6.0,4.0,6.0,3.0,,,,,3.0,0.0,Completed,1.125,5.5,1.2,4.4,1.15,3.8,1.1,6.0,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Novak J.,Ferrer D.,10.0,64,6.0,2.0,7.0,5.0,6.0,3.0,,,,,3.0,0.0,Completed,1.143,5.0,1.14,5.5,1.1,4.5,1.1,6.0,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Moodie W.,Niemeyer F.,150.0,308,7.0,6.0,4.0,6.0,2.0,6.0,6.0,1.0,7.0,5.0,3.0,2.0,Completed,1.444,2.625,1.33,3.25,1.4,2.3,1.444,2.625,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Kucera K.,Suzuki T.,46.0,303,6.0,3.0,7.0,5.0,6.0,2.0,,,,,3.0,0.0,Completed,1.167,4.5,1.2,4.35,1.25,3.0,1.2,4.0,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Sargsian S.,Blake J.,62.0,27,6.0,2.0,7.0,6.0,6.0,2.0,,,,,3.0,0.0,Completed,2.75,1.4,2.6,1.48,2.7,1.3,2.75,1.4,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Philippoussis M.,Saulnier C.,48.0,124,6.0,3.0,6.0,2.0,7.0,6.0,,,,,3.0,0.0,Completed,1.286,3.5,1.25,3.85,1.25,3.0,1.25,3.5,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Agassi A.,Burgsmuller L.,1.0,88,6.0,3.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,1.04,9.0,1.04,10.0,1.03,5.5,1.05,8.0,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Popp A.,Sluiter R.,198.0,67,7.0,6.0,4.0,6.0,6.0,3.0,6.0,7.0,6.0,2.0,3.0,2.0,Completed,2.625,1.444,2.6,1.48,2.0,1.55,2.375,1.533,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Stepanek R.,Draper S.,38.0,115,7.0,6.0,6.0,3.0,6.0,1.0,,,,,3.0,0.0,Completed,1.333,3.25,1.28,3.6,1.25,3.0,1.25,3.5,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Ferrero J.C.,Escude N.,3.0,61,6.0,7.0,6.0,3.0,6.0,3.0,,,,,2.0,1.0,Retired,1.833,1.833,1.88,1.9,1.55,2.0,1.727,2.0,,
+ATP,2003,36,London,Wimbledon,2003-06-26,Grand Slam,Outdoor,Grass,2nd Round,5,Grosjean S.,Arthurs W.,14.0,77,6.0,3.0,6.0,4.0,6.0,7.0,6.0,3.0,,,3.0,1.0,Completed,1.4,2.75,1.4,2.9,1.4,2.3,1.364,2.875,,
+ATP,2003,36,London,Wimbledon,2003-06-27,Grand Slam,Outdoor,Grass,3rd Round,5,Schuettler R.,Martin T.,8.0,102,4.0,6.0,7.0,5.0,6.0,7.0,6.0,1.0,7.0,5.0,3.0,2.0,Completed,1.833,1.833,1.9,1.88,1.6,1.9,1.83,1.83,,
+ATP,2003,36,London,Wimbledon,2003-06-27,Grand Slam,Outdoor,Grass,3rd Round,5,Schalken S.,Hanescu V.,12.0,99,6.0,2.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,1.2,4.333,1.25,3.8,1.15,3.8,1.182,4.333,,
+ATP,2003,36,London,Wimbledon,2003-06-27,Grand Slam,Outdoor,Grass,3rd Round,5,Srichaphan P.,Nadal R.,11.0,76,6.0,4.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.833,1.833,1.9,1.88,1.7,1.8,1.833,1.833,,
+ATP,2003,36,London,Wimbledon,2003-06-27,Grand Slam,Outdoor,Grass,3rd Round,5,Roddick A.,Robredo T.,6.0,21,7.0,6.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.1,6.5,1.08,7.5,1.05,5.0,1.063,7.5,,
+ATP,2003,36,London,Wimbledon,2003-06-27,Grand Slam,Outdoor,Grass,3rd Round,5,Bjorkman J.,Gimelstob J.,79.0,96,6.0,1.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.333,3.25,1.26,3.75,1.25,3.0,1.286,3.25,,
+ATP,2003,36,London,Wimbledon,2003-06-27,Grand Slam,Outdoor,Grass,3rd Round,5,Mirnyi M.,Karlovic I.,43.0,203,7.0,6.0,3.0,6.0,6.0,3.0,7.0,6.0,,,3.0,1.0,Completed,1.444,2.625,1.48,2.6,1.35,2.5,1.444,2.625,,
+ATP,2003,36,London,Wimbledon,2003-06-27,Grand Slam,Outdoor,Grass,3rd Round,5,Federer R.,Fish M.,5.0,45,6.0,3.0,6.0,1.0,4.0,6.0,6.0,1.0,,,3.0,1.0,Completed,1.222,4.0,1.26,3.65,1.15,3.8,1.167,4.5,,
+ATP,2003,36,London,Wimbledon,2003-06-27,Grand Slam,Outdoor,Grass,3rd Round,5,Lopez F.,Saretta F.,52.0,60,6.0,4.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.615,2.2,1.54,2.4,1.45,2.2,1.66,2.1,,
+ATP,2003,36,London,Wimbledon,2003-06-28,Grand Slam,Outdoor,Grass,3rd Round,5,Rochus O.,Nieminen J.,65.0,32,7.0,6.0,6.0,3.0,6.0,1.0,,,,,3.0,0.0,Completed,1.667,2.1,1.68,2.15,1.65,1.85,1.615,2.2,,
+ATP,2003,36,London,Wimbledon,2003-06-28,Grand Slam,Outdoor,Grass,3rd Round,5,Popp A.,Novak J.,198.0,10,6.0,3.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,2.375,1.533,2.35,1.58,2.2,1.45,2.25,1.571,,
+ATP,2003,36,London,Wimbledon,2003-06-28,Grand Slam,Outdoor,Grass,3rd Round,5,Philippoussis M.,Stepanek R.,48.0,38,4.0,6.0,7.0,6.0,6.0,4.0,7.0,6.0,,,3.0,1.0,Completed,1.364,3.0,1.38,3.0,1.45,2.2,1.364,2.875,,
+ATP,2003,36,London,Wimbledon,2003-06-28,Grand Slam,Outdoor,Grass,3rd Round,5,Agassi A.,El Aynaoui Y.,1.0,22,5.0,7.0,6.0,4.0,7.0,6.0,7.0,6.0,,,3.0,1.0,Completed,1.143,5.0,1.14,5.5,1.1,4.5,1.125,5.5,,
+ATP,2003,36,London,Wimbledon,2003-06-28,Grand Slam,Outdoor,Grass,3rd Round,5,Grosjean S.,Moodie W.,14.0,150,6.0,7.0,6.0,2.0,6.0,4.0,6.0,4.0,,,3.0,1.0,Completed,1.2,4.333,1.18,4.7,1.15,3.8,1.167,4.5,,
+ATP,2003,36,London,Wimbledon,2003-06-28,Grand Slam,Outdoor,Grass,3rd Round,5,Nalbandian D.,Kucera K.,9.0,46,6.0,4.0,5.0,7.0,6.0,7.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed,1.5,2.5,1.57,2.35,1.45,2.2,1.533,2.375,,
+ATP,2003,36,London,Wimbledon,2003-06-28,Grand Slam,Outdoor,Grass,3rd Round,5,Ferrero J.C.,Sargsian S.,3.0,62,6.0,4.0,6.0,4.0,2.0,6.0,6.0,4.0,,,3.0,1.0,Completed,1.4,2.75,1.4,2.9,1.3,2.7,1.333,3.0,,
+ATP,2003,36,London,Wimbledon,2003-06-28,Grand Slam,Outdoor,Grass,3rd Round,5,Henman T.,Soderling R.,29.0,152,6.0,3.0,6.0,1.0,6.0,4.0,,,,,3.0,0.0,Completed,1.111,6.0,1.14,5.5,1.1,4.5,1.1,6.0,,
+ATP,2003,36,London,Wimbledon,2003-06-30,Grand Slam,Outdoor,Grass,4th Round,5,Popp A.,Rochus O.,198.0,65,5.0,7.0,6.0,3.0,6.0,4.0,6.0,2.0,,,3.0,1.0,Completed,1.667,2.1,1.6,2.3,1.55,2.0,1.61,2.2,,
+ATP,2003,36,London,Wimbledon,2003-06-30,Grand Slam,Outdoor,Grass,4th Round,5,Bjorkman J.,Mirnyi M.,79.0,43,6.0,4.0,3.0,6.0,6.0,3.0,7.0,6.0,,,3.0,1.0,Completed,1.615,2.2,1.6,2.3,1.6,1.9,1.57,2.25,,
+ATP,2003,36,London,Wimbledon,2003-06-30,Grand Slam,Outdoor,Grass,4th Round,5,Philippoussis M.,Agassi A.,48.0,1,6.0,3.0,2.0,6.0,6.0,7.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed,3.5,1.286,3.4,1.3,2.7,1.3,3.5,1.25,,
+ATP,2003,36,London,Wimbledon,2003-06-30,Grand Slam,Outdoor,Grass,4th Round,5,Roddick A.,Srichaphan P.,6.0,11,6.0,4.0,3.0,6.0,6.0,3.0,6.0,2.0,,,3.0,1.0,Completed,1.125,5.5,1.14,5.5,1.1,4.5,1.12,5.5,,
+ATP,2003,36,London,Wimbledon,2003-06-30,Grand Slam,Outdoor,Grass,4th Round,5,Federer R.,Lopez F.,5.0,52,7.0,6.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.125,5.5,1.14,5.5,1.1,4.5,1.1,6.0,,
+ATP,2003,36,London,Wimbledon,2003-06-30,Grand Slam,Outdoor,Grass,4th Round,5,Schalken S.,Schuettler R.,12.0,8,7.0,5.0,6.0,4.0,7.0,5.0,,,,,3.0,0.0,Completed,1.571,2.25,1.58,2.35,1.45,2.2,1.57,2.25,,
+ATP,2003,36,London,Wimbledon,2003-06-30,Grand Slam,Outdoor,Grass,4th Round,5,Henman T.,Nalbandian D.,29.0,9,6.0,2.0,6.0,7.0,7.0,5.0,6.0,3.0,,,3.0,1.0,Completed,1.444,2.625,1.42,2.8,1.35,2.5,1.36,2.87,,
+ATP,2003,36,London,Wimbledon,2003-07-01,Grand Slam,Outdoor,Grass,4th Round,5,Grosjean S.,Ferrero J.C.,14.0,3,6.0,2.0,4.0,6.0,7.0,6.0,7.0,6.0,,,3.0,1.0,Completed,1.8,1.909,1.85,1.92,1.85,1.65,1.83,1.83,,
+ATP,2003,36,London,Wimbledon,2003-07-03,Grand Slam,Outdoor,Grass,Quarterfinals,5,Roddick A.,Bjorkman J.,6.0,79,6.0,4.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,Completed,1.143,5.5,1.14,5.5,1.1,4.5,1.143,5.0,,
+ATP,2003,36,London,Wimbledon,2003-07-03,Grand Slam,Outdoor,Grass,Quarterfinals,5,Federer R.,Schalken S.,5.0,12,6.0,3.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.286,3.75,1.29,3.4,1.25,3.0,1.286,3.25,,
+ATP,2003,36,London,Wimbledon,2003-07-03,Grand Slam,Outdoor,Grass,Quarterfinals,5,Grosjean S.,Henman T.,14.0,29,7.0,6.0,3.0,6.0,6.0,3.0,6.0,4.0,,,3.0,1.0,Completed,1.909,1.909,,,1.9,1.6,2.0,1.72,,
+ATP,2003,36,London,Wimbledon,2003-07-03,Grand Slam,Outdoor,Grass,Quarterfinals,5,Philippoussis M.,Popp A.,48.0,198,4.0,6.0,4.0,6.0,6.0,3.0,6.0,3.0,8.0,6.0,3.0,2.0,Completed,1.25,4.0,1.22,4.1,1.2,3.3,1.16,4.5,,
+ATP,2003,36,London,Wimbledon,2003-07-04,Grand Slam,Outdoor,Grass,Semifinals,5,Philippoussis M.,Grosjean S.,48.0,14,7.0,6.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.727,2.1,1.8,2.0,1.75,1.85,1.7,2.1,,
+ATP,2003,36,London,Wimbledon,2003-07-04,Grand Slam,Outdoor,Grass,Semifinals,5,Federer R.,Roddick A.,5.0,6,7.0,6.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,2.2,1.667,2.2,1.67,2.2,1.5,2.25,1.61,,
+ATP,2003,36,London,Wimbledon,2003-07-06,Grand Slam,Outdoor,Grass,The Final,5,Federer R.,Philippoussis M.,5.0,48,7.0,6.0,6.0,2.0,7.0,6.0,,,,,3.0,0.0,Completed,1.5,2.625,1.55,2.45,1.45,2.3,1.5,2.5,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Ferrero J.C.,Vacek J.,3.0,154,6.0,2.0,4.0,6.0,6.0,3.0,6.0,2.0,,,3.0,1.0,Completed,1.083,7.0,1.08,7.25,1.1,4.5,1.063,7.0,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Kucera K.,Popp A.,37.0,107,6.0,2.0,7.0,5.0,6.0,3.0,,,,,3.0,0.0,Completed,1.364,3.0,1.36,3.1,1.3,2.7,1.333,3.0,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Delgado R.,Grosjean S.,158.0,9,6.0,4.0,6.0,7.0,4.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed,6.5,1.1,5.0,1.16,3.8,1.15,6.0,1.1,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Verdasco F.,Robredo T.,119.0,17,6.0,3.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,4.0,1.222,3.85,1.25,3.3,1.2,4.0,1.2,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Melzer J.,Baker B.,81.0,472,6.0,3.0,6.0,3.0,5.0,7.0,6.0,3.0,,,3.0,1.0,Completed,1.364,3.0,1.38,3.0,1.35,2.5,1.4,2.75,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Fish M.,Johansson J.,26.0,194,6.0,3.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,Completed,1.1,6.5,1.08,7.25,1.1,4.5,1.08,7.0,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Sanguinetti D.,Ramirez-Hidalgo R.,86.0,70,4.0,6.0,6.0,0.0,3.0,6.0,6.0,1.0,6.0,1.0,3.0,2.0,Completed,1.571,2.25,1.57,2.3,1.55,2.0,1.533,2.375,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Carlsen K.,Morrison J.,72.0,180,6.0,2.0,3.0,6.0,6.0,3.0,6.0,4.0,,,3.0,1.0,Completed,2.375,1.533,2.4,1.55,2.1,1.5,2.37,1.53,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Clement A.,Vahaly B.,32.0,78,6.0,7.0,7.0,6.0,6.0,3.0,6.0,4.0,,,3.0,1.0,Completed,1.364,3.0,1.36,3.1,1.3,2.7,1.364,2.875,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Carraz G.,Rusedski G.,100.0,90,6.0,4.0,4.0,6.0,6.0,2.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed,4.0,1.222,4.0,1.23,3.8,1.15,3.5,1.25,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Martin T.,Yim R.,93.0,802,6.0,1.0,7.0,6.0,6.0,2.0,,,,,3.0,0.0,Completed,1.05,8.5,1.02,11.0,1.05,5.0,1.06,7.0,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Davydenko N.,Mirnyi M.,38.0,18,7.0,6.0,2.0,6.0,6.0,2.0,7.0,6.0,,,3.0,1.0,Completed,3.5,1.286,3.75,1.26,3.0,1.25,4.0,1.2,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Berdych T.,Behrend T.,121.0,79,5.0,7.0,6.0,3.0,6.0,2.0,6.0,3.0,,,3.0,1.0,Completed,1.72,2.0,1.55,2.35,1.6,1.9,1.66,2.1,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Koubek S.,Galimberti G.,68.0,127,5.0,7.0,6.0,2.0,6.0,2.0,7.0,6.0,,,3.0,1.0,Completed,1.444,2.625,1.45,2.7,1.45,2.2,1.444,2.625,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Ferreira W.,Miranda I.,23.0,115,6.0,4.0,6.0,3.0,6.0,1.0,,,,,3.0,0.0,Completed,1.125,5.5,1.16,5.0,1.1,4.5,1.143,5.0,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Ginepri R.,Ferrer D.,40.0,59,6.0,2.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.167,4.5,1.14,5.25,1.2,3.3,1.167,4.5,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Ulihrach B.,Abel M.,188.0,251,4.0,6.0,6.0,4.0,6.0,3.0,6.0,1.0,,,3.0,1.0,Completed,2.0,1.727,2.05,1.75,2.0,1.55,2.0,1.727,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Vinciguerra A.,Kendrick R.,92.0,120,7.0,6.0,6.0,7.0,7.0,5.0,1.0,6.0,6.0,1.0,3.0,2.0,Completed,1.833,1.833,2.1,1.72,2.0,1.55,1.909,1.8,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Lee H.T.,Voltchkov V.,69.0,66,6.0,3.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,1.533,2.375,1.45,2.7,1.3,2.7,1.571,2.25,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Bjorkman J.,Volandri F.,44.0,47,6.0,1.0,6.0,4.0,6.0,0.0,,,,,3.0,0.0,Completed,1.4,2.75,1.43,2.75,1.35,2.5,1.364,2.875,,
+ATP,2003,51,New York,US Open,2003-08-25,Grand Slam,Outdoor,Hard,1st Round,5,Verkerk M.,Bogomolov Jr. A.,16.0,117,7.0,6.0,4.0,6.0,3.0,6.0,7.0,6.0,1.0,0.0,2.0,2.0,Retired,1.533,2.375,1.5,2.55,1.4,2.3,1.444,2.625,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Coria G.,Puerta M.,5.0,91,6.0,4.0,6.0,3.0,6.0,1.0,,,,,3.0,0.0,Completed,1.02,11.0,1.02,11.0,1.03,5.5,1.04,9.0,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Dent T.,Soderling R.,73.0,99,7.0,6.0,6.0,3.0,3.0,6.0,6.0,4.0,,,3.0,1.0,Completed,2.0,1.727,2.2,1.65,1.75,1.75,2.0,1.727,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Hewitt L.,Hanescu V.,6.0,84,6.0,3.0,6.0,2.0,6.0,2.0,,,,,3.0,0.0,Completed,1.083,7.0,1.09,7.0,1.1,4.5,1.05,8.0,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Schuettler R.,Arthurs W.,8.0,118,4.0,6.0,6.0,3.0,6.0,2.0,6.0,4.0,,,3.0,1.0,Completed,1.167,4.5,1.14,5.5,1.15,3.8,1.143,5.0,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Chela J.I.,Karanusic R.,41.0,225,6.0,4.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,,,1.15,5.25,1.15,3.8,1.12,5.5,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Srichaphan P.,Saulnier C.,11.0,101,2.0,6.0,6.0,2.0,6.0,3.0,7.0,6.0,,,3.0,1.0,Completed,1.143,5.0,1.13,5.65,1.15,3.8,1.167,4.5,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Hrbaty D.,Gimelstob J.,53.0,82,6.0,3.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.444,2.625,1.4,2.9,1.4,2.3,1.4,2.75,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Kafelnikov Y.,Vliegen K.,28.0,131,3.0,6.0,7.0,6.0,6.0,2.0,6.0,2.0,,,3.0,1.0,Completed,,,1.2,4.35,1.2,3.3,1.222,3.75,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Santoro F.,Benneteau J.,58.0,160,0.0,6.0,7.0,5.0,6.0,2.0,6.0,2.0,,,3.0,1.0,Completed,1.444,2.625,1.55,2.4,1.4,2.3,1.533,2.375,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Lapentti N.,Beck K.,57.0,71,4.0,6.0,6.0,3.0,7.0,5.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed,1.533,2.375,1.65,2.2,1.55,2.0,1.571,2.25,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Gonzalez F.,Chang M.,15.0,222,6.0,3.0,7.0,5.0,5.0,7.0,6.0,4.0,,,3.0,1.0,Completed,1.083,7.0,1.08,7.25,1.05,5.0,1.063,7.0,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Stepanek R.,Lopez F.,46.0,29,6.0,4.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,,,2.15,1.68,1.9,1.6,2.0,1.72,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Saretta F.,Spadea V.,49.0,31,6.0,3.0,6.0,1.0,5.0,7.0,7.0,6.0,,,3.0,1.0,Completed,2.0,1.727,1.95,1.82,1.85,1.65,2.0,1.727,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Kiefer N.,Squillari F.,62.0,97,6.0,3.0,5.0,0.0,,,,,,,1.0,0.0,Retired,1.25,3.75,1.2,4.3,1.2,3.3,1.222,3.75,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,van Lottum J.,Rochus C.,83.0,89,6.0,0.0,6.0,2.0,6.0,2.0,,,,,3.0,0.0,Completed,1.833,1.833,1.8,1.95,1.8,1.7,1.727,2.0,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Costa A.,Sluiter R.,24.0,54,7.0,6.0,7.0,6.0,2.0,6.0,6.0,3.0,,,3.0,1.0,Completed,,,1.72,2.05,1.55,2.0,1.667,2.1,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Burgsmuller L.,Horna L.,85.0,76,6.0,4.0,4.0,6.0,3.0,6.0,7.0,5.0,6.0,1.0,3.0,2.0,Completed,1.533,2.375,1.65,2.2,1.5,2.1,1.571,2.25,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Schalken S.,Boutter J.,12.0,96,6.0,2.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.143,5.0,1.18,4.7,1.15,3.8,1.125,5.5,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Calleri A.,Eschauer W.,19.0,98,7.0,6.0,7.0,6.0,1.0,6.0,6.0,4.0,,,3.0,1.0,Completed,1.286,3.5,1.25,3.85,1.3,2.7,1.286,3.25,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Agassi A.,Corretja A.,1.0,102,6.0,1.0,6.0,2.0,6.0,2.0,,,,,3.0,0.0,Completed,1.083,7.0,1.08,7.0,1.1,4.5,1.05,8.0,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Martin A.,Mutis O.,63.0,80,6.0,0.0,6.0,3.0,6.0,1.0,,,,,3.0,0.0,Completed,2.0,1.727,2.2,1.65,1.7,1.8,2.0,1.727,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Ljubicic I.,Mathieu P.H.,43.0,56,6.0,4.0,6.0,2.0,7.0,5.0,,,,,3.0,0.0,Completed,1.727,2.0,1.75,2.05,1.7,1.8,1.667,2.1,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Karlovic I.,Mantilla F.,109.0,22,6.0,4.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.571,2.25,1.52,2.5,1.55,2.0,1.533,2.375,,
+ATP,2003,51,New York,US Open,2003-08-26,Grand Slam,Outdoor,Hard,1st Round,5,Malisse X.,Rochus O.,67.0,48,6.0,3.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.4,2.75,1.45,2.7,1.4,2.3,1.364,2.875,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Tursunov D.,Kuerten G.,174.0,14,5.0,7.0,6.0,2.0,6.0,2.0,4.0,6.0,7.0,6.0,3.0,2.0,Completed,3.75,1.25,3.25,1.33,2.7,1.3,3.75,1.222,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Arazi H.,Salzenstein J.,65.0,132,6.0,1.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,1.571,2.25,1.68,2.15,1.65,1.85,1.667,2.1,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Roddick A.,Henman T.,4.0,33,6.0,3.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,1.25,3.75,1.25,3.85,1.2,3.3,1.25,3.5,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Enqvist T.,Portas A.,143.0,88,6.0,2.0,6.0,3.0,6.0,1.0,,,,,3.0,0.0,Completed,1.167,4.5,1.14,5.5,1.15,3.8,1.1,6.0,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Massu N.,Gaudio G.,42.0,30,6.0,3.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,2.5,1.5,2.45,1.53,2.7,1.3,2.5,1.5,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,El Aynaoui Y.,Kim A.,21.0,173,7.0,5.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,1.125,5.5,1.1,6.5,1.1,4.5,1.1,6.0,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Nieminen J.,Mahut N.,39.0,114,6.0,2.0,6.0,4.0,7.0,5.0,,,,,3.0,0.0,Completed,1.167,4.5,1.14,5.5,1.15,3.8,1.167,4.5,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Dupuis A.,Youzhny M.,64.0,36,5.0,7.0,6.0,4.0,3.0,6.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed,3.25,1.333,3.6,1.28,3.0,1.25,3.25,1.286,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Philippoussis M.,Tipsarevic J.,20.0,149,6.0,2.0,7.0,6.0,6.0,4.0,,,,,3.0,0.0,Completed,1.12,5.5,1.08,7.25,1.15,3.8,1.1,6.0,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Federer R.,Acasuso J.,2.0,75,5.0,7.0,6.0,3.0,6.0,3.0,2.0,0.0,,,2.0,1.0,Retired,1.03,10.0,1.05,9.0,1.05,5.0,1.03,9.0,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Moodie W.,Montanes A.,95.0,87,7.0,6.0,6.0,2.0,6.0,2.0,,,,,3.0,0.0,Completed,1.222,4.0,1.16,5.0,1.2,3.3,1.167,4.5,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Nadal R.,Vicente F.,45.0,61,6.0,4.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.4,2.75,1.36,3.1,1.35,2.5,1.333,3.0,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Nalbandian D.,Kohlschreiber P.,13.0,271,6.0,4.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,1.071,8.0,1.05,9.25,1.05,5.0,1.083,7.0,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Moya C.,Draper S.,7.0,111,4.0,6.0,6.0,4.0,7.0,5.0,7.0,6.0,,,3.0,1.0,Completed,1.333,3.25,1.35,3.15,1.25,3.0,1.25,3.5,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Novak J.,Ancic M.,10.0,74,3.0,6.0,6.0,3.0,5.0,7.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed,1.286,3.5,1.28,3.6,1.25,3.0,1.25,3.5,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Lisnard J.R.,Norman M.,94.0,77,6.0,2.0,6.0,2.0,6.0,7.0,0.0,6.0,7.0,6.0,3.0,2.0,Completed,1.833,1.833,1.85,1.92,1.75,1.75,1.833,1.833,,
+ATP,2003,51,New York,US Open,2003-08-27,Grand Slam,Outdoor,Hard,1st Round,5,Gambill J.M.,Sanchez D.,50.0,55,7.0,6.0,6.0,2.0,6.0,2.0,,,,,3.0,0.0,Completed,1.333,3.25,1.35,3.15,1.4,2.3,1.333,3.0,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,1st Round,5,Sargsian S.,Delic A.,52.0,525,4.0,6.0,6.0,3.0,6.0,7.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed,1.25,3.75,1.22,4.15,1.25,3.0,1.25,3.5,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,1st Round,5,Blake J.,Zabaleta M.,35.0,27,7.0,6.0,6.0,3.0,6.0,2.0,,,,,3.0,0.0,Completed,1.5,2.5,1.52,2.5,1.4,2.3,1.4,2.75,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Hewitt L.,Lee H.T.,6.0,69,5.0,7.0,6.0,2.0,6.0,2.0,6.0,4.0,,,3.0,1.0,Completed,1.063,8.0,1.07,8.0,1.1,4.5,1.063,7.0,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Chela J.I.,Berdych T.,41.0,121,2.0,6.0,6.0,1.0,6.0,4.0,6.0,3.0,,,3.0,1.0,Completed,1.22,4.0,1.22,4.15,1.2,3.3,1.18,4.33,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Srichaphan P.,Hrbaty D.,11.0,53,6.0,4.0,6.0,4.0,6.0,3.0,,,,,3.0,0.0,Completed,1.25,3.75,1.3,3.4,1.2,3.3,1.333,3.0,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Verdasco F.,Sanguinetti D.,119.0,86,7.0,6.0,7.0,6.0,4.0,6.0,6.0,3.0,,,3.0,1.0,Completed,1.444,2.625,1.33,3.25,1.45,2.2,1.4,2.75,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Bjorkman J.,Delgado R.,44.0,158,4.0,6.0,6.0,4.0,6.0,4.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed,1.5,2.5,1.53,2.45,1.45,2.2,1.53,2.37,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Ferrero J.C.,Melzer J.,3.0,81,1.0,6.0,7.0,6.0,6.0,2.0,6.0,4.0,,,3.0,1.0,Completed,1.1,6.5,1.08,7.5,1.1,4.5,1.063,7.0,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Kafelnikov Y.,Carlsen K.,28.0,72,4.0,6.0,6.0,2.0,6.0,3.0,6.0,3.0,,,3.0,1.0,Completed,1.333,3.25,1.33,3.25,1.35,2.5,1.286,3.25,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Martin T.,Verkerk M.,93.0,16,6.0,3.0,6.0,4.0,6.0,7.0,7.0,6.0,,,3.0,1.0,Completed,1.533,2.375,1.53,2.45,1.5,2.1,1.571,2.25,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Stepanek R.,Santoro F.,46.0,58,6.0,2.0,6.0,4.0,6.0,7.0,6.0,3.0,,,3.0,1.0,Completed,1.4,2.75,1.33,3.25,1.35,2.5,1.364,2.875,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Carraz G.,Clement A.,100.0,32,3.0,6.0,1.0,6.0,6.0,2.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed,3.0,1.364,3.0,1.38,3.0,1.25,3.25,1.286,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Coria G.,Ulihrach B.,5.0,188,6.0,2.0,6.0,1.0,6.0,4.0,,,,,3.0,0.0,Completed,1.063,8.0,1.05,9.0,1.05,5.0,1.063,7.0,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Kucera K.,Fish M.,37.0,26,6.0,4.0,7.0,6.0,6.0,4.0,,,,,3.0,0.0,Completed,3.0,1.364,3.25,1.33,2.7,1.3,3.0,1.333,,
+ATP,2003,51,New York,US Open,2003-08-28,Grand Slam,Outdoor,Hard,2nd Round,5,Dent T.,Davydenko N.,73.0,38,6.0,3.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,1.833,1.833,2.0,1.78,1.75,1.75,1.833,1.833,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Gonzalez F.,Koubek S.,15.0,68,7.0,6.0,6.0,1.0,6.0,2.0,,,,,3.0,0.0,Completed,1.286,3.5,1.3,3.45,1.25,3.0,1.286,3.25,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Ginepri R.,Ferreira W.,40.0,23,6.0,2.0,6.0,4.0,6.0,7.0,6.0,2.0,,,3.0,1.0,Completed,2.2,1.615,2.25,1.62,2.0,1.55,2.1,1.667,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Agassi A.,Vinciguerra A.,1.0,92,7.0,6.0,6.0,1.0,6.0,4.0,,,,,3.0,0.0,Completed,1.03,10.0,1.02,12.0,1.03,5.5,1.02,11.0,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Malisse X.,Calleri A.,67.0,19,6.0,2.0,6.0,7.0,6.0,3.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed,1.4,2.75,1.46,2.65,1.3,2.7,1.444,2.625,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Tursunov D.,van Lottum J.,174.0,83,6.0,4.0,3.0,6.0,6.0,3.0,5.0,7.0,6.0,2.0,3.0,2.0,Completed,1.727,2.0,1.58,2.35,1.65,1.85,1.667,2.1,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Nalbandian D.,Nieminen J.,13.0,39,5.0,7.0,6.0,3.0,6.0,1.0,4.0,6.0,7.0,6.0,3.0,2.0,Completed,1.444,2.625,1.42,2.8,1.4,2.3,1.364,2.875,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Philippoussis M.,Dupuis A.,20.0,64,6.0,2.0,6.0,3.0,6.0,4.0,,,,,3.0,0.0,Completed,1.167,4.5,1.15,5.25,1.15,3.8,1.125,5.5,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Blake J.,Sargsian S.,35.0,52,6.0,3.0,6.0,4.0,4.0,6.0,7.0,6.0,,,3.0,1.0,Completed,1.286,3.5,1.2,4.25,1.2,3.3,1.25,3.5,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Karlovic I.,Arazi H.,109.0,65,3.0,6.0,7.0,6.0,7.0,6.0,7.0,6.0,,,3.0,1.0,Completed,1.727,2.0,1.72,2.08,1.75,1.75,1.667,2.1,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Schalken S.,Burgsmuller L.,12.0,85,4.0,6.0,2.0,6.0,6.0,2.0,6.0,2.0,6.0,0.0,3.0,2.0,Completed,1.167,4.5,1.14,5.5,1.15,3.8,1.143,5.0,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Martin A.,Costa A.,63.0,24,6.0,3.0,6.0,3.0,3.0,6.0,6.0,2.0,,,3.0,1.0,Completed,2.5,1.5,2.55,1.5,2.2,1.45,2.375,1.533,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Schuettler R.,Kiefer N.,8.0,62,6.0,1.0,7.0,5.0,2.0,6.0,6.0,4.0,,,3.0,1.0,Completed,1.333,3.25,1.3,3.45,1.3,2.7,1.286,3.25,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,El Aynaoui Y.,Nadal R.,21.0,45,7.0,6.0,6.0,3.0,7.0,6.0,,,,,3.0,0.0,Completed,1.615,2.2,1.72,2.08,1.55,2.0,1.727,2.0,,
+ATP,2003,51,New York,US Open,2003-08-29,Grand Slam,Outdoor,Hard,2nd Round,5,Federer R.,Lisnard J.R.,2.0,94,6.0,1.0,6.0,2.0,6.0,0.0,,,,,3.0,0.0,Completed,1.03,10.0,1.04,10.0,1.03,5.5,1.04,9.0,,
+ATP,2003,51,New York,US Open,2003-08-30,Grand Slam,Outdoor,Hard,2nd Round,5,Massu N.,Enqvist T.,42.0,143,6.0,3.0,6.0,2.0,7.0,5.0,,,,,3.0,0.0,Completed,2.1,1.667,1.95,1.82,2.0,1.55,2.1,1.667,,
+ATP,2003,51,New York,US Open,2003-08-30,Grand Slam,Outdoor,Hard,2nd Round,5,Novak J.,Gambill J.M.,10.0,50,6.0,4.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,Completed,1.533,2.375,1.5,2.55,1.4,2.3,1.5,2.5,,
+ATP,2003,51,New York,US Open,2003-08-30,Grand Slam,Outdoor,Hard,2nd Round,5,Moya C.,Moodie W.,7.0,95,6.0,2.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,1.25,3.75,1.35,3.15,1.25,3.0,1.333,3.0,,
+ATP,2003,51,New York,US Open,2003-08-30,Grand Slam,Outdoor,Hard,2nd Round,5,Saretta F.,Lapentti N.,49.0,57,6.0,2.0,6.0,4.0,6.0,0.0,,,,,3.0,0.0,Completed,2.0,1.727,1.87,1.9,1.75,1.75,1.833,1.833,,
+ATP,2003,51,New York,US Open,2003-08-30,Grand Slam,Outdoor,Hard,2nd Round,5,Roddick A.,Ljubicic I.,4.0,43,6.0,3.0,6.0,7.0,6.0,3.0,7.0,6.0,,,3.0,1.0,Completed,1.063,8.0,1.09,7.0,1.05,5.0,1.083,7.0,,
+ATP,2003,51,New York,US Open,2003-08-30,Grand Slam,Outdoor,Hard,3rd Round,5,Srichaphan P.,Verdasco F.,11.0,119,6.0,3.0,6.0,4.0,6.0,3.0,,,,,3.0,0.0,Completed,1.14,5.0,1.15,5.25,1.1,4.5,1.125,5.5,,
+ATP,2003,51,New York,US Open,2003-08-30,Grand Slam,Outdoor,Hard,3rd Round,5,Hewitt L.,Stepanek R.,6.0,46,6.0,1.0,3.0,0.0,,,,,,,1.0,0.0,Retired,1.14,5.0,1.2,4.3,1.15,3.8,1.167,4.5,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,Dent T.,Gonzalez F.,73.0,15,7.0,6.0,6.0,7.0,3.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed,2.37,1.53,2.7,1.45,2.1,1.5,2.5,1.5,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,Bjorkman J.,Kucera K.,44.0,37,6.0,4.0,4.0,6.0,6.0,7.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed,2.5,1.5,2.5,1.52,2.1,1.5,2.375,1.533,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,Coria G.,Carraz G.,5.0,100,7.0,5.0,6.0,1.0,7.0,5.0,,,,,3.0,0.0,Completed,1.08,7.0,1.1,6.5,1.1,4.5,1.1,6.0,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,Martin T.,Ginepri R.,93.0,40,6.0,7.0,7.0,6.0,6.0,4.0,6.0,4.0,,,3.0,1.0,Completed,1.83,1.83,1.95,1.82,1.75,1.75,2.0,1.727,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,Ferrero J.C.,Chela J.I.,3.0,41,7.0,5.0,7.0,5.0,6.0,1.0,,,,,3.0,0.0,Completed,1.5,2.5,1.42,2.8,1.4,2.3,1.4,2.75,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,Moya C.,Massu N.,7.0,42,7.0,5.0,6.0,4.0,3.0,6.0,6.0,3.0,,,3.0,1.0,Completed,1.36,3.0,1.4,2.9,1.3,2.7,1.4,2.75,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,El Aynaoui Y.,Novak J.,21.0,10,7.0,6.0,5.0,7.0,3.0,6.0,6.0,3.0,7.0,6.0,3.0,2.0,Completed,1.83,1.83,1.72,2.0,1.85,1.65,1.833,1.833,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,Agassi A.,Kafelnikov Y.,1.0,28,6.0,3.0,7.0,6.0,6.0,4.0,,,,,3.0,0.0,Completed,1.08,7.0,1.06,8.5,1.1,4.5,1.063,7.0,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,Schalken S.,Karlovic I.,12.0,109,7.0,6.0,7.0,6.0,7.0,6.0,,,,,3.0,0.0,Completed,1.36,3.0,1.45,2.7,1.4,2.3,1.444,2.625,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,Roddick A.,Saretta F.,4.0,49,6.0,1.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,Completed,1.06,8.0,1.05,9.0,1.05,5.0,1.071,7.0,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,Schuettler R.,Martin A.,8.0,63,6.0,1.0,6.0,4.0,6.0,2.0,,,,,3.0,0.0,Completed,1.16,4.5,1.15,5.25,1.2,3.3,1.167,4.5,,
+ATP,2003,51,New York,US Open,2003-08-31,Grand Slam,Outdoor,Hard,3rd Round,5,Nalbandian D.,Philippoussis M.,13.0,20,7.0,5.0,6.0,7.0,6.0,3.0,6.0,2.0,,,3.0,1.0,Completed,2.1,1.66,2.2,1.65,1.85,1.65,2.1,1.667,,
+ATP,2003,51,New York,US Open,2003-09-01,Grand Slam,Outdoor,Hard,3rd Round,5,Malisse X.,Tursunov D.,67.0,174,7.0,5.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,1.33,3.25,1.36,3.1,1.3,2.7,1.364,2.875,,
+ATP,2003,51,New York,US Open,2003-09-01,Grand Slam,Outdoor,Hard,3rd Round,5,Federer R.,Blake J.,2.0,35,6.0,3.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,1.28,3.5,1.3,3.4,1.25,3.0,1.25,3.5,,
+ATP,2003,51,New York,US Open,2003-09-03,Grand Slam,Outdoor,Hard,4th Round,5,Agassi A.,Dent T.,1.0,73,6.0,7.0,6.0,4.0,7.0,5.0,,,,,2.0,1.0,Retired,1.083,7.0,1.06,8.0,1.1,4.5,1.063,7.0,,
+ATP,2003,51,New York,US Open,2003-09-04,Grand Slam,Outdoor,Hard,4th Round,5,Roddick A.,Malisse X.,4.0,67,6.0,3.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,Completed,1.071,7.5,1.09,7.0,1.1,4.5,1.063,7.0,,
+ATP,2003,51,New York,US Open,2003-09-04,Grand Slam,Outdoor,Hard,4th Round,5,El Aynaoui Y.,Moya C.,21.0,7,7.0,6.0,7.0,6.0,4.0,6.0,6.0,4.0,,,3.0,1.0,Completed,2.375,1.533,2.4,1.55,2.1,1.5,2.5,1.5,,
+ATP,2003,51,New York,US Open,2003-09-04,Grand Slam,Outdoor,Hard,4th Round,5,Nalbandian D.,Federer R.,13.0,2,3.0,6.0,7.0,6.0,6.0,4.0,6.0,3.0,,,3.0,1.0,Completed,3.0,1.364,2.9,1.4,2.5,1.35,3.0,1.333,,
+ATP,2003,51,New York,US Open,2003-09-04,Grand Slam,Outdoor,Hard,4th Round,5,Coria G.,Bjorkman J.,5.0,44,6.0,2.0,6.0,3.0,4.0,6.0,6.0,2.0,,,3.0,1.0,Completed,1.286,3.5,1.3,3.45,1.25,3.0,1.05,8.0,,
+ATP,2003,51,New York,US Open,2003-09-04,Grand Slam,Outdoor,Hard,4th Round,5,Ferrero J.C.,Martin T.,3.0,93,6.0,2.0,6.0,4.0,3.0,6.0,5.0,7.0,6.0,3.0,3.0,2.0,Completed,1.364,3.0,1.12,5.75,1.3,2.7,1.083,6.5,,
+ATP,2003,51,New York,US Open,2003-09-04,Grand Slam,Outdoor,Hard,4th Round,5,Hewitt L.,Srichaphan P.,6.0,11,4.0,6.0,6.0,2.0,6.0,4.0,6.0,2.0,,,3.0,1.0,Completed,1.444,2.625,1.5,2.55,1.5,2.1,1.4,2.75,,
+ATP,2003,51,New York,US Open,2003-09-04,Grand Slam,Outdoor,Hard,4th Round,5,Schalken S.,Schuettler R.,12.0,8,6.0,1.0,4.0,6.0,6.0,3.0,6.0,4.0,,,3.0,1.0,Completed,2.5,1.5,2.6,1.48,2.0,1.55,2.25,1.571,,
+ATP,2003,51,New York,US Open,2003-09-05,Grand Slam,Outdoor,Hard,Quarterfinals,5,Agassi A.,Coria G.,1.0,5,6.0,4.0,6.0,3.0,7.0,5.0,,,,,3.0,0.0,Completed,1.25,3.75,1.25,3.75,1.25,3.0,1.222,3.75,,
+ATP,2003,51,New York,US Open,2003-09-05,Grand Slam,Outdoor,Hard,Quarterfinals,5,Ferrero J.C.,Hewitt L.,3.0,6,4.0,6.0,6.0,3.0,7.0,6.0,6.0,1.0,,,3.0,1.0,Completed,2.75,1.4,2.65,1.46,2.5,1.35,2.75,1.4,,
+ATP,2003,51,New York,US Open,2003-09-05,Grand Slam,Outdoor,Hard,Quarterfinals,5,Roddick A.,Schalken S.,4.0,12,6.0,4.0,6.0,2.0,6.0,3.0,,,,,3.0,0.0,Completed,1.083,7.0,1.07,8.0,1.1,4.5,1.063,7.0,,
+ATP,2003,51,New York,US Open,2003-09-05,Grand Slam,Outdoor,Hard,Quarterfinals,5,Nalbandian D.,El Aynaoui Y.,13.0,21,7.0,6.0,6.0,2.0,3.0,6.0,7.0,5.0,,,3.0,1.0,Completed,1.4,2.75,1.52,2.5,1.45,2.2,1.444,2.625,,
+ATP,2003,51,New York,US Open,2003-09-06,Grand Slam,Outdoor,Hard,Semifinals,5,Ferrero J.C.,Agassi A.,3.0,1,6.0,4.0,6.0,3.0,3.0,6.0,6.0,4.0,,,3.0,1.0,Completed,3.5,1.3,,,,,2.75,1.4,,
+ATP,2003,51,New York,US Open,2003-09-06,Grand Slam,Outdoor,Hard,Semifinals,5,Roddick A.,Nalbandian D.,4.0,13,6.0,7.0,3.0,6.0,7.0,6.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed,1.143,5.5,,,,,1.143,5.0,,
+ATP,2003,51,New York,US Open,2003-09-07,Grand Slam,Outdoor,Hard,The Final,5,Roddick A.,Ferrero J.C.,4.0,3,6.0,3.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,Completed,1.444,2.75,1.47,2.65,1.5,2.2,1.4,2.75,,

@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tennis Predictor — Probabilités de matchs</title>
+    <!-- Applique le thème AVANT le rendu (évite tout flash). Défaut : sombre. -->
+    <script>
+      (function () {
+        var saved = localStorage.getItem('theme')
+        var dark = saved ? saved === 'dark' : true
+        if (dark) document.documentElement.classList.add('dark')
+      })()
+    </script>
+    <link rel="preconnect" href="https://rsms.me/" />
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
