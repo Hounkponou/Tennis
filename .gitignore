@@ -1,0 +1,17 @@
+# Claude Code (config locale, ne doit pas être versionnée)
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Node / frontend
+web/node_modules/
+web/dist/
+web/.vite/
+
+# OS
+.DS_Store
