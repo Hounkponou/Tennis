@@ -139,8 +139,28 @@ def export_challenge(bundle: dict, holdout_accuracy) -> dict:
                  "accuracy": round(float(r["mean"]), 4),
                  "n": int(r["count"])} for _, r in g.iterrows()]
 
+    # --- Courbe de calibration (fiabilité) ---
+    # Pour chaque match, le modèle donne p au vrai vainqueur (issue=1) et 1-p au
+    # perdant (issue=0). On regroupe ces points par tranche de proba prédite et
+    # on compare la proba MOYENNE prédite à la fréquence RÉELLE observée.
+    preds = np.concatenate([proba, 1.0 - proba])
+    obs = np.concatenate([np.ones_like(proba), np.zeros_like(proba)])
+    edges = np.linspace(0, 1, 11)                       # 10 tranches
+    idx = np.clip(np.digitize(preds, edges) - 1, 0, 9)
+    calibration = []
+    for b in range(10):
+        m = idx == b
+        if m.sum() == 0:
+            continue
+        calibration.append({
+            "pred": round(float(preds[m].mean()), 4),   # proba moyenne prédite
+            "obs": round(float(obs[m].mean()), 4),      # fréquence réelle
+            "n": int(m.sum()),
+        })
+
     recent = meta.sort_values("date", ascending=False).head(80)
     return {
+        "calibration": calibration,
         "holdout_accuracy": holdout_accuracy,        # chiffre HONNÊTE (hors échantillon)
         "backtest_accuracy": round(float(meta["correct"].mean()), 4),
         "n_matches": int(len(meta)),

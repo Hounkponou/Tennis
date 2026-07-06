@@ -68,7 +68,11 @@ def main() -> None:
             skipped.append(f"{p1} vs {p2}")
             continue
 
-        feats = store.features(p1, p2, row["surface"], row["tournament"], row["round"])
+        # Le round peut être absent (calendrier scrapé) -> chaîne vide, que le
+        # modèle traitera par imputation.
+        rnd = str(row["round"]) if pd.notna(row["round"]) else ""
+
+        feats = store.features(p1, p2, row["surface"], row["tournament"], rnd)
         X = pd.DataFrame([[feats[f] for f in features]], columns=features)
         prob1 = float(model.predict_proba(X)[0, 1])
 
@@ -78,7 +82,7 @@ def main() -> None:
             "tour": store.summary(p1)["tour"],   # ATP / WTA (pour les filtres)
             "tournament": row["tournament"],
             "surface": row["surface"],
-            "round": row["round"],
+            "round": rnd,
             "player1": player_block(store, p1, prob1),
             "player2": player_block(store, p2, 1.0 - prob1),
             "favorite": p1 if prob1 >= 0.5 else p2,

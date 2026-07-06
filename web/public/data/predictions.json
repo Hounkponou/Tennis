@@ -1,90 +1,20 @@
 {
-  "generated_at": "2026-07-05T19:35:39.339116+00:00",
+  "generated_at": "2026-07-05T20:13:16.459411+00:00",
   "model_version": "2026.07.05-1935",
   "model_metrics": {
     "accuracy": 0.6925,
     "log_loss": 0.5781,
     "roc_auc": 0.7644
   },
-  "count": 8,
+  "count": 7,
   "matches": [
     {
-      "id": "wim2026-atp-qf1",
-      "date": "2026-07-08",
+      "id": "wim-djokovicn-safiullinr",
+      "date": "2026-07-05",
       "tour": "ATP",
       "tournament": "Wimbledon",
       "surface": "Grass",
-      "round": "Quarterfinals",
-      "player1": {
-        "name": "Alcaraz C.",
-        "rank": 1,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          1
-        ],
-        "matches_played": 104,
-        "win_prob": 0.8881
-      },
-      "player2": {
-        "name": "Fritz T.",
-        "rank": 9,
-        "form_last5": [
-          1,
-          1,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 105,
-        "win_prob": 0.1119
-      },
-      "favorite": "Alcaraz C."
-    },
-    {
-      "id": "wim2026-atp-qf2",
-      "date": "2026-07-08",
-      "tour": "ATP",
-      "tournament": "Wimbledon",
-      "surface": "Grass",
-      "round": "Quarterfinals",
-      "player1": {
-        "name": "Sinner J.",
-        "rank": 1,
-        "form_last5": [
-          1,
-          1,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 115,
-        "win_prob": 0.8222
-      },
-      "player2": {
-        "name": "Shelton B.",
-        "rank": 5,
-        "form_last5": [
-          1,
-          1,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 53,
-        "win_prob": 0.1778
-      },
-      "favorite": "Sinner J."
-    },
-    {
-      "id": "wim2026-atp-qf3",
-      "date": "2026-07-09",
-      "tour": "ATP",
-      "tournament": "Wimbledon",
-      "surface": "Grass",
-      "round": "Quarterfinals",
+      "round": "",
       "player1": {
         "name": "Djokovic N.",
         "rank": 4,
@@ -96,170 +26,100 @@
           0
         ],
         "matches_played": 466,
-        "win_prob": 0.5963
+        "win_prob": 0.8709
       },
       "player2": {
-        "name": "Musetti L.",
-        "rank": 5,
+        "name": "Safiullin R.",
+        "rank": 141,
         "form_last5": [
+          0,
+          0,
           1,
-          1,
-          1,
-          1,
+          0,
           0
         ],
-        "matches_played": 56,
-        "win_prob": 0.4037
+        "matches_played": 26,
+        "win_prob": 0.1291
       },
       "favorite": "Djokovic N."
     },
     {
-      "id": "wim2026-atp-qf4",
-      "date": "2026-07-09",
+      "id": "wim-augeraliassimef-davidovichfokinaa",
+      "date": "2026-07-05",
       "tour": "ATP",
       "tournament": "Wimbledon",
       "surface": "Grass",
-      "round": "Quarterfinals",
+      "round": "",
       "player1": {
-        "name": "Zverev A.",
-        "rank": 3,
+        "name": "Auger-Aliassime F.",
+        "rank": 6,
         "form_last5": [
           1,
           1,
-          1,
-          1,
-          1
-        ],
-        "matches_played": 165,
-        "win_prob": 0.6279
-      },
-      "player2": {
-        "name": "De Minaur A.",
-        "rank": 7,
-        "form_last5": [
-          1,
-          0,
           1,
           1,
           0
         ],
-        "matches_played": 103,
-        "win_prob": 0.3721
+        "matches_played": 72,
+        "win_prob": 0.6681
       },
-      "favorite": "Zverev A."
+      "player2": {
+        "name": "Davidovich Fokina A.",
+        "rank": 23,
+        "form_last5": [
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        "matches_played": 57,
+        "win_prob": 0.3319
+      },
+      "favorite": "Auger-Aliassime F."
     },
     {
-      "id": "wim2026-wta-qf1",
-      "date": "2026-07-08",
-      "tour": "WTA",
+      "id": "wim-sinnerj-mochizukis",
+      "date": "2026-07-05",
+      "tour": "ATP",
       "tournament": "Wimbledon",
       "surface": "Grass",
-      "round": "Quarterfinals",
+      "round": "",
       "player1": {
-        "name": "Sabalenka A.",
+        "name": "Sinner J.",
         "rank": 1,
         "form_last5": [
           1,
           1,
-          1,
+          0,
           1,
           0
         ],
-        "matches_played": 139,
-        "win_prob": 0.6546
+        "matches_played": 115,
+        "win_prob": 0.9503
       },
       "player2": {
-        "name": "Anisimova A.",
-        "rank": 6,
+        "name": "Mochizuki S.",
+        "rank": 112,
         "form_last5": [
           1,
           0,
           1,
-          1,
-          0
-        ],
-        "matches_played": 75,
-        "win_prob": 0.3454
-      },
-      "favorite": "Sabalenka A."
-    },
-    {
-      "id": "wim2026-wta-qf2",
-      "date": "2026-07-08",
-      "tour": "WTA",
-      "tournament": "Wimbledon",
-      "surface": "Grass",
-      "round": "Quarterfinals",
-      "player1": {
-        "name": "Swiatek I.",
-        "rank": 3,
-        "form_last5": [
           0,
-          1,
-          1,
-          1,
           0
         ],
-        "matches_played": 133,
-        "win_prob": 0.4772
+        "matches_played": 8,
+        "win_prob": 0.0497
       },
-      "player2": {
-        "name": "Rybakina E.",
-        "rank": 2,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 93,
-        "win_prob": 0.5228
-      },
-      "favorite": "Rybakina E."
+      "favorite": "Sinner J."
     },
     {
-      "id": "wim2026-wta-qf3",
-      "date": "2026-07-09",
+      "id": "wim-pegulaj-jovici",
+      "date": "2026-07-05",
       "tour": "WTA",
       "tournament": "Wimbledon",
       "surface": "Grass",
-      "round": "Quarterfinals",
-      "player1": {
-        "name": "Gauff C.",
-        "rank": 4,
-        "form_last5": [
-          1,
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 105,
-        "win_prob": 0.5825
-      },
-      "player2": {
-        "name": "Andreeva M.",
-        "rank": 8,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          1
-        ],
-        "matches_played": 50,
-        "win_prob": 0.4175
-      },
-      "favorite": "Gauff C."
-    },
-    {
-      "id": "wim2026-wta-qf4",
-      "date": "2026-07-09",
-      "tour": "WTA",
-      "tournament": "Wimbledon",
-      "surface": "Grass",
-      "round": "Quarterfinals",
+      "round": "",
       "player1": {
         "name": "Pegula J.",
         "rank": 5,
@@ -271,9 +131,31 @@
           0
         ],
         "matches_played": 91,
-        "win_prob": 0.638
+        "win_prob": 0.7206
       },
       "player2": {
+        "name": "Jovic I.",
+        "rank": 17,
+        "form_last5": [
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 17,
+        "win_prob": 0.2794
+      },
+      "favorite": "Pegula J."
+    },
+    {
+      "id": "wim-muchovak-krejcikovab",
+      "date": "2026-07-05",
+      "tour": "WTA",
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "round": "",
+      "player1": {
         "name": "Muchova K.",
         "rank": 10,
         "form_last5": [
@@ -284,9 +166,92 @@
           0
         ],
         "matches_played": 80,
-        "win_prob": 0.362
+        "win_prob": 0.5965
       },
-      "favorite": "Pegula J."
+      "player2": {
+        "name": "Krejcikova B.",
+        "rank": 41,
+        "form_last5": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 71,
+        "win_prob": 0.4035
+      },
+      "favorite": "Muchova K."
+    },
+    {
+      "id": "wim-osakan-sabalenkaa",
+      "date": "2026-07-05",
+      "tour": "WTA",
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "round": "",
+      "player1": {
+        "name": "Osaka N.",
+        "rank": 16,
+        "form_last5": [
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 104,
+        "win_prob": 0.2187
+      },
+      "player2": {
+        "name": "Sabalenka A.",
+        "rank": 1,
+        "form_last5": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 139,
+        "win_prob": 0.7813
+      },
+      "favorite": "Sabalenka A."
+    },
+    {
+      "id": "wim-bencicb-gauffc",
+      "date": "2026-07-05",
+      "tour": "WTA",
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "round": "",
+      "player1": {
+        "name": "Bencic B.",
+        "rank": 11,
+        "form_last5": [
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 109,
+        "win_prob": 0.3243
+      },
+      "player2": {
+        "name": "Gauff C.",
+        "rank": 4,
+        "form_last5": [
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 105,
+        "win_prob": 0.6757
+      },
+      "favorite": "Gauff C."
     }
   ]
 }

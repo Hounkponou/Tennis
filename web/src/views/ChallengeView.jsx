@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import {
-  Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis,
+  Bar, BarChart, CartesianGrid, Legend, Line, LineChart, ResponsiveContainer,
+  Tooltip, XAxis, YAxis,
 } from 'recharts'
 import { loadJSON } from '../lib/data.js'
 import { Segmented } from '../components/Field.jsx'
@@ -60,6 +61,9 @@ export default function ChallengeView() {
         </div>
       </div>
 
+      {/* Courbe de calibration : probabilités prédites vs fréquences réelles */}
+      {data.calibration?.length > 0 && <CalibrationChart bins={data.calibration} />}
+
       {/* Ventilation par surface */}
       <div className="grid grid-cols-3 gap-3">
         {data.by_surface.map((s) => (
@@ -85,6 +89,46 @@ export default function ChallengeView() {
       <p className="text-center text-xs text-lo">
         « Réussite » = le modèle donnait le vrai vainqueur favori (probabilité ≥ 50 %).
       </p>
+    </div>
+  )
+}
+
+// Courbe de fiabilité : on compare la probabilité prédite (axe X) à la
+// fréquence réellement observée (axe Y). Plus les points collent à la
+// diagonale, mieux le modèle est calibré (une proba de 70 % gagne ~70 %).
+function CalibrationChart({ bins }) {
+  const data = bins.map((b) => ({
+    pred: Math.round(b.pred * 100),
+    obs: Math.round(b.obs * 100),
+    ideal: Math.round(b.pred * 100),
+  }))
+  return (
+    <div className="glass p-4">
+      <h3 className="text-sm font-semibold text-mid">Calibration du modèle</h3>
+      <p className="mb-3 text-xs text-lo">
+        Probabilité prédite vs fréquence réelle. Idéal = la diagonale.
+      </p>
+      <div className="h-64">
+        <ResponsiveContainer width="100%" height="100%">
+          <LineChart data={data} margin={{ top: 4, right: 12, left: -20, bottom: 0 }}>
+            <CartesianGrid strokeDasharray="3 3" stroke="var(--c-br)" />
+            <XAxis dataKey="pred" type="number" domain={[0, 100]} unit="%"
+                   tick={{ fill: 'var(--c-lo)', fontSize: 11 }} axisLine={false} tickLine={false} />
+            <YAxis domain={[0, 100]} unit="%"
+                   tick={{ fill: 'var(--c-lo)', fontSize: 11 }} axisLine={false} tickLine={false} />
+            <Tooltip
+              contentStyle={{ background: 'var(--c-page)', border: '1px solid var(--c-br)',
+                borderRadius: 12, color: 'var(--c-hi)' }}
+              formatter={(v, n) => [`${v}%`, n === 'obs' ? 'Observé' : 'Idéal']} />
+            <Legend formatter={(v) => (v === 'obs' ? 'Observé' : 'Idéal')}
+                    wrapperStyle={{ fontSize: 11 }} />
+            <Line dataKey="ideal" stroke="var(--c-lo)" strokeDasharray="5 5"
+                  dot={false} strokeWidth={1.5} />
+            <Line dataKey="obs" stroke="#22d3ee" strokeWidth={2.5}
+                  dot={{ r: 3, fill: '#22d3ee' }} />
+          </LineChart>
+        </ResponsiveContainer>
+      </div>
     </div>
   )
 }

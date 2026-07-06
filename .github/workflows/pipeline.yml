@@ -59,7 +59,12 @@ jobs:
       - name: Réentraînement du modèle
         run: python -m ml.retrain ${{ inputs.force_retrain && '--force' || '' }}
 
-      # 3. Inférence sur les matchs à venir.
+      # 3. Récupération du VRAI calendrier des matchs à venir (repli sur le
+      #    fichier existant en cas d'échec).
+      - name: Calendrier des matchs à venir
+        run: python -m ml.fixtures
+
+      # 4. Inférence sur les matchs à venir.
       - name: Génération des prédictions
         run: python -m ml.predict
 
@@ -75,6 +80,7 @@ jobs:
           commit_message: "chore(pipeline): mise à jour données + modèle + prédictions [skip ci]"
           file_pattern: >-
             data/grand_slams_all.csv
+            data/upcoming.csv
             models/model.joblib
             models/metrics.json
             web/public/data/predictions.json

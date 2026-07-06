@@ -65,7 +65,7 @@ export default function MatchCard({ match }) {
             {match.surface}
           </span>
         </div>
-        <span className="text-xs text-lo">{match.round}</span>
+        <span className="text-xs text-lo">{match.round || 'À venir'}</span>
       </header>
 
       <div className="flex items-center gap-4">

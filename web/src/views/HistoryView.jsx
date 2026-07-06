@@ -16,7 +16,14 @@ export default function HistoryView() {
   const [year, setYear] = useState('')
   const [surface, setSurface] = useState('')
   const [q, setQ] = useState('')            // recherche joueur
+  const [sort, setSort] = useState('recent')
   const [limit, setLimit] = useState(PAGE)
+
+  // Ordre des tours, pour un tri « avancement dans le tournoi » cohérent.
+  const ROUND_RANK = {
+    '1st Round': 1, '2nd Round': 2, '3rd Round': 3, '4th Round': 4,
+    Quarterfinals: 5, Semifinals: 6, 'The Final': 7,
+  }
 
   useEffect(() => {
     Promise.all([loadJSON('history.json'), loadJSON('meta.json')])
@@ -37,12 +44,24 @@ export default function HistoryView() {
     )
   }, [rows, tour, tournament, year, surface, q])
 
-  useEffect(() => { setLimit(PAGE) }, [tour, tournament, year, surface, q])
+  // Tri mémoïsé, appliqué après le filtrage.
+  const sorted = useMemo(() => {
+    const arr = [...filtered]
+    if (sort === 'recent') arr.sort((a, b) => b.date.localeCompare(a.date))
+    else if (sort === 'ancien') arr.sort((a, b) => a.date.localeCompare(b.date))
+    else if (sort === 'tournoi')
+      arr.sort((a, b) => a.tournament.localeCompare(b.tournament) || b.date.localeCompare(a.date))
+    else if (sort === 'tour')
+      arr.sort((a, b) => (ROUND_RANK[b.round] ?? 0) - (ROUND_RANK[a.round] ?? 0))
+    return arr
+  }, [filtered, sort])
+
+  useEffect(() => { setLimit(PAGE) }, [tour, tournament, year, surface, q, sort])
 
   if (status === 'loading') return <p className="glass p-6 text-center text-lo">Chargement de l'historique…</p>
   if (status === 'error') return <p className="glass p-6 text-center text-lo">Historique indisponible.</p>
 
-  const visible = filtered.slice(0, limit)
+  const visible = sorted.slice(0, limit)
 
   return (
     <div className="space-y-4">
@@ -65,9 +84,22 @@ export default function HistoryView() {
         </div>
       </div>
 
-      <p className="text-sm text-lo">
-        <span className="font-semibold text-hi">{filtered.length.toLocaleString('fr-FR')}</span> match(s) trouvé(s)
-      </p>
+      {/* Compteur + tri */}
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <p className="text-sm text-lo">
+          <span className="font-semibold text-hi">{sorted.length.toLocaleString('fr-FR')}</span> match(s) trouvé(s)
+        </p>
+        <label className="flex items-center gap-2 text-xs text-lo">
+          Trier :
+          <select value={sort} onChange={(e) => setSort(e.target.value)}
+            className="glass rounded-lg px-3 py-2 text-sm text-hi outline-none focus:ring-1 focus:ring-brand">
+            <option value="recent">Plus récent</option>
+            <option value="ancien">Plus ancien</option>
+            <option value="tournoi">Par championnat</option>
+            <option value="tour">Par tour</option>
+          </select>
+        </label>
+      </div>
 
       {/* Liste des résultats */}
       <div className="space-y-2">
