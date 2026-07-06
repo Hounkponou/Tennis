@@ -6,6 +6,7 @@ const TABS = [
   { id: 'simulation', label: 'Simulation', icon: '⚔️' },
   { id: 'history', label: 'Historique', icon: '📚' },
   { id: 'challenge', label: 'Challenge', icon: '🎯' },
+  { id: 'tracking', label: 'Suivi', icon: '📊' },
 ]
 
 /**

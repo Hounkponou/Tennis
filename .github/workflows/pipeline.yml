@@ -68,6 +68,10 @@ jobs:
       - name: Génération des prédictions
         run: python -m ml.predict
 
+      # 5. Suivi : registre résultat prédit vs réel + résolution des matchs joués.
+      - name: Suivi des prédictions
+        run: python -m ml.track
+
       # 4. Export des JSON pour le frontend (modèle JS, forme des joueurs,
       #    historique filtrable).
       - name: Export des données web
@@ -89,3 +93,4 @@ jobs:
             web/public/data/history.json
             web/public/data/meta.json
             web/public/data/challenge.json
+            web/public/data/tracking.json

@@ -5,6 +5,7 @@ import PredictionsView from './views/PredictionsView.jsx'
 import SimulationView from './views/SimulationView.jsx'
 import HistoryView from './views/HistoryView.jsx'
 import ChallengeView from './views/ChallengeView.jsx'
+import TrackingView from './views/TrackingView.jsx'
 
 // Coquille : sidebar (menu) à gauche + zone de contenu. Une seule vue montée
 // à la fois. Sur mobile, la sidebar s'ouvre en tiroir via le bouton ☰.
@@ -36,6 +37,7 @@ export default function App() {
           {view === 'simulation' && <SimulationView />}
           {view === 'history' && <HistoryView />}
           {view === 'challenge' && <ChallengeView />}
+          {view === 'tracking' && <TrackingView />}
 
           <footer className="mt-10 text-center text-xs text-lo">
             Données : tennis-data.co.uk &amp; tennisexplorer.com · Modèle réentraîné via GitHub Actions

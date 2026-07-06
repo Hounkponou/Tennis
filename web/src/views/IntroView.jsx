@@ -11,6 +11,8 @@ const MENUS = [
     desc: 'Tous les résultats passés, filtrables par championnat, année et joueur.' },
   { id: 'challenge', icon: '🎯', title: 'Challenge',
     desc: 'Le taux de réussite du modèle, vérifié match après match.' },
+  { id: 'tracking', icon: '📊', title: 'Suivi des prédictions',
+    desc: 'Résultat prédit vs résultat réel des matchs publiés, et taux de réussite.' },
 ]
 
 // Page d'introduction : présentation + accès aux menus + quelques chiffres.
