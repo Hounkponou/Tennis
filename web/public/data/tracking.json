@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T09:53:40.322141+00:00",
+  "generated_at": "2026-07-07T09:21:42.955890+00:00",
   "success_rate": 0.55,
   "n_correct": 33,
   "n_resolved": 60,
-  "n_pending": 15,
+  "n_pending": 18,
   "entries": [
     {
       "id": "live-wim-djokovicn-safiullinr",
@@ -196,6 +196,45 @@
       "player2": "Noskova L.",
       "predicted_winner": "Keys M.",
       "predicted_prob": 0.6086,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-wim-augeraliassimef-djokovicn",
+      "origin": "à venir",
+      "date": "2026-07-07",
+      "tournament": "Wimbledon",
+      "player1": "Auger-Aliassime F.",
+      "player2": "Djokovic N.",
+      "predicted_winner": "Djokovic N.",
+      "predicted_prob": 0.6013,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-wim-pegulaj-gauffc",
+      "origin": "à venir",
+      "date": "2026-07-07",
+      "tournament": "Wimbledon",
+      "player1": "Pegula J.",
+      "player2": "Gauff C.",
+      "predicted_winner": "Gauff C.",
+      "predicted_prob": 0.5841,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-wim-osakan-muchovak",
+      "origin": "à venir",
+      "date": "2026-07-07",
+      "tournament": "Wimbledon",
+      "player1": "Osaka N.",
+      "player2": "Muchova K.",
+      "predicted_winner": "Muchova K.",
+      "predicted_prob": 0.5186,
       "actual_winner": null,
       "correct": null,
       "status": "pending"
