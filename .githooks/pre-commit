@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+#
+# Empêche de committer EN LOCAL les fichiers générés/possédés par le pipeline CI.
+# Objectif : le développeur ne committe que le CODE (ml/, web/src/, config).
+# Les données (data/, models/, web/public/data/) sont régénérées et committées
+# par GitHub Actions -> plus de divergences ni de conflits.
+#
+# Ce hook ne s'exécute QUE en local (core.hooksPath .githooks, via dev-setup.sh).
+# Il ne tourne PAS dans GitHub Actions, qui reste libre de committer ces fichiers.
+#
+# Pour forcer malgré tout (rare, ex. premier seed de données) :  git commit --no-verify
+
+protected='^(data/|models/|web/public/data/)'
+staged=$(git diff --cached --name-only | grep -E "$protected" || true)
+
+if [ -n "$staged" ]; then
+  echo "⛔  Commit bloqué : ces fichiers sont générés par le pipeline CI."
+  echo "$staged" | sed 's/^/     /'
+  echo ""
+  echo "    → Ne committe que le CODE (ml/, web/src/). Les données sont"
+  echo "      régénérées automatiquement par GitHub Actions."
+  echo "    → Pour les retirer du commit :  git restore --staged data models web/public/data"
+  echo "    → Pour forcer (à tes risques) :  git commit --no-verify"
+  exit 1
+fi
+exit 0

@@ -1,0 +1,16 @@
+# Fichiers POSSÉDÉS PAR LE PIPELINE CI (data + sorties frontend + modèle).
+# En cas de conflit de merge, on prend TOUJOURS la version distante (celle du
+# pipeline, produite par le code le plus à jour). Plus aucune résolution
+# manuelle de ces fichiers générés.
+#
+# Le driver "keep-ci" est configuré par scripts/dev-setup.sh
+# (git config merge.keep-ci.driver "cp -f '%B' '%A'").
+data/grand_slams_all.csv   merge=keep-ci
+data/upcoming.csv          merge=keep-ci
+data/live_results.csv      merge=keep-ci
+models/model.joblib        merge=keep-ci
+models/metrics.json        merge=keep-ci
+web/public/data/*.json     merge=keep-ci
+
+# Traiter le modèle joblib comme binaire (pas de tentative de diff/merge texte).
+models/model.joblib        binary
