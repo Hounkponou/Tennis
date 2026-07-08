@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T09:21:42.955890+00:00",
-  "success_rate": 0.55,
+  "generated_at": "2026-07-08T08:08:26.816333+00:00",
+  "success_rate": 0.541,
   "n_correct": 33,
-  "n_resolved": 60,
-  "n_pending": 18,
+  "n_resolved": 61,
+  "n_pending": 21,
   "entries": [
     {
       "id": "live-wim-djokovicn-safiullinr",
@@ -238,6 +238,58 @@
       "actual_winner": null,
       "correct": null,
       "status": "pending"
+    },
+    {
+      "id": "live-wim-cobollif-ferya",
+      "origin": "à venir",
+      "date": "2026-07-08",
+      "tournament": "Wimbledon",
+      "player1": "Cobolli F.",
+      "player2": "Fery A.",
+      "predicted_winner": "Cobolli F.",
+      "predicted_prob": 0.8338,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-wim-noskoval-mertense",
+      "origin": "à venir",
+      "date": "2026-07-08",
+      "tournament": "Wimbledon",
+      "player1": "Noskova L.",
+      "player2": "Mertens E.",
+      "predicted_winner": "Mertens E.",
+      "predicted_prob": 0.5382,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-wim-kostyukm-paolinij",
+      "origin": "à venir",
+      "date": "2026-07-08",
+      "tournament": "Wimbledon",
+      "player1": "Kostyuk M.",
+      "player2": "Paolini J.",
+      "predicted_winner": "Paolini J.",
+      "predicted_prob": 0.5408,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-wim-fritzt-zvereva",
+      "origin": "à venir",
+      "date": "2026-07-08",
+      "tournament": "Wimbledon",
+      "player1": "Fritz T.",
+      "player2": "Zverev A.",
+      "predicted_winner": "Zverev A.",
+      "predicted_prob": 0.6263,
+      "actual_winner": "Fritz T.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "seed-2026-06-07-Zverev A.-Cobolli F.",
