@@ -1,86 +1,16 @@
 {
-  "generated_at": "2026-07-05T20:13:16.459411+00:00",
+  "generated_at": "2026-07-08T17:39:43.451725+00:00",
   "model_version": "2026.07.05-1935",
   "model_metrics": {
     "accuracy": 0.6925,
     "log_loss": 0.5781,
     "roc_auc": 0.7644
   },
-  "count": 7,
+  "count": 4,
   "matches": [
     {
-      "id": "wim-djokovicn-safiullinr",
-      "date": "2026-07-05",
-      "tour": "ATP",
-      "tournament": "Wimbledon",
-      "surface": "Grass",
-      "round": "",
-      "player1": {
-        "name": "Djokovic N.",
-        "rank": 4,
-        "form_last5": [
-          1,
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 466,
-        "win_prob": 0.8709
-      },
-      "player2": {
-        "name": "Safiullin R.",
-        "rank": 141,
-        "form_last5": [
-          0,
-          0,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 26,
-        "win_prob": 0.1291
-      },
-      "favorite": "Djokovic N."
-    },
-    {
-      "id": "wim-augeraliassimef-davidovichfokinaa",
-      "date": "2026-07-05",
-      "tour": "ATP",
-      "tournament": "Wimbledon",
-      "surface": "Grass",
-      "round": "",
-      "player1": {
-        "name": "Auger-Aliassime F.",
-        "rank": 6,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 72,
-        "win_prob": 0.6681
-      },
-      "player2": {
-        "name": "Davidovich Fokina A.",
-        "rank": 23,
-        "form_last5": [
-          1,
-          1,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 57,
-        "win_prob": 0.3319
-      },
-      "favorite": "Auger-Aliassime F."
-    },
-    {
-      "id": "wim-sinnerj-mochizukis",
-      "date": "2026-07-05",
+      "id": "wim-sinnerj-djokovicn",
+      "date": "2026-07-10",
       "tour": "ATP",
       "tournament": "Wimbledon",
       "surface": "Grass",
@@ -96,61 +26,61 @@
           0
         ],
         "matches_played": 115,
-        "win_prob": 0.9503
+        "win_prob": 0.5731
       },
       "player2": {
-        "name": "Mochizuki S.",
-        "rank": 112,
+        "name": "Djokovic N.",
+        "rank": 4,
         "form_last5": [
           1,
           0,
           1,
-          0,
+          1,
           0
         ],
-        "matches_played": 8,
-        "win_prob": 0.0497
+        "matches_played": 466,
+        "win_prob": 0.4269
       },
       "favorite": "Sinner J."
     },
     {
-      "id": "wim-pegulaj-jovici",
-      "date": "2026-07-05",
-      "tour": "WTA",
+      "id": "wim-ferya-zvereva",
+      "date": "2026-07-10",
+      "tour": "ATP",
       "tournament": "Wimbledon",
       "surface": "Grass",
       "round": "",
       "player1": {
-        "name": "Pegula J.",
-        "rank": 5,
+        "name": "Fery A.",
+        "rank": 186,
         "form_last5": [
-          1,
-          1,
+          0,
           1,
           0,
+          1,
           0
         ],
-        "matches_played": 91,
-        "win_prob": 0.7206
+        "matches_played": 6,
+        "win_prob": 0.0926
       },
       "player2": {
-        "name": "Jovic I.",
-        "rank": 17,
+        "name": "Zverev A.",
+        "rank": 3,
         "form_last5": [
           1,
-          0,
           1,
           1,
-          0
+          1,
+          1
         ],
-        "matches_played": 17,
-        "win_prob": 0.2794
+        "matches_played": 165,
+        "win_prob": 0.9074
       },
-      "favorite": "Pegula J."
+      "favorite": "Zverev A."
     },
     {
-      "id": "wim-muchovak-krejcikovab",
-      "date": "2026-07-05",
+      "id": "wim-muchovak-gauffc",
+      "date": "2026-07-09",
       "tour": "WTA",
       "tournament": "Wimbledon",
       "surface": "Grass",
@@ -166,77 +96,7 @@
           0
         ],
         "matches_played": 80,
-        "win_prob": 0.5965
-      },
-      "player2": {
-        "name": "Krejcikova B.",
-        "rank": 41,
-        "form_last5": [
-          1,
-          1,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 71,
-        "win_prob": 0.4035
-      },
-      "favorite": "Muchova K."
-    },
-    {
-      "id": "wim-osakan-sabalenkaa",
-      "date": "2026-07-05",
-      "tour": "WTA",
-      "tournament": "Wimbledon",
-      "surface": "Grass",
-      "round": "",
-      "player1": {
-        "name": "Osaka N.",
-        "rank": 16,
-        "form_last5": [
-          0,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 104,
-        "win_prob": 0.2187
-      },
-      "player2": {
-        "name": "Sabalenka A.",
-        "rank": 1,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 139,
-        "win_prob": 0.7813
-      },
-      "favorite": "Sabalenka A."
-    },
-    {
-      "id": "wim-bencicb-gauffc",
-      "date": "2026-07-05",
-      "tour": "WTA",
-      "tournament": "Wimbledon",
-      "surface": "Grass",
-      "round": "",
-      "player1": {
-        "name": "Bencic B.",
-        "rank": 11,
-        "form_last5": [
-          0,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 109,
-        "win_prob": 0.3243
+        "win_prob": 0.3147
       },
       "player2": {
         "name": "Gauff C.",
@@ -249,9 +109,44 @@
           0
         ],
         "matches_played": 105,
-        "win_prob": 0.6757
+        "win_prob": 0.6853
       },
       "favorite": "Gauff C."
+    },
+    {
+      "id": "wim-kostyukm-noskoval",
+      "date": "2026-07-09",
+      "tour": "WTA",
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "round": "",
+      "player1": {
+        "name": "Kostyuk M.",
+        "rank": 15,
+        "form_last5": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 60,
+        "win_prob": 0.4715
+      },
+      "player2": {
+        "name": "Noskova L.",
+        "rank": 12,
+        "form_last5": [
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        "matches_played": 30,
+        "win_prob": 0.5285
+      },
+      "favorite": "Noskova L."
     }
   ]
 }

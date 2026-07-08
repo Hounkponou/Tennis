@@ -85,6 +85,7 @@ jobs:
           file_pattern: >-
             data/grand_slams_all.csv
             data/upcoming.csv
+            data/live_results.csv
             models/model.joblib
             models/metrics.json
             web/public/data/predictions.json

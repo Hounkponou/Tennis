@@ -1,10 +1,62 @@
 {
-  "generated_at": "2026-07-06T06:58:25.908427+00:00",
-  "success_rate": 0.55,
-  "n_correct": 33,
-  "n_resolved": 60,
-  "n_pending": 7,
+  "generated_at": "2026-07-08T17:51:25.711959+00:00",
+  "success_rate": 0.5821,
+  "n_correct": 39,
+  "n_resolved": 67,
+  "n_pending": 4,
   "entries": [
+    {
+      "id": "live-wim-muchovak-gauffc",
+      "origin": "à venir",
+      "date": "2026-07-09",
+      "tournament": "Wimbledon",
+      "player1": "Muchova K.",
+      "player2": "Gauff C.",
+      "predicted_winner": "Gauff C.",
+      "predicted_prob": 0.6853,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-wim-kostyukm-noskoval",
+      "origin": "à venir",
+      "date": "2026-07-09",
+      "tournament": "Wimbledon",
+      "player1": "Kostyuk M.",
+      "player2": "Noskova L.",
+      "predicted_winner": "Noskova L.",
+      "predicted_prob": 0.5285,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-wim-ferya-zvereva",
+      "origin": "à venir",
+      "date": "2026-07-10",
+      "tournament": "Wimbledon",
+      "player1": "Fery A.",
+      "player2": "Zverev A.",
+      "predicted_winner": "Zverev A.",
+      "predicted_prob": 0.9074,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-wim-sinnerj-djokovicn",
+      "origin": "à venir",
+      "date": "2026-07-10",
+      "tournament": "Wimbledon",
+      "player1": "Sinner J.",
+      "player2": "Djokovic N.",
+      "predicted_winner": "Sinner J.",
+      "predicted_prob": 0.5731,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
     {
       "id": "live-wim-djokovicn-safiullinr",
       "origin": "à venir",
@@ -14,9 +66,9 @@
       "player2": "Safiullin R.",
       "predicted_winner": "Djokovic N.",
       "predicted_prob": 0.8709,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Djokovic N.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-wim-augeraliassimef-davidovichfokinaa",
@@ -27,9 +79,9 @@
       "player2": "Davidovich Fokina A.",
       "predicted_winner": "Auger-Aliassime F.",
       "predicted_prob": 0.6681,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Auger-Aliassime F.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-wim-sinnerj-mochizukis",
@@ -40,9 +92,9 @@
       "player2": "Mochizuki S.",
       "predicted_winner": "Sinner J.",
       "predicted_prob": 0.9503,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Sinner J.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-wim-pegulaj-jovici",
@@ -53,9 +105,9 @@
       "player2": "Jovic I.",
       "predicted_winner": "Pegula J.",
       "predicted_prob": 0.7206,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Pegula J.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-wim-muchovak-krejcikovab",
@@ -66,9 +118,9 @@
       "player2": "Krejcikova B.",
       "predicted_winner": "Muchova K.",
       "predicted_prob": 0.5965,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Muchova K.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-wim-osakan-sabalenkaa",
@@ -79,9 +131,9 @@
       "player2": "Sabalenka A.",
       "predicted_winner": "Sabalenka A.",
       "predicted_prob": 0.7813,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Osaka N.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-wim-bencicb-gauffc",
@@ -92,9 +144,9 @@
       "player2": "Gauff C.",
       "predicted_winner": "Gauff C.",
       "predicted_prob": 0.6757,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Gauff C.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "seed-2026-06-07-Zverev A.-Cobolli F.",

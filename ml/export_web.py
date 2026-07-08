@@ -18,6 +18,7 @@ mêmes probabilités que le serveur, sans back-end.
 from __future__ import annotations
 
 import json
+from datetime import datetime, timezone
 from pathlib import Path
 
 import joblib
@@ -30,10 +31,14 @@ ROOT = Path(__file__).resolve().parent.parent
 MODEL_PATH = ROOT / "models" / "model.joblib"
 METRICS_PATH = ROOT / "models" / "metrics.json"
 DATA = ROOT / "data" / "grand_slams_all.csv"
+LIVE_RESULTS = ROOT / "data" / "live_results.csv"
 OUT = ROOT / "web" / "public" / "data"
 
 ROUND_ORDER = ["1st Round", "2nd Round", "3rd Round", "4th Round",
                "Quarterfinals", "Semifinals", "The Final"]
+SURFACE_OF = {"Wimbledon": "Grass", "French Open": "Clay",
+              "US Open": "Hard", "Australian Open": "Hard"}
+TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
 # --------------------------------------------------------------------------- #
@@ -82,12 +87,44 @@ def _score(row: pd.Series) -> str:
     return " ".join(sets)
 
 
-def export_history() -> tuple[list, dict]:
-    """Charge le CSV complet et renvoie (liste de matchs, méta pour filtres)."""
+def live_history_rows(store) -> list:
+    """
+    Convertit les résultats en direct (live_results.csv) au format historique,
+    enrichis avec le circuit et le classement courant des joueurs (depuis le
+    modèle). Ne garde que les matchs DÉJÀ JOUÉS (date <= aujourd'hui) pour rester
+    cohérent. C'est ce qui évite que l'historique reste « bloqué en juin ».
+    """
+    if not LIVE_RESULTS.exists():
+        return []
+    live = pd.read_csv(LIVE_RESULTS)
+    rows = []
+    for _, r in live.iterrows():
+        if str(r["date"]) > TODAY:
+            continue
+        w, l = r["winner"], r["loser"]
+        wp, lp = store.players.get(w, {}), store.players.get(l, {})
+
+        def _rank(p):
+            v = p.get("rank")
+            return int(v) if v is not None and v == v else None
+
+        rows.append({
+            "date": str(r["date"]), "year": int(str(r["date"])[:4]),
+            "tour": wp.get("tour") or lp.get("tour"),
+            "tournament": r["tournament"],
+            "surface": SURFACE_OF.get(r["tournament"], ""),
+            "round": "", "winner": w, "loser": l,
+            "winner_rank": _rank(wp), "loser_rank": _rank(lp),
+            "score": "",
+        })
+    return rows
+
+
+def export_history(store) -> tuple[list, dict]:
+    """Renvoie (liste de matchs, méta filtres) = historique tennis-data + résultats en direct."""
     df = pd.read_csv(DATA, low_memory=False)
     df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
     df = df.dropna(subset=["Date", "Winner", "Loser", "Tournament", "Surface"])
-    df = df.sort_values("Date", ascending=False)  # plus récent d'abord
 
     def rank(v):
         return int(v) if pd.notna(v) else None
@@ -108,14 +145,25 @@ def export_history() -> tuple[list, dict]:
             "score": _score(r),
         })
 
+    # Fusion avec les résultats en direct (Wimbledon, etc.), dédupliquée.
+    matches += live_history_rows(store)
+    seen, deduped = set(), []
+    for m in sorted(matches, key=lambda x: x["date"], reverse=True):  # plus récent d'abord
+        key = (m["date"], m["winner"], m["loser"], m["tournament"])
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(m)
+
+    tours = sorted({m["tour"] for m in deduped if m["tour"]})
     meta = {
-        "tournaments": sorted(df["Tournament"].dropna().unique().tolist()),
-        "surfaces": sorted(df["Surface"].dropna().unique().tolist()),
-        "tours": sorted(df["Tour"].dropna().unique().tolist()),
-        "rounds": [r for r in ROUND_ORDER if r in set(df["Round"])],
-        "years": sorted(df["Date"].dt.year.unique().tolist(), reverse=True),
+        "tournaments": sorted({m["tournament"] for m in deduped}),
+        "surfaces": sorted({m["surface"] for m in deduped if m["surface"]}),
+        "tours": tours,
+        "rounds": [r for r in ROUND_ORDER if any(m["round"] == r for m in deduped)],
+        "years": sorted({m["year"] for m in deduped}, reverse=True),
     }
-    return matches, meta
+    return deduped, meta
 
 
 # --------------------------------------------------------------------------- #
@@ -193,8 +241,8 @@ def main() -> None:
     players = bundle["store"].browser_export()
     (OUT / "players.json").write_text(json.dumps(players, ensure_ascii=False))
 
-    # 3. Historique + méta filtres.
-    matches, meta = export_history()
+    # 3. Historique (tennis-data + résultats en direct) + méta filtres.
+    matches, meta = export_history(bundle["store"])
     (OUT / "history.json").write_text(json.dumps(matches, ensure_ascii=False))
     meta["n_players"] = len(players)
     meta["n_matches"] = len(matches)

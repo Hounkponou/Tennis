@@ -20,6 +20,8 @@ from pathlib import Path
 import joblib
 import pandas as pd
 
+TODAY = datetime.now(timezone.utc).date()
+
 ROOT = Path(__file__).resolve().parent.parent
 MODEL_PATH = ROOT / "models" / "model.joblib"
 METRICS_PATH = ROOT / "models" / "metrics.json"
@@ -61,6 +63,13 @@ def main() -> None:
     skipped = []
     for _, row in upcoming.iterrows():
         p1, p2 = str(row["player1"]).strip(), str(row["player2"]).strip()
+
+        # On n'affiche que les matchs réellement À VENIR : si la date est passée
+        # (calendrier périmé faute de mise à jour), on ne le montre pas comme
+        # « à venir » (il sera résolu côté suivi).
+        d = pd.to_datetime(row["date"], errors="coerce")
+        if pd.notna(d) and d.date() < TODAY:
+            continue
 
         # On ne prédit que si les DEUX joueurs sont connus du modèle (ont un
         # historique) ; sinon la prédiction n'aurait pas de sens.

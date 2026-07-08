@@ -1,26 +1,27 @@
 """
-ml/fixtures.py — Récupération d'un VRAI calendrier de matchs à venir.
+ml/fixtures.py — Calendrier ET résultats en direct (tennisexplorer.com).
 
-Rôle : GitHub Actions (CRON) ─► python -m ml.fixtures   (avant ml.predict)
+Rôle : GitHub Actions (CRON) ─► python -m ml.fixtures   (avant ml.predict / ml.track)
 
-tennis-data.co.uk ne fournit pas de calendrier ; on scrape donc la grille du
-jour de tennisexplorer.com (gratuit), on isole les matchs de Grand Chelem, et
-on ne garde que ceux dont LES DEUX joueurs sont connus du modèle (sinon la
-prédiction n'aurait pas de sens). Le résultat écrase data/upcoming.csv.
+Problème résolu : tennis-data.co.uk (l'historique) publie les résultats avec du
+RETARD. Un match joué aujourd'hui n'y figure pas avant plusieurs jours, donc
+une prédiction resterait « en attente » trop longtemps. On récupère donc les
+résultats depuis la MÊME source que les pronostics (tennisexplorer), le jour
+même, pour que la vérification suive au jour le jour.
 
-Robustesse : en cas d'échec réseau, de parsing vide, ou d'aucun match
-exploitable, on NE TOUCHE PAS au fichier existant (repli sur le calendrier
-manuel). Le pipeline reste donc toujours fonctionnel.
+Deux sorties :
+  data/upcoming.csv      -> matchs de Grand Chelem À VENIR (pas encore joués)
+  data/live_results.csv  -> matchs de Grand Chelem TERMINÉS (avec vainqueur),
+                            accumulés jour après jour (dédupliqués)
 
-Nuance noms : tennisexplorer écrit "Auger Aliassime F." là où tennis-data écrit
-"Auger-Aliassime F.". On normalise (minuscules, sans espaces/tirets/points)
-pour faire correspondre les joueurs au référentiel du modèle.
+Robustesse : en cas d'échec réseau/parsing, on ne touche pas aux fichiers
+existants (repli). Le pipeline reste fonctionnel.
 """
 
 from __future__ import annotations
 
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import joblib
@@ -29,112 +30,167 @@ import requests
 
 ROOT = Path(__file__).resolve().parent.parent
 UPCOMING = ROOT / "data" / "upcoming.csv"
+RESULTS = ROOT / "data" / "live_results.csv"
 MODEL_PATH = ROOT / "models" / "model.joblib"
 
-BASE = "https://www.tennisexplorer.com/matches/?type="
+BASE = "https://www.tennisexplorer.com"
 PAGES = {"ATP": "atp-single", "WTA": "wta-single"}
 HEADERS = {"User-Agent": "Mozilla/5.0 (tennis-pipeline)"}
 
-# Correspondance des libellés tournoi -> nom canonique + surface + format.
 SLAM = {"wimbledon": "Wimbledon", "french open": "French Open",
         "roland garros": "French Open", "us open": "US Open",
         "australian open": "Australian Open"}
 SURFACE = {"Wimbledon": "Grass", "French Open": "Clay",
            "US Open": "Hard", "Australian Open": "Hard"}
 
-# Un token = soit un en-tête de tournoi, soit un lien joueur (nom affiché).
+# Un token = en-tête de tournoi | nom de joueur | cellule "result" (sets gagnés).
 TOKEN_RE = re.compile(
     r'(head flags.*?colspan[^>]*>(?P<tourn>.*?)</td>)'
-    r'|(/player/[a-z0-9-]+/"[^>]*>(?P<player>[^<]+)</a>)',
+    r'|(<td class="t-name"><a href="/player/[a-z0-9-]+/">(?P<player>[^<]+)</a>)'
+    r'|(<td class="result">(?P<result>[^<]*)</td>)',
     re.S,
 )
 
 
 def _norm(name: str) -> str:
-    """Clé de correspondance robuste (min., sans espaces/tirets/points/accents)."""
     return re.sub(r"[^a-z]", "", name.lower())
 
 
 def known_players() -> dict[str, str]:
-    """Retourne {clé normalisée -> nom canonique} depuis le modèle entraîné."""
+    """{clé normalisée -> nom canonique} depuis le modèle (pour mapper les noms)."""
     if not MODEL_PATH.exists():
         return {}
-    store = joblib.load(MODEL_PATH)["store"]
-    return {_norm(n): n for n in store.players}
+    return {_norm(n): n for n in joblib.load(MODEL_PATH)["store"].players}
 
 
-def parse_page(html: str) -> list[tuple[str, str]]:
-    """Extrait les paires (joueur1, joueur2) par tournoi de Grand Chelem."""
-    by_tourney: dict[str, list[str]] = {}
+def parse_matches(html: str) -> list[dict]:
+    """
+    Extrait les matchs de Grand Chelem. Chaque match = 2 joueurs consécutifs
+    avec leur nombre de sets gagnés (cellule 'result'). Vainqueur = plus de sets ;
+    None si le match n'est pas encore joué.
+    """
+    by_tourney: dict[str, list[list]] = {}
     current = None
     for tk in TOKEN_RE.finditer(html):
         if tk.group("tourn") is not None:
-            label = re.sub("<[^>]+>", "", tk.group("tourn")).replace("\xa0", " ").strip()
-            current = label
+            current = re.sub("<[^>]+>", "", tk.group("tourn")).replace("\xa0", " ").strip()
             by_tourney.setdefault(current, [])
-        elif current is not None:
-            by_tourney[current].append(tk.group("player").strip())
+        elif tk.group("player") is not None and current is not None:
+            by_tourney[current].append([tk.group("player").strip(), None])
+        elif tk.group("result") is not None and current and by_tourney[current]:
+            val = tk.group("result").strip()
+            by_tourney[current][-1][1] = int(val) if val.isdigit() else None
 
-    pairs = []
-    for label, names in by_tourney.items():
+    matches = []
+    for label, items in by_tourney.items():
         slam = next((SLAM[k] for k in SLAM if k in label.lower()), None)
         if not slam:
             continue
-        # Les joueurs sont listés match par match : on les apparie 2 à 2.
-        for i in range(0, len(names) - 1, 2):
-            pairs.append((slam, names[i], names[i + 1]))
-    return pairs
+        for i in range(0, len(items) - 1, 2):
+            (n1, r1), (n2, r2) = items[i], items[i + 1]
+            winner = None
+            if r1 is not None and r2 is not None and r1 != r2:
+                winner = n1 if r1 > r2 else n2
+            matches.append({"slam": slam, "n1": n1, "n2": n2, "winner": winner})
+    return matches
 
 
-def fetch_fixtures() -> pd.DataFrame | None:
-    """Construit le DataFrame des matchs à venir exploitables, ou None si échec."""
-    lookup = known_players()
-    if not lookup:
-        print("[fixtures] modèle indisponible : impossible de mapper les joueurs.")
+def _get(kind: str, page: str, day: datetime | None = None) -> str | None:
+    """Récupère une page (matches=calendrier, results=résultats), pour un jour donné."""
+    url = f"{BASE}/{kind}/?type={page}"
+    if day is not None:
+        url += f"&year={day.year}&month={day.month}&day={day.day}"
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=25)
+        r.raise_for_status()
+        return r.text
+    except requests.RequestException as exc:
+        print(f"[fixtures] échec {url} : {exc}")
         return None
 
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+def collect_upcoming(lookup: dict, ahead: int = 4) -> pd.DataFrame | None:
+    """
+    Matchs à venir (non joués) sur AUJOURD'HUI + les `ahead` jours suivants.
+
+    On balaie plusieurs jours car, au moment du scrape, les matchs du jour sont
+    souvent déjà joués : les vrais « à venir » sont ceux d'aujourd'hui (fin de
+    journée) et des jours suivants, dont l'ordre du jeu est publié à l'avance.
+    """
     rows = []
+    start = datetime.now(timezone.utc)
     for tour, page in PAGES.items():
-        try:
-            resp = requests.get(BASE + page, headers=HEADERS, timeout=25)
-            resp.raise_for_status()
-        except requests.RequestException as exc:
-            print(f"[fixtures] échec de récupération {tour} : {exc}")
-            continue
-
-        best_of = 5 if tour == "ATP" else 3
-        for slam, p1_raw, p2_raw in parse_page(resp.text):
-            p1 = lookup.get(_norm(p1_raw))
-            p2 = lookup.get(_norm(p2_raw))
-            if not p1 or not p2 or p1 == p2:
-                continue  # on n'garde que les matchs à 2 joueurs connus
-            rows.append({
-                "id": f"{slam[:3].lower()}-{_norm(p1)}-{_norm(p2)}",
-                "date": today,
-                "tournament": slam,
-                "surface": SURFACE[slam],
-                "round": "",              # non fourni par la grille (imputé par le modèle)
-                "best_of": best_of,
-                "player1": p1,
-                "player2": p2,
-            })
-
+        for d in range(ahead + 1):
+            day = start + timedelta(days=d)
+            html = _get("matches", page, day)
+            if not html:
+                continue
+            for m in parse_matches(html):
+                if m["winner"] is not None:
+                    continue  # déjà joué -> pas "à venir"
+                p1, p2 = lookup.get(_norm(m["n1"])), lookup.get(_norm(m["n2"]))
+                if not p1 or not p2 or p1 == p2:
+                    continue
+                rows.append({
+                    "id": f"{m['slam'][:3].lower()}-{_norm(p1)}-{_norm(p2)}",
+                    "date": day.strftime("%Y-%m-%d"), "tournament": m["slam"],
+                    "surface": SURFACE[m["slam"]], "round": "",
+                    "best_of": 5 if tour == "ATP" else 3,
+                    "player1": p1, "player2": p2,
+                })
     if not rows:
         return None
-    df = pd.DataFrame(rows).drop_duplicates(subset=["player1", "player2"])
-    return df
+    return pd.DataFrame(rows).drop_duplicates(subset=["player1", "player2"])
+
+
+def collect_results(lookup: dict, days: int = 5) -> pd.DataFrame | None:
+    """Résultats terminés (avec vainqueur) des `days` derniers jours.
+
+    Un recul de plusieurs jours rattrape les runs éventuellement manqués : une
+    prédiction reste vérifiable même si le CRON a sauté un jour.
+    """
+    rows = []
+    today = datetime.now(timezone.utc)
+    for tour, page in PAGES.items():
+        for d in range(days):
+            day = today - timedelta(days=d)
+            html = _get("results", page, day)
+            if not html:
+                continue
+            for m in parse_matches(html):
+                if m["winner"] is None:
+                    continue
+                loser_raw = m["n2"] if m["winner"] == m["n1"] else m["n1"]
+                w = lookup.get(_norm(m["winner"]), m["winner"])
+                l = lookup.get(_norm(loser_raw), loser_raw)
+                rows.append({"date": day.strftime("%Y-%m-%d"),
+                             "tournament": m["slam"], "winner": w, "loser": l})
+    return pd.DataFrame(rows) if rows else None
 
 
 def main() -> None:
-    df = fetch_fixtures()
-    if df is None or df.empty:
-        print("[fixtures] aucun match exploitable — on conserve upcoming.csv existant.")
+    lookup = known_players()
+    if not lookup:
+        print("[fixtures] modèle indisponible : abandon.")
         return
-    df.to_csv(UPCOMING, index=False)
-    print(f"[fixtures] {len(df)} matchs à venir écrits -> {UPCOMING.relative_to(ROOT)}")
-    for _, r in df.iterrows():
-        print(f"   {r['tournament']:>15} | {r['player1']} vs {r['player2']}")
+    # --- Matchs à venir (aujourd'hui + jours suivants) ---
+    up = collect_upcoming(lookup)
+    if up is not None and not up.empty:
+        up.to_csv(UPCOMING, index=False)
+        print(f"[fixtures] {len(up)} matchs à venir -> {UPCOMING.name}")
+    else:
+        print("[fixtures] aucun match à venir exploitable — upcoming.csv conservé.")
+
+    # --- Résultats terminés (fusion dédupliquée avec l'existant) ---
+    res = collect_results(lookup)
+    if res is not None and not res.empty:
+        if RESULTS.exists():
+            res = pd.concat([pd.read_csv(RESULTS), res], ignore_index=True)
+        res = res.drop_duplicates(subset=["tournament", "winner", "loser"], keep="last")
+        res.to_csv(RESULTS, index=False)
+        print(f"[fixtures] {len(res)} résultats en direct -> {RESULTS.name}")
+    else:
+        print("[fixtures] aucun résultat récupéré — live_results.csv conservé.")
 
 
 if __name__ == "__main__":

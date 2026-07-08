@@ -54,7 +54,9 @@ export default function PredictionsView() {
       </div>
 
       {matches.length === 0
-        ? <Empty text="Aucun match ne correspond aux filtres." />
+        ? <Empty text={data.matches.length === 0
+            ? 'Aucun match à venir pour l’instant. Les prochains apparaîtront automatiquement dès qu’ils seront au calendrier.'
+            : 'Aucun match ne correspond aux filtres.'} />
         : (
           <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
             {matches.map((m) => <MatchCard key={m.id} match={m} />)}

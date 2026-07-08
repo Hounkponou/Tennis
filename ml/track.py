@@ -29,16 +29,19 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import joblib
+import pandas as pd
 
 from ml.features import build_backtest_matrix, load_matches
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "grand_slams_all.csv"
+LIVE_RESULTS = ROOT / "data" / "live_results.csv"
 MODEL_PATH = ROOT / "models" / "model.joblib"
 PRED_PATH = ROOT / "web" / "public" / "data" / "predictions.json"
 LEDGER = ROOT / "web" / "public" / "data" / "tracking.json"
 
 BOOTSTRAP_K = 60   # nb de matchs récents pour amorcer le registre
+TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
 def _pair(a: str, b: str) -> tuple:
@@ -47,10 +50,21 @@ def _pair(a: str, b: str) -> tuple:
 
 
 def history_index(df) -> dict:
-    """Index {(paire de joueurs, tournoi) -> vainqueur réel} depuis l'historique."""
+    """
+    Index {(paire de joueurs, tournoi) -> vainqueur réel}.
+
+    On combine DEUX sources de résultats :
+      - l'historique tennis-data.co.uk (grand_slams_all.csv), fiable mais tardif ;
+      - les résultats en direct tennisexplorer (live_results.csv), disponibles
+        le jour même -> c'est ce qui permet une vérification au jour le jour.
+    """
     idx = {}
     for _, r in df.iterrows():
         idx[(_pair(r["Winner"], r["Loser"]), r["Tournament"])] = r["Winner"]
+    if LIVE_RESULTS.exists():
+        live = pd.read_csv(LIVE_RESULTS)
+        for _, r in live.iterrows():
+            idx[(_pair(r["winner"], r["loser"]), r["tournament"])] = r["winner"]
     return idx
 
 
@@ -96,11 +110,24 @@ def add_live_predictions(entries: dict) -> None:
         }
 
 
+def enforce_temporal_coherence(entries: dict) -> None:
+    """
+    Cohérence temporelle : un match dont la date est dans le FUTUR ne peut pas
+    être résolu. On ré-ouvre toute entrée future marquée à tort « resolved »
+    (auto-réparation des données incohérentes déjà écrites).
+    """
+    for e in entries.values():
+        if e["date"] > TODAY and e["status"] == "resolved":
+            e.update(status="pending", actual_winner=None, correct=None)
+
+
 def resolve_pending(entries: dict, idx: dict) -> None:
-    """Résout les entrées en attente dont le match figure désormais à l'historique."""
+    """Résout les entrées en attente DONT LA DATE EST PASSÉE et dont le résultat est connu."""
     for e in entries.values():
         if e["status"] != "pending":
             continue
+        if e["date"] > TODAY:
+            continue  # match à venir : jamais résolu tant qu'il n'est pas joué
         winner = idx.get((_pair(e["player1"], e["player2"]), e["tournament"]))
         if winner:
             e["actual_winner"] = winner
@@ -115,10 +142,11 @@ def main() -> None:
     df = load_matches(str(DATA))
     idx = history_index(df)
 
+    enforce_temporal_coherence(entries)  # ré-ouvre les entrées futures mal résolues
     if not any(e["status"] == "resolved" for e in entries.values()):
         bootstrap(entries, df)          # premier run : on amorce
     add_live_predictions(entries)       # nouvelles prédictions à suivre
-    resolve_pending(entries, idx)       # on résout ce qui a été joué depuis
+    resolve_pending(entries, idx)       # on résout ce qui a été JOUÉ (date passée)
 
     resolved = [e for e in entries.values() if e["status"] == "resolved"]
     correct = sum(1 for e in resolved if e["correct"])
