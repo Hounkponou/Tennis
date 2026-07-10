@@ -1,48 +1,13 @@
 {
-  "generated_at": "2026-07-09T09:18:44.562935+00:00",
+  "generated_at": "2026-07-10T08:59:08.348073+00:00",
   "model_version": "2026.07.05-1935",
   "model_metrics": {
     "accuracy": 0.6925,
     "log_loss": 0.5781,
     "roc_auc": 0.7644
   },
-  "count": 4,
+  "count": 3,
   "matches": [
-    {
-      "id": "wim-sinnerj-djokovicn",
-      "date": "2026-07-10",
-      "tour": "ATP",
-      "tournament": "Wimbledon",
-      "surface": "Grass",
-      "round": "",
-      "player1": {
-        "name": "Sinner J.",
-        "rank": 1,
-        "form_last5": [
-          1,
-          1,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 115,
-        "win_prob": 0.5731
-      },
-      "player2": {
-        "name": "Djokovic N.",
-        "rank": 4,
-        "form_last5": [
-          1,
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 466,
-        "win_prob": 0.4269
-      },
-      "favorite": "Sinner J."
-    },
     {
       "id": "wim-ferya-zvereva",
       "date": "2026-07-10",
@@ -79,8 +44,43 @@
       "favorite": "Zverev A."
     },
     {
-      "id": "wim-muchovak-gauffc",
-      "date": "2026-07-09",
+      "id": "wim-sinnerj-djokovicn",
+      "date": "2026-07-10",
+      "tour": "ATP",
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "round": "",
+      "player1": {
+        "name": "Sinner J.",
+        "rank": 1,
+        "form_last5": [
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        "matches_played": 115,
+        "win_prob": 0.5731
+      },
+      "player2": {
+        "name": "Djokovic N.",
+        "rank": 4,
+        "form_last5": [
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 466,
+        "win_prob": 0.4269
+      },
+      "favorite": "Sinner J."
+    },
+    {
+      "id": "wim-muchovak-noskoval",
+      "date": "2026-07-11",
       "tour": "WTA",
       "tournament": "Wimbledon",
       "surface": "Grass",
@@ -96,42 +96,7 @@
           0
         ],
         "matches_played": 80,
-        "win_prob": 0.3147
-      },
-      "player2": {
-        "name": "Gauff C.",
-        "rank": 4,
-        "form_last5": [
-          1,
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 105,
-        "win_prob": 0.6853
-      },
-      "favorite": "Gauff C."
-    },
-    {
-      "id": "wim-kostyukm-noskoval",
-      "date": "2026-07-09",
-      "tour": "WTA",
-      "tournament": "Wimbledon",
-      "surface": "Grass",
-      "round": "",
-      "player1": {
-        "name": "Kostyuk M.",
-        "rank": 15,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 60,
-        "win_prob": 0.4715
+        "win_prob": 0.4972
       },
       "player2": {
         "name": "Noskova L.",
@@ -144,7 +109,7 @@
           0
         ],
         "matches_played": 30,
-        "win_prob": 0.5285
+        "win_prob": 0.5028
       },
       "favorite": "Noskova L."
     }
