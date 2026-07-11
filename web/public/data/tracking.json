@@ -1,23 +1,10 @@
 {
-  "generated_at": "2026-07-10T08:59:09.866340+00:00",
-  "success_rate": 0.5765,
-  "n_correct": 49,
-  "n_resolved": 85,
+  "generated_at": "2026-07-11T07:31:23.322074+00:00",
+  "success_rate": 0.5814,
+  "n_correct": 50,
+  "n_resolved": 86,
   "n_pending": 2,
   "entries": [
-    {
-      "id": "live-wim-ferya-zvereva",
-      "origin": "à venir",
-      "date": "2026-07-10",
-      "tournament": "Wimbledon",
-      "player1": "Fery A.",
-      "player2": "Zverev A.",
-      "predicted_winner": "Zverev A.",
-      "predicted_prob": 0.9074,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
     {
       "id": "live-wim-muchovak-noskoval",
       "origin": "à venir",
@@ -30,6 +17,32 @@
       "actual_winner": null,
       "correct": null,
       "status": "pending"
+    },
+    {
+      "id": "live-wim-sinnerj-zvereva",
+      "origin": "à venir",
+      "date": "2026-07-12",
+      "tournament": "Wimbledon",
+      "player1": "Sinner J.",
+      "player2": "Zverev A.",
+      "predicted_winner": "Sinner J.",
+      "predicted_prob": 0.7959,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-wim-ferya-zvereva",
+      "origin": "à venir",
+      "date": "2026-07-10",
+      "tournament": "Wimbledon",
+      "player1": "Fery A.",
+      "player2": "Zverev A.",
+      "predicted_winner": "Zverev A.",
+      "predicted_prob": 0.9074,
+      "actual_winner": "Zverev A.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-wim-sinnerj-djokovicn",

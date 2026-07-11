@@ -1,51 +1,16 @@
 {
-  "generated_at": "2026-07-10T08:59:08.348073+00:00",
+  "generated_at": "2026-07-11T07:31:22.201312+00:00",
   "model_version": "2026.07.05-1935",
   "model_metrics": {
     "accuracy": 0.6925,
     "log_loss": 0.5781,
     "roc_auc": 0.7644
   },
-  "count": 3,
+  "count": 2,
   "matches": [
     {
-      "id": "wim-ferya-zvereva",
-      "date": "2026-07-10",
-      "tour": "ATP",
-      "tournament": "Wimbledon",
-      "surface": "Grass",
-      "round": "",
-      "player1": {
-        "name": "Fery A.",
-        "rank": 186,
-        "form_last5": [
-          0,
-          1,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 6,
-        "win_prob": 0.0926
-      },
-      "player2": {
-        "name": "Zverev A.",
-        "rank": 3,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          1
-        ],
-        "matches_played": 165,
-        "win_prob": 0.9074
-      },
-      "favorite": "Zverev A."
-    },
-    {
-      "id": "wim-sinnerj-djokovicn",
-      "date": "2026-07-10",
+      "id": "wim-sinnerj-zvereva",
+      "date": "2026-07-12",
       "tour": "ATP",
       "tournament": "Wimbledon",
       "surface": "Grass",
@@ -61,20 +26,20 @@
           0
         ],
         "matches_played": 115,
-        "win_prob": 0.5731
+        "win_prob": 0.7959
       },
       "player2": {
-        "name": "Djokovic N.",
-        "rank": 4,
+        "name": "Zverev A.",
+        "rank": 3,
         "form_last5": [
           1,
-          0,
           1,
           1,
-          0
+          1,
+          1
         ],
-        "matches_played": 466,
-        "win_prob": 0.4269
+        "matches_played": 165,
+        "win_prob": 0.2041
       },
       "favorite": "Sinner J."
     },
