@@ -1,23 +1,10 @@
 {
-  "generated_at": "2026-07-11T07:31:23.322074+00:00",
-  "success_rate": 0.5814,
-  "n_correct": 50,
-  "n_resolved": 86,
-  "n_pending": 2,
+  "generated_at": "2026-07-12T07:58:03.926173+00:00",
+  "success_rate": 0.5862,
+  "n_correct": 51,
+  "n_resolved": 87,
+  "n_pending": 1,
   "entries": [
-    {
-      "id": "live-wim-muchovak-noskoval",
-      "origin": "à venir",
-      "date": "2026-07-11",
-      "tournament": "Wimbledon",
-      "player1": "Muchova K.",
-      "player2": "Noskova L.",
-      "predicted_winner": "Noskova L.",
-      "predicted_prob": 0.5028,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
     {
       "id": "live-wim-sinnerj-zvereva",
       "origin": "à venir",
@@ -30,6 +17,19 @@
       "actual_winner": null,
       "correct": null,
       "status": "pending"
+    },
+    {
+      "id": "live-wim-muchovak-noskoval",
+      "origin": "à venir",
+      "date": "2026-07-11",
+      "tournament": "Wimbledon",
+      "player1": "Muchova K.",
+      "player2": "Noskova L.",
+      "predicted_winner": "Noskova L.",
+      "predicted_prob": 0.5028,
+      "actual_winner": "Noskova L.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-wim-ferya-zvereva",
