@@ -1,33 +1,33 @@
 {
-  "version": "2026.07.05-1935",
+  "version": "2026.07.13-0845",
   "chosen_model": "HistGradientBoosting",
   "chosen_linear_model": "LogisticRegression",
-  "trained_at": "2026-07-05T19:35:11.053764+00:00",
-  "trained_through": "2026-06-07",
-  "n_matches_trained_on": 23065,
+  "trained_at": "2026-07-13T08:45:00.531678+00:00",
+  "trained_through": "2026-07-12",
+  "n_matches_trained_on": 23319,
   "hyperparams": {
     "clf__learning_rate": 0.05,
     "clf__max_depth": 6
   },
   "metrics": {
-    "accuracy": 0.6925,
-    "log_loss": 0.5781,
-    "roc_auc": 0.7644
+    "accuracy": 0.6901,
+    "log_loss": 0.5753,
+    "roc_auc": 0.7665
   },
   "leaderboard": [
     {
       "name": "LogisticRegression",
       "linear": true,
-      "accuracy": 0.6884,
-      "log_loss": 0.5858,
-      "roc_auc": 0.7578
+      "accuracy": 0.6921,
+      "log_loss": 0.5794,
+      "roc_auc": 0.7634
     },
     {
       "name": "HistGradientBoosting",
       "linear": false,
-      "accuracy": 0.6925,
-      "log_loss": 0.5781,
-      "roc_auc": 0.7644
+      "accuracy": 0.6901,
+      "log_loss": 0.5753,
+      "roc_auc": 0.7665
     }
   ]
 }

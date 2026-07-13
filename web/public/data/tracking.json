@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-12T07:58:03.926173+00:00",
-  "success_rate": 0.5862,
-  "n_correct": 51,
-  "n_resolved": 87,
-  "n_pending": 1,
+  "generated_at": "2026-07-13T08:45:20.793315+00:00",
+  "success_rate": 0.5909,
+  "n_correct": 52,
+  "n_resolved": 88,
+  "n_pending": 0,
   "entries": [
     {
       "id": "live-wim-sinnerj-zvereva",
@@ -14,9 +14,9 @@
       "player2": "Zverev A.",
       "predicted_winner": "Sinner J.",
       "predicted_prob": 0.7959,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Sinner J.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-wim-muchovak-noskoval",
