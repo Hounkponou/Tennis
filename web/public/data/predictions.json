@@ -1,315 +1,68 @@
 {
-  "generated_at": "2026-08-24T06:36:42.682925+00:00",
+  "generated_at": "2026-08-25T06:26:01.743577+00:00",
   "model_version": "2026.07.13-0845",
   "model_metrics": {
     "accuracy": 0.6901,
     "log_loss": 0.5753,
     "roc_auc": 0.7665
   },
-  "count": 46,
+  "count": 37,
   "matches": [
     {
-      "id": "us -fearnleyj-carballesbaenar",
-      "date": "2026-08-24",
+      "id": "us -kwons-lajovicd",
+      "date": "2026-08-25",
       "tour": "ATP",
       "tournament": "US Open",
       "surface": "Hard",
       "round": "",
       "player1": {
-        "name": "Fearnley J.",
-        "rank": 159,
-        "form_last5": [
-          0,
-          0,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 14,
-        "win_prob": 0.3923
-      },
-      "player2": {
-        "name": "Carballes Baena R.",
-        "rank": 87,
-        "form_last5": [
-          1,
-          1,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 46,
-        "win_prob": 0.6077
-      },
-      "favorite": "Carballes Baena R."
-    },
-    {
-      "id": "us -coppejansk-rodionovj",
-      "date": "2026-08-24",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Coppejans K.",
-        "rank": 188,
-        "form_last5": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 4,
-        "win_prob": 0.3949
-      },
-      "player2": {
-        "name": "Rodionov J.",
-        "rank": 158,
-        "form_last5": [
-          1,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 4,
-        "win_prob": 0.6051
-      },
-      "favorite": "Rodionov J."
-    },
-    {
-      "id": "us -johnsons-garinc",
-      "date": "2026-08-24",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Johnson S.",
-        "rank": 205,
-        "form_last5": [
-          1,
-          1,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 75,
-        "win_prob": 0.4523
-      },
-      "player2": {
-        "name": "Garin C.",
-        "rank": 114,
-        "form_last5": [
-          0,
-          1,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 47,
-        "win_prob": 0.5477
-      },
-      "favorite": "Garin C."
-    },
-    {
-      "id": "us -cecchinatom-broadyl",
-      "date": "2026-08-24",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Cecchinato M.",
-        "rank": 109,
-        "form_last5": [
-          1,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 33,
-        "win_prob": 0.5376
-      },
-      "player2": {
-        "name": "Broady L.",
-        "rank": 156,
-        "form_last5": [
-          0,
-          1,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 15,
-        "win_prob": 0.4624
-      },
-      "favorite": "Cecchinato M."
-    },
-    {
-      "id": "us -samuelt-maestrellif",
-      "date": "2026-08-24",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Samuel T.",
-        "rank": 123,
-        "form_last5": [
-          0,
-          0
-        ],
-        "matches_played": 2,
-        "win_prob": 0.6045
-      },
-      "player2": {
-        "name": "Maestrelli F.",
-        "rank": 141,
+        "name": "Kwon S.",
+        "rank": 200,
         "form_last5": [
           1,
           0
         ],
         "matches_played": 2,
-        "win_prob": 0.3955
+        "win_prob": 0.4118
       },
-      "favorite": "Samuel T."
+      "player2": {
+        "name": "Lajovic D.",
+        "rank": 153,
+        "form_last5": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 73,
+        "win_prob": 0.5882
+      },
+      "favorite": "Lajovic D."
     },
     {
-      "id": "us -wendelkenh-travaglias",
-      "date": "2026-08-24",
+      "id": "us -ofners-nishikorik",
+      "date": "2026-08-25",
       "tour": "ATP",
       "tournament": "US Open",
       "surface": "Hard",
       "round": "",
       "player1": {
-        "name": "Wendelken H.",
-        "rank": 202,
+        "name": "Ofner S.",
+        "rank": 110,
         "form_last5": [
+          0,
+          0,
+          0,
+          1,
           0
         ],
-        "matches_played": 1,
-        "win_prob": 0.4687
+        "matches_played": 26,
+        "win_prob": 0.3675
       },
       "player2": {
-        "name": "Travaglia S.",
-        "rank": 233,
-        "form_last5": [
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 19,
-        "win_prob": 0.5313
-      },
-      "favorite": "Travaglia S."
-    },
-    {
-      "id": "us -wongc-mollere",
-      "date": "2026-08-24",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Wong C.",
-        "rank": 109,
-        "form_last5": [
-          1,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 4,
-        "win_prob": 0.6436
-      },
-      "player2": {
-        "name": "Moller E.",
-        "rank": 109,
-        "form_last5": [
-          0,
-          0,
-          0
-        ],
-        "matches_played": 3,
-        "win_prob": 0.3564
-      },
-      "favorite": "Wong C."
-    },
-    {
-      "id": "us -passarof-gillf",
-      "date": "2026-08-24",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Passaro F.",
-        "rank": 120,
-        "form_last5": [
-          1,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 4,
-        "win_prob": 0.6491
-      },
-      "player2": {
-        "name": "Gill F.",
-        "rank": 220,
-        "form_last5": [
-          0
-        ],
-        "matches_played": 1,
-        "win_prob": 0.3509
-      },
-      "favorite": "Passaro F."
-    },
-    {
-      "id": "us -napolitanos-mcdonaldm",
-      "date": "2026-08-24",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Napolitano S.",
-        "rank": 187,
-        "form_last5": [
-          1,
-          0
-        ],
-        "matches_played": 2,
-        "win_prob": 0.4053
-      },
-      "player2": {
-        "name": "McDonald M.",
-        "rank": 145,
-        "form_last5": [
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 5,
-        "win_prob": 0.5947
-      },
-      "favorite": "McDonald M."
-    },
-    {
-      "id": "us -virtaneno-blanchetu",
-      "date": "2026-08-24",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Virtanen O.",
-        "rank": 140,
+        "name": "Nishikori K.",
+        "rank": 76,
         "form_last5": [
           1,
           0,
@@ -317,85 +70,10 @@
           1,
           0
         ],
-        "matches_played": 9,
-        "win_prob": 0.5195
+        "matches_played": 151,
+        "win_prob": 0.6325
       },
-      "player2": {
-        "name": "Blanchet U.",
-        "rank": 184,
-        "form_last5": [
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 4,
-        "win_prob": 0.4805
-      },
-      "favorite": "Virtanen O."
-    },
-    {
-      "id": "us -zhangz-sakamotor",
-      "date": "2026-08-24",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Zhang Z.",
-        "rank": 187,
-        "form_last5": [
-          0,
-          0
-        ],
-        "matches_played": 2,
-        "win_prob": 0.598
-      },
-      "player2": {
-        "name": "Sakamoto R.",
-        "rank": 203,
-        "form_last5": [
-          0
-        ],
-        "matches_played": 1,
-        "win_prob": 0.402
-      },
-      "favorite": "Zhang Z."
-    },
-    {
-      "id": "us -djerel-mullera",
-      "date": "2026-08-24",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Djere L.",
-        "rank": 92,
-        "form_last5": [
-          1,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 45,
-        "win_prob": 0.582
-      },
-      "player2": {
-        "name": "Muller A.",
-        "rank": 126,
-        "form_last5": [
-          0,
-          1,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 23,
-        "win_prob": 0.418
-      },
-      "favorite": "Djere L."
+      "favorite": "Nishikori K."
     },
     {
       "id": "us -geaa-nagals",
@@ -464,38 +142,6 @@
       "favorite": "Basavareddy N."
     },
     {
-      "id": "us -kwons-lajovicd",
-      "date": "2026-08-25",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Kwon S.",
-        "rank": 200,
-        "form_last5": [
-          1,
-          0
-        ],
-        "matches_played": 2,
-        "win_prob": 0.4118
-      },
-      "player2": {
-        "name": "Lajovic D.",
-        "rank": 153,
-        "form_last5": [
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 73,
-        "win_prob": 0.5882
-      },
-      "favorite": "Lajovic D."
-    },
-    {
       "id": "us -giustinol-dimitrovg",
       "date": "2026-08-25",
       "tour": "ATP",
@@ -527,126 +173,6 @@
         "win_prob": 0.6319
       },
       "favorite": "Dimitrov G."
-    },
-    {
-      "id": "us -kolarz-gojob",
-      "date": "2026-08-25",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Kolar Z.",
-        "rank": 119,
-        "form_last5": [
-          1,
-          0,
-          0
-        ],
-        "matches_played": 3,
-        "win_prob": 0.4262
-      },
-      "player2": {
-        "name": "Gojo B.",
-        "rank": 105,
-        "form_last5": [
-          0,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 7,
-        "win_prob": 0.5738
-      },
-      "favorite": "Gojo B."
-    },
-    {
-      "id": "us -nardil-cinaf",
-      "date": "2026-08-25",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Nardi L.",
-        "rank": 108,
-        "form_last5": [
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 8,
-        "win_prob": 0.638
-      },
-      "player2": {
-        "name": "Cina F.",
-        "rank": 238,
-        "form_last5": [
-          1,
-          0
-        ],
-        "matches_played": 2,
-        "win_prob": 0.362
-      },
-      "favorite": "Nardi L."
-    },
-    {
-      "id": "us -kasnikowskim-budkovkjaern",
-      "date": "2026-08-25",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Kasnikowski M.",
-        "rank": 194,
-        "form_last5": [
-          0
-        ],
-        "matches_played": 1,
-        "win_prob": 0.4185
-      },
-      "player2": {
-        "name": "Budkov Kjaer N.",
-        "rank": 135,
-        "form_last5": [
-          0
-        ],
-        "matches_played": 1,
-        "win_prob": 0.5815
-      },
-      "favorite": "Budkov Kjaer N."
-    },
-    {
-      "id": "us -mejian-draxll",
-      "date": "2026-08-25",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Mejia N.",
-        "rank": 165,
-        "form_last5": [
-          1,
-          0
-        ],
-        "matches_played": 2,
-        "win_prob": 0.4453
-      },
-      "player2": {
-        "name": "Draxl L.",
-        "rank": 145,
-        "form_last5": [
-          0
-        ],
-        "matches_played": 1,
-        "win_prob": 0.5547
-      },
-      "favorite": "Draxl L."
     },
     {
       "id": "us -rochah-mmohm",
@@ -751,362 +277,384 @@
       "favorite": "Llamas Ruiz P."
     },
     {
-      "id": "us -ofners-nishikorik",
+      "id": "us -kasnikowskim-budkovkjaern",
       "date": "2026-08-25",
       "tour": "ATP",
       "tournament": "US Open",
       "surface": "Hard",
       "round": "",
       "player1": {
-        "name": "Ofner S.",
-        "rank": 110,
-        "form_last5": [
-          0,
-          0,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 26,
-        "win_prob": 0.3675
-      },
-      "player2": {
-        "name": "Nishikori K.",
-        "rank": 76,
-        "form_last5": [
-          1,
-          0,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 151,
-        "win_prob": 0.6325
-      },
-      "favorite": "Nishikori K."
-    },
-    {
-      "id": "us -dayk-parejaj",
-      "date": "2026-08-24",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Day K.",
-        "rank": 137,
-        "form_last5": [
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 11,
-        "win_prob": 0.6794
-      },
-      "player2": {
-        "name": "Pareja J.",
-        "rank": 335,
-        "form_last5": [
-          0
-        ],
-        "matches_played": 1,
-        "win_prob": 0.3206
-      },
-      "favorite": "Day K."
-    },
-    {
-      "id": "us -masarovar-shymanovichi",
-      "date": "2026-08-24",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Masarova R.",
-        "rank": 108,
-        "form_last5": [
-          1,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 13,
-        "win_prob": 0.5845
-      },
-      "player2": {
-        "name": "Shymanovich I.",
-        "rank": 215,
-        "form_last5": [
-          1,
-          0,
-          0
-        ],
-        "matches_played": 3,
-        "win_prob": 0.4155
-      },
-      "favorite": "Masarova R."
-    },
-    {
-      "id": "us -marinor-ferrof",
-      "date": "2026-08-24",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Marino R.",
-        "rank": 117,
-        "form_last5": [
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 28,
-        "win_prob": 0.5333
-      },
-      "player2": {
-        "name": "Ferro F.",
-        "rank": 181,
-        "form_last5": [
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 32,
-        "win_prob": 0.4667
-      },
-      "favorite": "Marino R."
-    },
-    {
-      "id": "us -andreevae-bolkvadzem",
-      "date": "2026-08-24",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Andreeva E.",
-        "rank": 102,
-        "form_last5": [
-          1,
-          0,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 10,
-        "win_prob": 0.6089
-      },
-      "player2": {
-        "name": "Bolkvadze M.",
-        "rank": 545,
-        "form_last5": [
-          1,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 4,
-        "win_prob": 0.3911
-      },
-      "favorite": "Andreeva E."
-    },
-    {
-      "id": "us -hontamam-gjorcheskal",
-      "date": "2026-08-24",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Hontama M.",
-        "rank": 121,
-        "form_last5": [
-          1,
-          0,
-          0
-        ],
-        "matches_played": 3,
-        "win_prob": 0.673
-      },
-      "player2": {
-        "name": "Gjorcheska L.",
-        "rank": 222,
-        "form_last5": [
-          0
-        ],
-        "matches_played": 1,
-        "win_prob": 0.327
-      },
-      "favorite": "Hontama M."
-    },
-    {
-      "id": "us -brenglem-gasanovaa",
-      "date": "2026-08-24",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Brengle M.",
-        "rank": 103,
-        "form_last5": [
-          0,
-          0,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 63,
-        "win_prob": 0.6023
-      },
-      "player2": {
-        "name": "Gasanova A.",
-        "rank": 225,
-        "form_last5": [
-          0,
-          1,
-          0
-        ],
-        "matches_played": 3,
-        "win_prob": 0.3977
-      },
-      "favorite": "Brengle M."
-    },
-    {
-      "id": "us -liuc-watsonh",
-      "date": "2026-08-24",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Liu C.",
-        "rank": 146,
-        "form_last5": [
-          1,
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 27,
-        "win_prob": 0.4313
-      },
-      "player2": {
-        "name": "Watson H.",
-        "rank": 143,
-        "form_last5": [
-          1,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 69,
-        "win_prob": 0.5687
-      },
-      "favorite": "Watson H."
-    },
-    {
-      "id": "us -kudermetovap-fruhvirtoval",
-      "date": "2026-08-24",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Kudermetova P.",
-        "rank": 113,
-        "form_last5": [
-          1,
-          0,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 9,
-        "win_prob": 0.5203
-      },
-      "player2": {
-        "name": "Fruhvirtova L.",
-        "rank": 149,
-        "form_last5": [
-          0,
-          0,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 14,
-        "win_prob": 0.4797
-      },
-      "favorite": "Kudermetova P."
-    },
-    {
-      "id": "us -branstinec-ngounouec",
-      "date": "2026-08-24",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Branstine C.",
+        "name": "Kasnikowski M.",
         "rank": 194,
         "form_last5": [
           0
         ],
         "matches_played": 1,
-        "win_prob": 0.4393
+        "win_prob": 0.4185
       },
       "player2": {
-        "name": "Ngounoue C.",
-        "rank": 178,
+        "name": "Budkov Kjaer N.",
+        "rank": 135,
         "form_last5": [
-          0,
           0
         ],
-        "matches_played": 2,
-        "win_prob": 0.5607
+        "matches_played": 1,
+        "win_prob": 0.5815
       },
-      "favorite": "Ngounoue C."
+      "favorite": "Budkov Kjaer N."
     },
     {
-      "id": "us -gorgodzee-kawak",
-      "date": "2026-08-24",
-      "tour": "WTA",
+      "id": "us -kolarz-gojob",
+      "date": "2026-08-25",
+      "tour": "ATP",
       "tournament": "US Open",
       "surface": "Hard",
       "round": "",
       "player1": {
-        "name": "Gorgodze E.",
-        "rank": 114,
+        "name": "Kolar Z.",
+        "rank": 119,
+        "form_last5": [
+          1,
+          0,
+          0
+        ],
+        "matches_played": 3,
+        "win_prob": 0.4262
+      },
+      "player2": {
+        "name": "Gojo B.",
+        "rank": 105,
+        "form_last5": [
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 7,
+        "win_prob": 0.5738
+      },
+      "favorite": "Gojo B."
+    },
+    {
+      "id": "us -nardil-cinaf",
+      "date": "2026-08-25",
+      "tour": "ATP",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Nardi L.",
+        "rank": 108,
+        "form_last5": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 8,
+        "win_prob": 0.638
+      },
+      "player2": {
+        "name": "Cina F.",
+        "rank": 238,
+        "form_last5": [
+          1,
+          0
+        ],
+        "matches_played": 2,
+        "win_prob": 0.362
+      },
+      "favorite": "Nardi L."
+    },
+    {
+      "id": "us -mejian-draxll",
+      "date": "2026-08-25",
+      "tour": "ATP",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Mejia N.",
+        "rank": 165,
+        "form_last5": [
+          1,
+          0
+        ],
+        "matches_played": 2,
+        "win_prob": 0.4453
+      },
+      "player2": {
+        "name": "Draxl L.",
+        "rank": 145,
+        "form_last5": [
+          0
+        ],
+        "matches_played": 1,
+        "win_prob": 0.5547
+      },
+      "favorite": "Draxl L."
+    },
+    {
+      "id": "us -fearnleyj-pavlovicl",
+      "date": "2026-08-26",
+      "tour": "ATP",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Fearnley J.",
+        "rank": 159,
+        "form_last5": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "matches_played": 14,
+        "win_prob": 0.6749
+      },
+      "player2": {
+        "name": "Pavlovic L.",
+        "rank": 241,
+        "form_last5": [
+          0
+        ],
+        "matches_played": 1,
+        "win_prob": 0.3251
+      },
+      "favorite": "Fearnley J."
+    },
+    {
+      "id": "us -samuelt-harrisb",
+      "date": "2026-08-26",
+      "tour": "ATP",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Samuel T.",
+        "rank": 123,
         "form_last5": [
           0,
           0
         ],
         "matches_played": 2,
-        "win_prob": 0.5214
+        "win_prob": 0.5082
       },
       "player2": {
-        "name": "Kawa K.",
-        "rank": 132,
+        "name": "Harris B.",
+        "rank": 155,
         "form_last5": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 5,
+        "win_prob": 0.4918
+      },
+      "favorite": "Samuel T."
+    },
+    {
+      "id": "us -ymere-garinc",
+      "date": "2026-08-26",
+      "tour": "ATP",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Ymer E.",
+        "rank": 175,
+        "form_last5": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 12,
+        "win_prob": 0.346
+      },
+      "player2": {
+        "name": "Garin C.",
+        "rank": 114,
+        "form_last5": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 47,
+        "win_prob": 0.654
+      },
+      "favorite": "Garin C."
+    },
+    {
+      "id": "us -jacquetk-dougaza",
+      "date": "2026-08-26",
+      "tour": "ATP",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Jacquet K.",
+        "rank": 139,
+        "form_last5": [
+          0,
+          0,
           0,
           1,
           0
         ],
-        "matches_played": 3,
-        "win_prob": 0.4786
+        "matches_played": 6,
+        "win_prob": 0.6383
       },
-      "favorite": "Gorgodze E."
+      "player2": {
+        "name": "Dougaz A.",
+        "rank": 231,
+        "form_last5": [
+          0
+        ],
+        "matches_played": 1,
+        "win_prob": 0.3617
+      },
+      "favorite": "Jacquet K."
+    },
+    {
+      "id": "us -gaubasv-cecchinatom",
+      "date": "2026-08-26",
+      "tour": "ATP",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Gaubas V.",
+        "rank": 129,
+        "form_last5": [
+          0,
+          0
+        ],
+        "matches_played": 2,
+        "win_prob": 0.3955
+      },
+      "player2": {
+        "name": "Cecchinato M.",
+        "rank": 109,
+        "form_last5": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 33,
+        "win_prob": 0.6045
+      },
+      "favorite": "Cecchinato M."
+    },
+    {
+      "id": "us -seybothwildt-mcdonaldm",
+      "date": "2026-08-26",
+      "tour": "ATP",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Seyboth Wild T.",
+        "rank": 79,
+        "form_last5": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 10,
+        "win_prob": 0.6794
+      },
+      "player2": {
+        "name": "McDonald M.",
+        "rank": 145,
+        "form_last5": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 5,
+        "win_prob": 0.3206
+      },
+      "favorite": "Seyboth Wild T."
+    },
+    {
+      "id": "us -virtaneno-pinningtonjonesj",
+      "date": "2026-08-26",
+      "tour": "ATP",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Virtanen O.",
+        "rank": 140,
+        "form_last5": [
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        "matches_played": 9,
+        "win_prob": 0.4826
+      },
+      "player2": {
+        "name": "Pinnington Jones J.",
+        "rank": 138,
+        "form_last5": [
+          1,
+          0,
+          0
+        ],
+        "matches_played": 3,
+        "win_prob": 0.5174
+      },
+      "favorite": "Pinnington Jones J."
+    },
+    {
+      "id": "us -sakamotor-mullera",
+      "date": "2026-08-26",
+      "tour": "ATP",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Sakamoto R.",
+        "rank": 203,
+        "form_last5": [
+          0
+        ],
+        "matches_played": 1,
+        "win_prob": 0.3378
+      },
+      "player2": {
+        "name": "Muller A.",
+        "rank": 126,
+        "form_last5": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 23,
+        "win_prob": 0.6622
+      },
+      "favorite": "Muller A."
     },
     {
       "id": "us -uchijimam-hercogp",
@@ -1142,6 +690,102 @@
         "win_prob": 0.5313
       },
       "favorite": "Hercog P."
+    },
+    {
+      "id": "us -hruncakovav-rieraj",
+      "date": "2026-08-25",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Hruncakova V.",
+        "rank": 107,
+        "form_last5": [
+          0,
+          0,
+          0
+        ],
+        "matches_played": 3,
+        "win_prob": 0.5432
+      },
+      "player2": {
+        "name": "Riera J.",
+        "rank": 202,
+        "form_last5": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 4,
+        "win_prob": 0.4568
+      },
+      "favorite": "Hruncakova V."
+    },
+    {
+      "id": "us -rusa-kostovict",
+      "date": "2026-08-25",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Rus A.",
+        "rank": 94,
+        "form_last5": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "matches_played": 52,
+        "win_prob": 0.5874
+      },
+      "player2": {
+        "name": "Kostovic T.",
+        "rank": 184,
+        "form_last5": [
+          0
+        ],
+        "matches_played": 1,
+        "win_prob": 0.4126
+      },
+      "favorite": "Rus A."
+    },
+    {
+      "id": "us -lamenss-jonese",
+      "date": "2026-08-25",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Lamens S.",
+        "rank": 97,
+        "form_last5": [
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "matches_played": 8,
+        "win_prob": 0.7094
+      },
+      "player2": {
+        "name": "Jones E.",
+        "rank": 136,
+        "form_last5": [
+          0,
+          0,
+          0
+        ],
+        "matches_played": 3,
+        "win_prob": 0.2906
+      },
+      "favorite": "Lamens S."
     },
     {
       "id": "us -osuigwew-barthelm",
@@ -1274,137 +918,6 @@
       "favorite": "Inglis M."
     },
     {
-      "id": "us -hruncakovav-rieraj",
-      "date": "2026-08-25",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Hruncakova V.",
-        "rank": 107,
-        "form_last5": [
-          0,
-          0,
-          0
-        ],
-        "matches_played": 3,
-        "win_prob": 0.5432
-      },
-      "player2": {
-        "name": "Riera J.",
-        "rank": 202,
-        "form_last5": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 4,
-        "win_prob": 0.4568
-      },
-      "favorite": "Hruncakova V."
-    },
-    {
-      "id": "us -rusa-kostovict",
-      "date": "2026-08-25",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Rus A.",
-        "rank": 94,
-        "form_last5": [
-          0,
-          0,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 52,
-        "win_prob": 0.5874
-      },
-      "player2": {
-        "name": "Kostovic T.",
-        "rank": 184,
-        "form_last5": [
-          0
-        ],
-        "matches_played": 1,
-        "win_prob": 0.4126
-      },
-      "favorite": "Rus A."
-    },
-    {
-      "id": "us -lamenss-jonese",
-      "date": "2026-08-25",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Lamens S.",
-        "rank": 97,
-        "form_last5": [
-          1,
-          0,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 8,
-        "win_prob": 0.7094
-      },
-      "player2": {
-        "name": "Jones E.",
-        "rank": 136,
-        "form_last5": [
-          0,
-          0,
-          0
-        ],
-        "matches_played": 3,
-        "win_prob": 0.2906
-      },
-      "favorite": "Lamens S."
-    },
-    {
-      "id": "us -galfid-sasnovicha",
-      "date": "2026-08-25",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Galfi D.",
-        "rank": 115,
-        "form_last5": [
-          1,
-          0,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 21,
-        "win_prob": 0.4227
-      },
-      "player2": {
-        "name": "Sasnovich A.",
-        "rank": 104,
-        "form_last5": [
-          0,
-          1,
-          0,
-          0,
-          0
-        ],
-        "matches_played": 68,
-        "win_prob": 0.5773
-      },
-      "favorite": "Sasnovich A."
-    },
-    {
       "id": "us -yuany-guoh",
       "date": "2026-08-25",
       "tour": "WTA",
@@ -1493,6 +1006,201 @@
         "win_prob": 0.2611
       },
       "favorite": "Swan K."
+    },
+    {
+      "id": "us -galfid-sasnovicha",
+      "date": "2026-08-25",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Galfi D.",
+        "rank": 115,
+        "form_last5": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 21,
+        "win_prob": 0.4227
+      },
+      "player2": {
+        "name": "Sasnovich A.",
+        "rank": 104,
+        "form_last5": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 68,
+        "win_prob": 0.5773
+      },
+      "favorite": "Sasnovich A."
+    },
+    {
+      "id": "us -zhengq-burelc",
+      "date": "2026-08-26",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Zheng Q.",
+        "rank": 138,
+        "form_last5": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 48,
+        "win_prob": 0.73
+      },
+      "player2": {
+        "name": "Burel C.",
+        "rank": 1486,
+        "form_last5": [
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "matches_played": 30,
+        "win_prob": 0.27
+      },
+      "favorite": "Zheng Q."
+    },
+    {
+      "id": "us -pridankinae-marinor",
+      "date": "2026-08-26",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Pridankina E.",
+        "rank": 218,
+        "form_last5": [
+          0
+        ],
+        "matches_played": 1,
+        "win_prob": 0.3587
+      },
+      "player2": {
+        "name": "Marino R.",
+        "rank": 117,
+        "form_last5": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 28,
+        "win_prob": 0.6413
+      },
+      "favorite": "Marino R."
+    },
+    {
+      "id": "us -parejaj-shymanovichi",
+      "date": "2026-08-26",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Pareja J.",
+        "rank": 335,
+        "form_last5": [
+          0
+        ],
+        "matches_played": 1,
+        "win_prob": 0.3195
+      },
+      "player2": {
+        "name": "Shymanovich I.",
+        "rank": 215,
+        "form_last5": [
+          1,
+          0,
+          0
+        ],
+        "matches_played": 3,
+        "win_prob": 0.6805
+      },
+      "favorite": "Shymanovich I."
+    },
+    {
+      "id": "us -brenglem-stefaninil",
+      "date": "2026-08-26",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Brengle M.",
+        "rank": 103,
+        "form_last5": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "matches_played": 63,
+        "win_prob": 0.5627
+      },
+      "player2": {
+        "name": "Stefanini L.",
+        "rank": 153,
+        "form_last5": [
+          1,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 4,
+        "win_prob": 0.4373
+      },
+      "favorite": "Brengle M."
+    },
+    {
+      "id": "us -fruhvirtoval-branstinec",
+      "date": "2026-08-26",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Fruhvirtova L.",
+        "rank": 149,
+        "form_last5": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "matches_played": 14,
+        "win_prob": 0.6382
+      },
+      "player2": {
+        "name": "Branstine C.",
+        "rank": 194,
+        "form_last5": [
+          0
+        ],
+        "matches_played": 1,
+        "win_prob": 0.3618
+      },
+      "favorite": "Fruhvirtova L."
     }
   ]
 }
