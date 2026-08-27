@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-26T06:28:30.872746+00:00",
-  "success_rate": 0.609,
-  "n_correct": 81,
-  "n_resolved": 133,
-  "n_pending": 23,
+  "generated_at": "2026-08-27T17:00:51.823973+00:00",
+  "success_rate": 0.5742,
+  "n_correct": 89,
+  "n_resolved": 155,
+  "n_pending": 21,
   "entries": [
     {
       "id": "live-us -zhangz-sakamotor",
@@ -19,6 +19,266 @@
       "status": "pending"
     },
     {
+      "id": "live-us -fearnleyj-rodionovj",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Fearnley J.",
+      "player2": "Rodionov J.",
+      "predicted_winner": "Fearnley J.",
+      "predicted_prob": 0.5,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -wongc-lajovicd",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Wong C.",
+      "player2": "Lajovic D.",
+      "predicted_winner": "Wong C.",
+      "predicted_prob": 0.6182,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -samuelt-garinc",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Samuel T.",
+      "player2": "Garin C.",
+      "predicted_winner": "Garin C.",
+      "predicted_prob": 0.5212,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -gaubasv-wendelkenh",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Gaubas V.",
+      "player2": "Wendelken H.",
+      "predicted_winner": "Gaubas V.",
+      "predicted_prob": 0.5801,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -svrcinad-mcdonaldm",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Svrcina D.",
+      "player2": "McDonald M.",
+      "predicted_winner": "Svrcina D.",
+      "predicted_prob": 0.6156,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -geaa-basavareddyn",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Gea A.",
+      "player2": "Basavareddy N.",
+      "predicted_winner": "Gea A.",
+      "predicted_prob": 0.5662,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -pirosz-oconnellc",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Piros Z.",
+      "player2": "O Connell C.",
+      "predicted_winner": "O Connell C.",
+      "predicted_prob": 0.6119,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -harrisl-llamasruizp",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Harris L.",
+      "player2": "Llamas Ruiz P.",
+      "predicted_winner": "Harris L.",
+      "predicted_prob": 0.5947,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -virtaneno-dimitrovg",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Virtanen O.",
+      "player2": "Dimitrov G.",
+      "predicted_winner": "Dimitrov G.",
+      "predicted_prob": 0.5934,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -mochizukis-passarof",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Mochizuki S.",
+      "player2": "Passaro F.",
+      "predicted_winner": "Passaro F.",
+      "predicted_prob": 0.5747,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -nishikorik-sakamotor",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Nishikori K.",
+      "player2": "Sakamoto R.",
+      "predicted_winner": "Nishikori K.",
+      "predicted_prob": 0.7981,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -draxll-schoolkatet",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Draxl L.",
+      "player2": "Schoolkate T.",
+      "predicted_winner": "Schoolkate T.",
+      "predicted_prob": 0.6661,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -branstinec-montgomeryr",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Branstine C.",
+      "player2": "Montgomery R.",
+      "predicted_winner": "Montgomery R.",
+      "predicted_prob": 0.5615,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -parejaj-stefaninil",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Pareja J.",
+      "player2": "Stefanini L.",
+      "predicted_winner": "Stefanini L.",
+      "predicted_prob": 0.6819,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -zhengq-pridankinae",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Zheng Q.",
+      "player2": "Pridankina E.",
+      "predicted_winner": "Zheng Q.",
+      "predicted_prob": 0.717,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -bandecchis-rusa",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Bandecchi S.",
+      "player2": "Rus A.",
+      "predicted_winner": "Rus A.",
+      "predicted_prob": 0.6947,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -watsonh-darth",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Watson H.",
+      "player2": "Dart H.",
+      "predicted_winner": "Watson H.",
+      "predicted_prob": 0.6109,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -zidansekt-andreescub",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Zidansek T.",
+      "player2": "Andreescu B.",
+      "predicted_winner": "Andreescu B.",
+      "predicted_prob": 0.57,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -jonesf-garlandj",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Jones F.",
+      "player2": "Garland J.",
+      "predicted_winner": "Jones F.",
+      "predicted_prob": 0.5766,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -semenistajad-hunters",
+      "origin": "à venir",
+      "date": "2026-08-27",
+      "tournament": "US Open",
+      "player1": "Semenistaja D.",
+      "player2": "Hunter S.",
+      "predicted_winner": "Semenistaja D.",
+      "predicted_prob": 0.5196,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
       "id": "live-us -fearnleyj-pavlovicl",
       "origin": "à venir",
       "date": "2026-08-26",
@@ -27,9 +287,9 @@
       "player2": "Pavlovic L.",
       "predicted_winner": "Fearnley J.",
       "predicted_prob": 0.6749,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Fearnley J.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -samuelt-harrisb",
@@ -40,9 +300,9 @@
       "player2": "Harris B.",
       "predicted_winner": "Samuel T.",
       "predicted_prob": 0.5082,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Samuel T.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -ymere-garinc",
@@ -53,9 +313,9 @@
       "player2": "Garin C.",
       "predicted_winner": "Garin C.",
       "predicted_prob": 0.654,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Garin C.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -jacquetk-dougaza",
@@ -66,9 +326,9 @@
       "player2": "Dougaz A.",
       "predicted_winner": "Jacquet K.",
       "predicted_prob": 0.6383,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Dougaz A.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -gaubasv-cecchinatom",
@@ -79,9 +339,9 @@
       "player2": "Cecchinato M.",
       "predicted_winner": "Cecchinato M.",
       "predicted_prob": 0.6045,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Gaubas V.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -seybothwildt-mcdonaldm",
@@ -92,9 +352,9 @@
       "player2": "McDonald M.",
       "predicted_winner": "Seyboth Wild T.",
       "predicted_prob": 0.6794,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "McDonald M.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -virtaneno-pinningtonjonesj",
@@ -105,9 +365,9 @@
       "player2": "Pinnington Jones J.",
       "predicted_winner": "Pinnington Jones J.",
       "predicted_prob": 0.5174,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Virtanen O.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -sakamotor-mullera",
@@ -118,9 +378,9 @@
       "player2": "Muller A.",
       "predicted_winner": "Muller A.",
       "predicted_prob": 0.6622,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Sakamoto R.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -zhengq-burelc",
@@ -131,9 +391,9 @@
       "player2": "Burel C.",
       "predicted_winner": "Zheng Q.",
       "predicted_prob": 0.73,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Zheng Q.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -pridankinae-marinor",
@@ -144,9 +404,9 @@
       "player2": "Marino R.",
       "predicted_winner": "Marino R.",
       "predicted_prob": 0.6413,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Pridankina E.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -parejaj-shymanovichi",
@@ -157,9 +417,9 @@
       "player2": "Shymanovich I.",
       "predicted_winner": "Shymanovich I.",
       "predicted_prob": 0.6805,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Pareja J.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -brenglem-stefaninil",
@@ -170,9 +430,9 @@
       "player2": "Stefanini L.",
       "predicted_winner": "Brengle M.",
       "predicted_prob": 0.5627,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Stefanini L.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -fruhvirtoval-branstinec",
@@ -183,9 +443,9 @@
       "player2": "Branstine C.",
       "predicted_winner": "Fruhvirtova L.",
       "predicted_prob": 0.6382,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Branstine C.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -skatovt-dimitrovg",
@@ -196,9 +456,9 @@
       "player2": "Dimitrov G.",
       "predicted_winner": "Dimitrov G.",
       "predicted_prob": 0.5694,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Dimitrov G.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -rochah-harrisl",
@@ -209,9 +469,9 @@
       "player2": "Harris L.",
       "predicted_winner": "Rocha H.",
       "predicted_prob": 0.6311,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Harris L.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -budkovkjaern-oconnellc",
@@ -222,9 +482,9 @@
       "player2": "O Connell C.",
       "predicted_winner": "O Connell C.",
       "predicted_prob": 0.6043,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "O Connell C.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -cinaf-dellienh",
@@ -235,9 +495,9 @@
       "player2": "Dellien H.",
       "predicted_winner": "Dellien H.",
       "predicted_prob": 0.6126,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Cina F.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -bandecchis-hruncakovav",
@@ -248,9 +508,9 @@
       "player2": "Hruncakova V.",
       "predicted_winner": "Hruncakova V.",
       "predicted_prob": 0.6129,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Bandecchi S.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -rusa-lamenss",
@@ -261,9 +521,9 @@
       "player2": "Lamens S.",
       "predicted_winner": "Rus A.",
       "predicted_prob": 0.6068,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Rus A.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -jonesf-barthelm",
@@ -274,9 +534,9 @@
       "player2": "Barthel M.",
       "predicted_winner": "Barthel M.",
       "predicted_prob": 0.537,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Jones F.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -honp-garlandj",
@@ -287,9 +547,9 @@
       "player2": "Garland J.",
       "predicted_winner": "Hon P.",
       "predicted_prob": 0.5589,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Garland J.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -yuany-avdeevaj",
@@ -300,9 +560,9 @@
       "player2": "Avdeeva J.",
       "predicted_winner": "Yuan Y.",
       "predicted_prob": 0.6063,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Yuan Y.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -geaa-nagals",

@@ -45,11 +45,43 @@ date,tournament,winner,loser
 2026-07-10,Wimbledon,Zverev A.,Fery A.
 2026-07-11,Wimbledon,Noskova L.,Muchova K.
 2026-07-12,Wimbledon,Sinner J.,Zverev A.
-2026-08-26,US Open,Dellien H.,Echargui M.
-2026-08-26,US Open,Johnson A.,Daniel T.
+2026-08-27,US Open,Llamas Ruiz P.,Sachko V.
+2026-08-27,US Open,Cina F.,Dellien H.
+2026-08-27,US Open,Schoolkate T.,Hong S.
+2026-08-27,US Open,Smith C.,Kym J.
+2026-08-26,US Open,Draxl L.,Johnson A.
+2026-08-26,US Open,Yunchaokete B.,Gojo B.
+2026-08-26,US Open,Harris L.,Rocha H.
+2026-08-26,US Open,Nishikori K.,Antonius M.
+2026-08-26,US Open,Piros Z.,Glinka D.
+2026-08-26,US Open,O Connell C.,Budkov Kjaer N.
+2026-08-26,US Open,Gaston H.,Ilagan A.
+2026-08-26,US Open,Sakamoto R.,Muller A.
+2026-08-26,US Open,Basavareddy N.,Mikrut L.
+2026-08-26,US Open,Passaro F.,Gentzsch T.
+2026-08-26,US Open,Svrcina D.,Galarneau A.
+2026-08-26,US Open,Mochizuki S.,Shick B.
+2026-08-26,US Open,Gea A.,Chidekh C.
+2026-08-26,US Open,McDonald M.,Seyboth Wild T.
+2026-08-26,US Open,Samuel T.,Harris B.
+2026-08-26,US Open,Wendelken H.,Bertola R.
+2026-08-26,US Open,Lajovic D.,Jorda Sanchis D.
+2026-08-26,US Open,Virtanen O.,Pinnington Jones J.
+2026-08-26,US Open,Garin C.,Ymer E.
+2026-08-26,US Open,Dimitrov G.,Skatov T.
+2026-08-26,US Open,Wong C.,Neumayer L.
+2026-08-26,US Open,Gaubas V.,Cecchinato M.
+2026-08-26,US Open,Fearnley J.,Pavlovic L.
+2026-08-26,US Open,Rodionov J.,Silva F.
+2026-08-26,US Open,Rincon D.,Lee J.
+2026-08-26,US Open,Barrios Vera M.,Olivieri G.
+2026-08-26,US Open,Dougaz A.,Jacquet K.
+2026-08-26,US Open,Guerrieri A.,Schwaerzler J.
+2026-08-26,US Open,Draxl L.,Mejia N.
 2026-08-26,US Open,Schoolkate T.,Secord J.
 2026-08-26,US Open,Hong S.,Basilashvili N.
-2026-08-26,US Open,Draxl L.,Mejia N.
+2026-08-26,US Open,Johnson A.,Daniel T.
+2026-08-26,US Open,Dellien H.,Echargui M.
 2026-08-25,US Open,Kym J.,Added D.
 2026-08-25,US Open,Smith C.,Pellegrino A.
 2026-08-25,US Open,Yunchaokete B.,Noguchi R.
@@ -96,8 +128,8 @@ date,tournament,winner,loser
 2026-08-24,US Open,Guerrieri A.,Holmgren A.
 2026-08-24,US Open,Ymer E.,Roncadelli F.
 2026-08-24,US Open,Jacquet K.,Midon L.
-2026-08-24,US Open,Cecchinato M.,Broady L.
 2026-08-24,US Open,Schwaerzler J.,Heide G.
+2026-08-24,US Open,Cecchinato M.,Broady L.
 2026-08-24,US Open,Gaubas V.,Feldbausch K.
 2026-08-24,US Open,Garin C.,Johnson S.
 2026-08-24,US Open,Olivieri G.,Den Ouden G.
@@ -109,11 +141,43 @@ date,tournament,winner,loser
 2026-08-24,US Open,Silva F.,Dedura-Palomero D.
 2026-08-24,US Open,Rodionov J.,Coppejans K.
 2026-08-24,US Open,Fearnley J.,Carballes Baena R.
-2026-08-26,US Open,Costoulas S.,Ruggeri J.
-2026-08-26,US Open,Kalieva E.,Mladenovic K.
+2026-08-27,US Open,Hunter S.,Ku Y.
+2026-08-27,US Open,Garland J.,Hon P.
+2026-08-27,US Open,Liutova K.,Radivojevic L.
+2026-08-27,US Open,Kalieva E.,Costoulas S.
+2026-08-27,US Open,Valdmannova V.,Sasnovich A.
+2026-08-27,US Open,Semenistaja D.,Shubladze A.
+2026-08-26,US Open,Kubka M.,Bassols Ribera M.
+2026-08-26,US Open,Hibino N.,Siskova A.
+2026-08-26,US Open,Jones F.,Barthel M.
+2026-08-26,US Open,Zidansek T.,Maristany Zuleta De Reales G.
+2026-08-26,US Open,Watson H.,Fita Boluda A.
+2026-08-26,US Open,Stoiana M.,Swan K.
+2026-08-26,US Open,Andreescu B.,Podrez V.
+2026-08-26,US Open,Rus A.,Lamens S.
+2026-08-26,US Open,Yuan Y.,Avdeeva J.
+2026-08-26,US Open,Havlickova L.,Uchijima M.
+2026-08-26,US Open,Sakatsume H.,Grant T.
+2026-08-26,US Open,Dart H.,Penickova K.
+2026-08-26,US Open,Bandecchi S.,Hruncakova V.
+2026-08-26,US Open,Ristic M.,Jorge F.
+2026-08-26,US Open,Stefanini L.,Brengle M.
+2026-08-26,US Open,Pareja J.,Shymanovich I.
+2026-08-26,US Open,Gorgodze E.,Papamichail D.
+2026-08-26,US Open,Knutson G.,Salkova D.
+2026-08-26,US Open,Zheng Q.,Burel C.
+2026-08-26,US Open,Koevermans A.,Klimovicova L.
+2026-08-26,US Open,Branstine C.,Fruhvirtova L.
+2026-08-26,US Open,Lazaro Garcia A.,Hontama M.
+2026-08-26,US Open,Iatcenko P.,Bronzetti L.
+2026-08-26,US Open,Pridankina E.,Marino R.
+2026-08-26,US Open,Bolkvadze M.,Ibragimova A.
+2026-08-26,US Open,Montgomery R.,Vandromme J.
+2026-08-26,US Open,Sasnovich A.,Galfi D.
 2026-08-26,US Open,Yuan Y.,Guo H.
 2026-08-26,US Open,Valdmannova V.,Carle M.
-2026-08-26,US Open,Sasnovich A.,Galfi D.
+2026-08-26,US Open,Kalieva E.,Mladenovic K.
+2026-08-26,US Open,Costoulas S.,Ruggeri J.
 2026-08-25,US Open,Shubladze A.,Sobolieva A.
 2026-08-25,US Open,Semenistaja D.,Kinoshita H.
 2026-08-25,US Open,Hunter S.,Inglis M.
