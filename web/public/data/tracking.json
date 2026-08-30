@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-29T11:54:52.152497+00:00",
-  "success_rate": 0.5714,
-  "n_correct": 100,
-  "n_resolved": 175,
-  "n_pending": 104,
+  "generated_at": "2026-08-30T10:51:48.830101+00:00",
+  "success_rate": 0.573,
+  "n_correct": 102,
+  "n_resolved": 178,
+  "n_pending": 101,
   "entries": [
     {
       "id": "live-us -zhangz-sakamotor",
@@ -305,19 +305,6 @@
       "status": "pending"
     },
     {
-      "id": "live-us -dammm-tiafoef",
-      "origin": "à venir",
-      "date": "2026-08-30",
-      "tournament": "US Open",
-      "player1": "Damm M.",
-      "player2": "Tiafoe F.",
-      "predicted_winner": "Tiafoe F.",
-      "predicted_prob": 0.7858,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
-    {
       "id": "live-us -nakashimab-baezs",
       "origin": "à venir",
       "date": "2026-08-30",
@@ -547,19 +534,6 @@
       "player2": "Selekhmeteva O.",
       "predicted_winner": "Selekhmeteva O.",
       "predicted_prob": 0.6924,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
-    {
-      "id": "live-us -rakhimovak-krejcikovab",
-      "origin": "à venir",
-      "date": "2026-08-30",
-      "tournament": "US Open",
-      "player1": "Rakhimova K.",
-      "player2": "Krejcikova B.",
-      "predicted_winner": "Krejcikova B.",
-      "predicted_prob": 0.6226,
       "actual_winner": null,
       "correct": null,
       "status": "pending"
@@ -981,19 +955,6 @@
       "status": "pending"
     },
     {
-      "id": "live-us -jacquemote-bouzkovam",
-      "origin": "à venir",
-      "date": "2026-08-30",
-      "tournament": "US Open",
-      "player1": "Jacquemot E.",
-      "player2": "Bouzkova M.",
-      "predicted_winner": "Bouzkova M.",
-      "predicted_prob": 0.7364,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
-    {
       "id": "live-us -keysm-korneevaa",
       "origin": "à venir",
       "date": "2026-08-30",
@@ -1356,6 +1317,45 @@
       "actual_winner": null,
       "correct": null,
       "status": "pending"
+    },
+    {
+      "id": "live-us -dammm-tiafoef",
+      "origin": "à venir",
+      "date": "2026-08-30",
+      "tournament": "US Open",
+      "player1": "Damm M.",
+      "player2": "Tiafoe F.",
+      "predicted_winner": "Tiafoe F.",
+      "predicted_prob": 0.7858,
+      "actual_winner": "Tiafoe F.",
+      "correct": true,
+      "status": "resolved"
+    },
+    {
+      "id": "live-us -rakhimovak-krejcikovab",
+      "origin": "à venir",
+      "date": "2026-08-30",
+      "tournament": "US Open",
+      "player1": "Rakhimova K.",
+      "player2": "Krejcikova B.",
+      "predicted_winner": "Krejcikova B.",
+      "predicted_prob": 0.6226,
+      "actual_winner": "Krejcikova B.",
+      "correct": true,
+      "status": "resolved"
+    },
+    {
+      "id": "live-us -jacquemote-bouzkovam",
+      "origin": "à venir",
+      "date": "2026-08-30",
+      "tournament": "US Open",
+      "player1": "Jacquemot E.",
+      "player2": "Bouzkova M.",
+      "predicted_winner": "Bouzkova M.",
+      "predicted_prob": 0.7364,
+      "actual_winner": "Jacquemot E.",
+      "correct": false,
+      "status": "resolved"
     },
     {
       "id": "live-us -nishikorik-sakamotor",
