@@ -1,46 +1,32 @@
 id,date,tournament,surface,round,best_of,player1,player2
-us -darderil-svrcinad,2026-09-03,US Open,Hard,,5,Darderi L.,Svrcina D.
-us -augeraliassimef-khachanovk,2026-09-03,US Open,Hard,,5,Auger-Aliassime F.,Khachanov K.
-us -sweenyd-musettil,2026-09-03,US Open,Hard,,5,Sweeny D.,Musetti L.
-us -blockxa-trungellitim,2026-09-03,US Open,Hard,,5,Blockx A.,Trungelliti M.
-us -fritzt-belluccim,2026-09-03,US Open,Hard,,5,Fritz T.,Bellucci M.
-us -mensikj-rodionovj,2026-09-03,US Open,Hard,,5,Mensik J.,Rodionov J.
-us -popyrina-tabiloa,2026-09-03,US Open,Hard,,5,Popyrin A.,Tabilo A.
-us -schoolkatet-cobollif,2026-09-03,US Open,Hard,,5,Schoolkate T.,Cobolli F.
-us -svajdaz-geaa,2026-09-03,US Open,Hard,,5,Svajda Z.,Gea A.
-us -bergsz-dejongj,2026-09-03,US Open,Hard,,5,Bergs Z.,De Jong J.
-us -bonzib-busei,2026-09-03,US Open,Hard,,5,Bonzi B.,Buse I.
-us -vandezandschulpb-deminaura,2026-09-03,US Open,Hard,,5,Van De Zandschulp B.,De Minaur A.
-us -monfilsg-tienl,2026-09-04,US Open,Hard,,5,Monfils G.,Tien L.
-us -zvereva-halysq,2026-09-04,US Open,Hard,,5,Zverev A.,Halys Q.
 us -medvedevd-rinderknecha,2026-09-04,US Open,Hard,,5,Medvedev D.,Rinderknech A.
-us -michelsena-meridaaguilard,2026-09-04,US Open,Hard,,5,Michelsen A.,Merida Aguilar D.
-us -sheltonb-shapovalovd,2026-09-04,US Open,Hard,,5,Shelton B.,Shapovalov D.
-us -leheckaj-tsitsipass,2026-09-04,US Open,Hard,,5,Lehecka J.,Tsitsipas S.
-us -vacherotv-tiafoef,2026-09-04,US Open,Hard,,5,Vacherot V.,Tiafoe F.
 us -bublika-pault,2026-09-04,US Open,Hard,,5,Bublik A.,Paul T.
 us -wuy-alcarazc,2026-09-04,US Open,Hard,,5,Wu Y.,Alcaraz C.
+us -michelsena-meridaaguilard,2026-09-04,US Open,Hard,,5,Michelsen A.,Merida Aguilar D.
 us -etcheverryt-navonem,2026-09-04,US Open,Hard,,5,Etcheverry T.,Navone M.
-us -swiateki-podoroskan,2026-09-03,US Open,Hard,,3,Swiatek I.,Podoroska N.
-us -keysm-bondara,2026-09-03,US Open,Hard,,3,Keys M.,Bondar A.
-us -timofeevam-mertense,2026-09-03,US Open,Hard,,3,Timofeeva M.,Mertens E.
-us -potapovaa-jeanjeanl,2026-09-03,US Open,Hard,,3,Potapova A.,Jeanjean L.
-us -osakan-siniakovak,2026-09-03,US Open,Hard,,3,Osaka N.,Siniakova K.
-us -darth-bouzkovam,2026-09-03,US Open,Hard,,3,Dart H.,Bouzkova M.
-us -taggerl-anisimovaa,2026-09-03,US Open,Hard,,3,Tagger L.,Anisimova A.
-us -zhengq-putintsevay,2026-09-03,US Open,Hard,,3,Zheng Q.,Putintseva Y.
-us -oliynykovao-ealaa,2026-09-03,US Open,Hard,,3,Oliynykova O.,Eala A.
-us -bucsac-sakatsumeh,2026-09-03,US Open,Hard,,3,Bucsa C.,Sakatsume H.
-us -andreevam-lyse,2026-09-03,US Open,Hard,,3,Andreeva M.,Lys E.
-us -bartunkovan-mariat,2026-09-03,US Open,Hard,,3,Bartunkova N.,Maria T.
-us -sakkarim-starodubtsevay,2026-09-03,US Open,Hard,,3,Sakkari M.,Starodubtseva Y.
-us -jovici-jonesf,2026-09-03,US Open,Hard,,3,Jovic I.,Jones F.
-us -badosap-gauffc,2026-09-04,US Open,Hard,,3,Badosa P.,Gauff C.
-us -bouzasmaneiroj-rybakinae,2026-09-04,US Open,Hard,,3,Bouzas Maneiro J.,Rybakina E.
-us -townsendt-shnaiderd,2026-09-04,US Open,Hard,,3,Townsend T.,Shnaider D.
+us -leheckaj-tsitsipass,2026-09-04,US Open,Hard,,5,Lehecka J.,Tsitsipas S.
+us -vacherotv-tiafoef,2026-09-05,US Open,Hard,,5,Vacherot V.,Tiafoe F.
+us -sheltonb-shapovalovd,2026-09-05,US Open,Hard,,5,Shelton B.,Shapovalov D.
+us -fritzt-cerundolof,2026-09-05,US Open,Hard,,5,Fritz T.,Cerundolo F.
+us -darderil-sweenyd,2026-09-05,US Open,Hard,,5,Darderi L.,Sweeny D.
+us -blockxa-cobollif,2026-09-05,US Open,Hard,,5,Blockx A.,Cobolli F.
+us -khachanovk-bonzib,2026-09-05,US Open,Hard,,5,Khachanov K.,Bonzi B.
+us -mensikj-tienl,2026-09-05,US Open,Hard,,5,Mensik J.,Tien L.
+us -zhengm-geaa,2026-09-05,US Open,Hard,,5,Zheng M.,Gea A.
+us -bergsz-vandezandschulpb,2026-09-05,US Open,Hard,,5,Bergs Z.,Van De Zandschulp B.
+us -zvereva-tabiloa,2026-09-05,US Open,Hard,,5,Zverev A.,Tabilo A.
 us -paolinij-cirsteas,2026-09-04,US Open,Hard,,3,Paolini J.,Cirstea S.
-us -navarroe-muchovak,2026-09-04,US Open,Hard,,3,Navarro E.,Muchova K.
 us -kostyukm-alexandrovae,2026-09-04,US Open,Hard,,3,Kostyuk M.,Alexandrova E.
 us -sabalenkaa-rakhimovak,2026-09-04,US Open,Hard,,3,Sabalenka A.,Rakhimova K.
-us -svitolinae-kalinskayaa,2026-09-04,US Open,Hard,,3,Svitolina E.,Kalinskaya A.
+us -townsendt-shnaiderd,2026-09-04,US Open,Hard,,3,Townsend T.,Shnaider D.
 us -lia-noskoval,2026-09-04,US Open,Hard,,3,Li A.,Noskova L.
+us -navarroe-muchovak,2026-09-04,US Open,Hard,,3,Navarro E.,Muchova K.
+us -svitolinae-kalinskayaa,2026-09-05,US Open,Hard,,3,Svitolina E.,Kalinskaya A.
+us -potapovaa-anisimovaa,2026-09-05,US Open,Hard,,3,Potapova A.,Anisimova A.
+us -swiateki-bouzkovam,2026-09-05,US Open,Hard,,3,Swiatek I.,Bouzkova M.
+us -osakan-mertense,2026-09-05,US Open,Hard,,3,Osaka N.,Mertens E.
+us -keysm-zhengq,2026-09-05,US Open,Hard,,3,Keys M.,Zheng Q.
+us -andreevam-bartunkovan,2026-09-05,US Open,Hard,,3,Andreeva M.,Bartunkova N.
+us -jovici-ealaa,2026-09-05,US Open,Hard,,3,Jovic I.,Eala A.
+us -bucsac-gauffc,2026-09-05,US Open,Hard,,3,Bucsa C.,Gauff C.
+us -starodubtsevay-rybakinae,2026-09-05,US Open,Hard,,3,Starodubtseva Y.,Rybakina E.
