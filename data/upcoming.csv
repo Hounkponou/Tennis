@@ -1,13 +1,9 @@
 id,date,tournament,surface,round,best_of,player1,player2
-us -cerundolof-blockxa,2026-09-07,US Open,Hard,,5,Cerundolo F.,Blockx A.
-us -khachanovk-tienl,2026-09-07,US Open,Hard,,5,Khachanov K.,Tien L.
-us -geaa-vandezandschulpb,2026-09-07,US Open,Hard,,5,Gea A.,Van De Zandschulp B.
-us -zvereva-darderil,2026-09-08,US Open,Hard,,5,Zverev A.,Darderi L.
 us -tiafoef-michelsena,2026-09-08,US Open,Hard,,5,Tiafoe F.,Michelsen A.
-us -sheltonb-alcarazc,2026-09-08,US Open,Hard,,5,Shelton B.,Alcaraz C.
-us -andreevam-potapovaa,2026-09-07,US Open,Hard,,3,Andreeva M.,Potapova A.
-us -swiateki-zhengq,2026-09-07,US Open,Hard,,3,Swiatek I.,Zheng Q.
-us -osakan-rybakinae,2026-09-07,US Open,Hard,,3,Osaka N.,Rybakina E.
-us -jovici-gauffc,2026-09-08,US Open,Hard,,3,Jovic I.,Gauff C.
+us -sheltonb-alcarazc,2026-09-09,US Open,Hard,,5,Shelton B.,Alcaraz C.
+us -khachanovk-blockxa,2026-09-09,US Open,Hard,,5,Khachanov K.,Blockx A.
+us -zvereva-vandezandschulpb,2026-09-09,US Open,Hard,,5,Zverev A.,Van De Zandschulp B.
 us -sabalenkaa-noskoval,2026-09-08,US Open,Hard,,3,Sabalenka A.,Noskova L.
-us -pegulaj-navarroe,2026-09-08,US Open,Hard,,3,Pegula J.,Navarro E.
+us -pegulaj-navarroe,2026-09-09,US Open,Hard,,3,Pegula J.,Navarro E.
+us -zhengq-rybakinae,2026-09-09,US Open,Hard,,3,Zheng Q.,Rybakina E.
+us -andreevam-gauffc,2026-09-09,US Open,Hard,,3,Andreeva M.,Gauff C.

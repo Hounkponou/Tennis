@@ -1,150 +1,13 @@
 {
-  "generated_at": "2026-09-07T10:56:31.696821+00:00",
+  "generated_at": "2026-09-08T10:13:23.097471+00:00",
   "model_version": "2026.07.13-0845",
   "model_metrics": {
     "accuracy": 0.6901,
     "log_loss": 0.5753,
     "roc_auc": 0.7665
   },
-  "count": 12,
+  "count": 8,
   "matches": [
-    {
-      "id": "us -cerundolof-blockxa",
-      "date": "2026-09-07",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Cerundolo F.",
-        "rank": 21,
-        "form_last5": [
-          0,
-          1,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 39,
-        "win_prob": 0.7616
-      },
-      "player2": {
-        "name": "Blockx A.",
-        "rank": 36,
-        "form_last5": [
-          0,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 4,
-        "win_prob": 0.2384
-      },
-      "favorite": "Cerundolo F."
-    },
-    {
-      "id": "us -khachanovk-tienl",
-      "date": "2026-09-07",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Khachanov K.",
-        "rank": 22,
-        "form_last5": [
-          1,
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 113,
-        "win_prob": 0.523
-      },
-      "player2": {
-        "name": "Tien L.",
-        "rank": 17,
-        "form_last5": [
-          1,
-          1,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 21,
-        "win_prob": 0.477
-      },
-      "favorite": "Khachanov K."
-    },
-    {
-      "id": "us -geaa-vandezandschulpb",
-      "date": "2026-09-07",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Gea A.",
-        "rank": 135,
-        "form_last5": [
-          1,
-          0,
-          0
-        ],
-        "matches_played": 3,
-        "win_prob": 0.3509
-      },
-      "player2": {
-        "name": "Van De Zandschulp B.",
-        "rank": 54,
-        "form_last5": [
-          1,
-          0,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 47,
-        "win_prob": 0.6491
-      },
-      "favorite": "Van De Zandschulp B."
-    },
-    {
-      "id": "us -zvereva-darderil",
-      "date": "2026-09-08",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Zverev A.",
-        "rank": 3,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 172,
-        "win_prob": 0.858
-      },
-      "player2": {
-        "name": "Darderi L.",
-        "rank": 16,
-        "form_last5": [
-          1,
-          0,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 20,
-        "win_prob": 0.142
-      },
-      "favorite": "Zverev A."
-    },
     {
       "id": "us -tiafoef-michelsena",
       "date": "2026-09-08",
@@ -182,7 +45,7 @@
     },
     {
       "id": "us -sheltonb-alcarazc",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "tour": "ATP",
       "tournament": "US Open",
       "surface": "Hard",
@@ -216,144 +79,73 @@
       "favorite": "Alcaraz C."
     },
     {
-      "id": "us -andreevam-potapovaa",
-      "date": "2026-09-07",
-      "tour": "WTA",
+      "id": "us -khachanovk-blockxa",
+      "date": "2026-09-09",
+      "tour": "ATP",
       "tournament": "US Open",
       "surface": "Hard",
       "round": "",
       "player1": {
-        "name": "Andreeva M.",
-        "rank": 5,
+        "name": "Khachanov K.",
+        "rank": 22,
         "form_last5": [
           1,
-          1,
+          0,
           1,
           1,
           0
         ],
-        "matches_played": 52,
-        "win_prob": 0.8373
+        "matches_played": 113,
+        "win_prob": 0.7754
       },
       "player2": {
-        "name": "Potapova A.",
-        "rank": 28,
+        "name": "Blockx A.",
+        "rank": 36,
         "form_last5": [
-          1,
-          1,
+          0,
           1,
           0,
           0
         ],
-        "matches_played": 50,
-        "win_prob": 0.1627
+        "matches_played": 4,
+        "win_prob": 0.2246
       },
-      "favorite": "Andreeva M."
+      "favorite": "Khachanov K."
     },
     {
-      "id": "us -swiateki-zhengq",
-      "date": "2026-09-07",
-      "tour": "WTA",
+      "id": "us -zvereva-vandezandschulpb",
+      "date": "2026-09-09",
+      "tour": "ATP",
       "tournament": "US Open",
       "surface": "Hard",
       "round": "",
       "player1": {
-        "name": "Swiatek I.",
+        "name": "Zverev A.",
         "rank": 3,
         "form_last5": [
           1,
-          0,
+          1,
           1,
           1,
           0
         ],
-        "matches_played": 136,
-        "win_prob": 0.8466
+        "matches_played": 172,
+        "win_prob": 0.9288
       },
       "player2": {
-        "name": "Zheng Q.",
-        "rank": 138,
+        "name": "Van De Zandschulp B.",
+        "rank": 54,
         "form_last5": [
           1,
           0,
           0,
-          0,
-          0
-        ],
-        "matches_played": 48,
-        "win_prob": 0.1534
-      },
-      "favorite": "Swiatek I."
-    },
-    {
-      "id": "us -osakan-rybakinae",
-      "date": "2026-09-07",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Osaka N.",
-        "rank": 14,
-        "form_last5": [
-          1,
-          1,
-          1,
           1,
           0
         ],
-        "matches_played": 109,
-        "win_prob": 0.3976
+        "matches_played": 47,
+        "win_prob": 0.0712
       },
-      "player2": {
-        "name": "Rybakina E.",
-        "rank": 2,
-        "form_last5": [
-          1,
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 96,
-        "win_prob": 0.6024
-      },
-      "favorite": "Rybakina E."
-    },
-    {
-      "id": "us -jovici-gauffc",
-      "date": "2026-09-08",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Jovic I.",
-        "rank": 16,
-        "form_last5": [
-          0,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 21,
-        "win_prob": 0.2719
-      },
-      "player2": {
-        "name": "Gauff C.",
-        "rank": 7,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 111,
-        "win_prob": 0.7281
-      },
-      "favorite": "Gauff C."
+      "favorite": "Zverev A."
     },
     {
       "id": "us -sabalenkaa-noskoval",
@@ -392,7 +184,7 @@
     },
     {
       "id": "us -pegulaj-navarroe",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "tour": "WTA",
       "tournament": "US Open",
       "surface": "Hard",
@@ -424,6 +216,76 @@
         "win_prob": 0.3143
       },
       "favorite": "Pegula J."
+    },
+    {
+      "id": "us -zhengq-rybakinae",
+      "date": "2026-09-09",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Zheng Q.",
+        "rank": 138,
+        "form_last5": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "matches_played": 48,
+        "win_prob": 0.0981
+      },
+      "player2": {
+        "name": "Rybakina E.",
+        "rank": 2,
+        "form_last5": [
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 96,
+        "win_prob": 0.9019
+      },
+      "favorite": "Rybakina E."
+    },
+    {
+      "id": "us -andreevam-gauffc",
+      "date": "2026-09-09",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Andreeva M.",
+        "rank": 5,
+        "form_last5": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 52,
+        "win_prob": 0.5487
+      },
+      "player2": {
+        "name": "Gauff C.",
+        "rank": 7,
+        "form_last5": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 111,
+        "win_prob": 0.4513
+      },
+      "favorite": "Andreeva M."
     }
   ]
 }
