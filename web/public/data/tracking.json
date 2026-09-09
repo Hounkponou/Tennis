@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-08T10:13:23.980477+00:00",
-  "success_rate": 0.6518,
-  "n_correct": 249,
-  "n_resolved": 382,
-  "n_pending": 12,
+  "generated_at": "2026-09-09T10:18:02.777403+00:00",
+  "success_rate": 0.6512,
+  "n_correct": 252,
+  "n_resolved": 387,
+  "n_pending": 9,
   "entries": [
     {
       "id": "live-us -zhangz-sakamotor",
@@ -58,58 +58,6 @@
       "status": "pending"
     },
     {
-      "id": "live-us -tiafoef-michelsena",
-      "origin": "à venir",
-      "date": "2026-09-08",
-      "tournament": "US Open",
-      "player1": "Tiafoe F.",
-      "player2": "Michelsen A.",
-      "predicted_winner": "Tiafoe F.",
-      "predicted_prob": 0.6061,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
-    {
-      "id": "live-us -sheltonb-alcarazc",
-      "origin": "à venir",
-      "date": "2026-09-08",
-      "tournament": "US Open",
-      "player1": "Shelton B.",
-      "player2": "Alcaraz C.",
-      "predicted_winner": "Alcaraz C.",
-      "predicted_prob": 0.85,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
-    {
-      "id": "live-us -sabalenkaa-noskoval",
-      "origin": "à venir",
-      "date": "2026-09-08",
-      "tournament": "US Open",
-      "player1": "Sabalenka A.",
-      "player2": "Noskova L.",
-      "predicted_winner": "Sabalenka A.",
-      "predicted_prob": 0.8662,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
-    {
-      "id": "live-us -pegulaj-navarroe",
-      "origin": "à venir",
-      "date": "2026-09-08",
-      "tournament": "US Open",
-      "player1": "Pegula J.",
-      "player2": "Navarro E.",
-      "predicted_winner": "Pegula J.",
-      "predicted_prob": 0.6857,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
-    {
       "id": "live-us -khachanovk-blockxa",
       "origin": "à venir",
       "date": "2026-09-09",
@@ -149,6 +97,32 @@
       "status": "pending"
     },
     {
+      "id": "live-us -tiafoef-sheltonb",
+      "origin": "à venir",
+      "date": "2026-09-11",
+      "tournament": "US Open",
+      "player1": "Tiafoe F.",
+      "player2": "Shelton B.",
+      "predicted_winner": "Shelton B.",
+      "predicted_prob": 0.5789,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -sabalenkaa-pegulaj",
+      "origin": "à venir",
+      "date": "2026-09-11",
+      "tournament": "US Open",
+      "player1": "Sabalenka A.",
+      "player2": "Pegula J.",
+      "predicted_winner": "Sabalenka A.",
+      "predicted_prob": 0.7151,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
       "id": "live-us -andreevam-gauffc",
       "origin": "à venir",
       "date": "2026-09-09",
@@ -157,9 +131,61 @@
       "player2": "Gauff C.",
       "predicted_winner": "Andreeva M.",
       "predicted_prob": 0.5487,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Gauff C.",
+      "correct": false,
+      "status": "resolved"
+    },
+    {
+      "id": "live-us -tiafoef-michelsena",
+      "origin": "à venir",
+      "date": "2026-09-08",
+      "tournament": "US Open",
+      "player1": "Tiafoe F.",
+      "player2": "Michelsen A.",
+      "predicted_winner": "Tiafoe F.",
+      "predicted_prob": 0.6061,
+      "actual_winner": "Tiafoe F.",
+      "correct": true,
+      "status": "resolved"
+    },
+    {
+      "id": "live-us -sheltonb-alcarazc",
+      "origin": "à venir",
+      "date": "2026-09-08",
+      "tournament": "US Open",
+      "player1": "Shelton B.",
+      "player2": "Alcaraz C.",
+      "predicted_winner": "Alcaraz C.",
+      "predicted_prob": 0.85,
+      "actual_winner": "Shelton B.",
+      "correct": false,
+      "status": "resolved"
+    },
+    {
+      "id": "live-us -sabalenkaa-noskoval",
+      "origin": "à venir",
+      "date": "2026-09-08",
+      "tournament": "US Open",
+      "player1": "Sabalenka A.",
+      "player2": "Noskova L.",
+      "predicted_winner": "Sabalenka A.",
+      "predicted_prob": 0.8662,
+      "actual_winner": "Sabalenka A.",
+      "correct": true,
+      "status": "resolved"
+    },
+    {
+      "id": "live-us -pegulaj-navarroe",
+      "origin": "à venir",
+      "date": "2026-09-08",
+      "tournament": "US Open",
+      "player1": "Pegula J.",
+      "player2": "Navarro E.",
+      "predicted_winner": "Pegula J.",
+      "predicted_prob": 0.6857,
+      "actual_winner": "Pegula J.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -cerundolof-blockxa",
