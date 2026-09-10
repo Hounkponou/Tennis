@@ -1,82 +1,13 @@
 {
-  "generated_at": "2026-09-09T10:18:01.204261+00:00",
+  "generated_at": "2026-09-10T10:11:36.472670+00:00",
   "model_version": "2026.07.13-0845",
   "model_metrics": {
     "accuracy": 0.6901,
     "log_loss": 0.5753,
     "roc_auc": 0.7665
   },
-  "count": 6,
+  "count": 4,
   "matches": [
-    {
-      "id": "us -khachanovk-blockxa",
-      "date": "2026-09-09",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Khachanov K.",
-        "rank": 22,
-        "form_last5": [
-          1,
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 113,
-        "win_prob": 0.7754
-      },
-      "player2": {
-        "name": "Blockx A.",
-        "rank": 36,
-        "form_last5": [
-          0,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 4,
-        "win_prob": 0.2246
-      },
-      "favorite": "Khachanov K."
-    },
-    {
-      "id": "us -zvereva-vandezandschulpb",
-      "date": "2026-09-10",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Zverev A.",
-        "rank": 3,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 172,
-        "win_prob": 0.9288
-      },
-      "player2": {
-        "name": "Van De Zandschulp B.",
-        "rank": 54,
-        "form_last5": [
-          1,
-          0,
-          0,
-          1,
-          0
-        ],
-        "matches_played": 47,
-        "win_prob": 0.0712
-      },
-      "favorite": "Zverev A."
-    },
     {
       "id": "us -tiafoef-sheltonb",
       "date": "2026-09-11",
@@ -113,28 +44,28 @@
       "favorite": "Shelton B."
     },
     {
-      "id": "us -zhengq-rybakinae",
-      "date": "2026-09-09",
-      "tour": "WTA",
+      "id": "us -zvereva-khachanovk",
+      "date": "2026-09-11",
+      "tour": "ATP",
       "tournament": "US Open",
       "surface": "Hard",
       "round": "",
       "player1": {
-        "name": "Zheng Q.",
-        "rank": 138,
+        "name": "Zverev A.",
+        "rank": 3,
         "form_last5": [
           1,
-          0,
-          0,
-          0,
+          1,
+          1,
+          1,
           0
         ],
-        "matches_played": 48,
-        "win_prob": 0.0981
+        "matches_played": 172,
+        "win_prob": 0.7506
       },
       "player2": {
-        "name": "Rybakina E.",
-        "rank": 2,
+        "name": "Khachanov K.",
+        "rank": 22,
         "form_last5": [
           1,
           0,
@@ -142,45 +73,10 @@
           1,
           0
         ],
-        "matches_played": 96,
-        "win_prob": 0.9019
+        "matches_played": 113,
+        "win_prob": 0.2494
       },
-      "favorite": "Rybakina E."
-    },
-    {
-      "id": "us -andreevam-gauffc",
-      "date": "2026-09-09",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Andreeva M.",
-        "rank": 5,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 52,
-        "win_prob": 0.5487
-      },
-      "player2": {
-        "name": "Gauff C.",
-        "rank": 7,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 111,
-        "win_prob": 0.4513
-      },
-      "favorite": "Andreeva M."
+      "favorite": "Zverev A."
     },
     {
       "id": "us -sabalenkaa-pegulaj",
@@ -216,6 +112,41 @@
         "win_prob": 0.2849
       },
       "favorite": "Sabalenka A."
+    },
+    {
+      "id": "us -gauffc-rybakinae",
+      "date": "2026-09-11",
+      "tour": "WTA",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "round": "",
+      "player1": {
+        "name": "Gauff C.",
+        "rank": 7,
+        "form_last5": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 111,
+        "win_prob": 0.406
+      },
+      "player2": {
+        "name": "Rybakina E.",
+        "rank": 2,
+        "form_last5": [
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        "matches_played": 96,
+        "win_prob": 0.594
+      },
+      "favorite": "Rybakina E."
     }
   ]
 }

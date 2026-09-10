@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-09T10:18:02.777403+00:00",
-  "success_rate": 0.6512,
-  "n_correct": 252,
-  "n_resolved": 387,
-  "n_pending": 9,
+  "generated_at": "2026-09-10T10:11:38.114033+00:00",
+  "success_rate": 0.6538,
+  "n_correct": 255,
+  "n_resolved": 390,
+  "n_pending": 8,
   "entries": [
     {
       "id": "live-us -zhangz-sakamotor",
@@ -58,45 +58,6 @@
       "status": "pending"
     },
     {
-      "id": "live-us -khachanovk-blockxa",
-      "origin": "à venir",
-      "date": "2026-09-09",
-      "tournament": "US Open",
-      "player1": "Khachanov K.",
-      "player2": "Blockx A.",
-      "predicted_winner": "Khachanov K.",
-      "predicted_prob": 0.7754,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
-    {
-      "id": "live-us -zvereva-vandezandschulpb",
-      "origin": "à venir",
-      "date": "2026-09-09",
-      "tournament": "US Open",
-      "player1": "Zverev A.",
-      "player2": "Van De Zandschulp B.",
-      "predicted_winner": "Zverev A.",
-      "predicted_prob": 0.9288,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
-    {
-      "id": "live-us -zhengq-rybakinae",
-      "origin": "à venir",
-      "date": "2026-09-09",
-      "tournament": "US Open",
-      "player1": "Zheng Q.",
-      "player2": "Rybakina E.",
-      "predicted_winner": "Rybakina E.",
-      "predicted_prob": 0.9019,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
-    {
       "id": "live-us -tiafoef-sheltonb",
       "origin": "à venir",
       "date": "2026-09-11",
@@ -121,6 +82,71 @@
       "actual_winner": null,
       "correct": null,
       "status": "pending"
+    },
+    {
+      "id": "live-us -zvereva-khachanovk",
+      "origin": "à venir",
+      "date": "2026-09-11",
+      "tournament": "US Open",
+      "player1": "Zverev A.",
+      "player2": "Khachanov K.",
+      "predicted_winner": "Zverev A.",
+      "predicted_prob": 0.7506,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -gauffc-rybakinae",
+      "origin": "à venir",
+      "date": "2026-09-11",
+      "tournament": "US Open",
+      "player1": "Gauff C.",
+      "player2": "Rybakina E.",
+      "predicted_winner": "Rybakina E.",
+      "predicted_prob": 0.594,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -khachanovk-blockxa",
+      "origin": "à venir",
+      "date": "2026-09-09",
+      "tournament": "US Open",
+      "player1": "Khachanov K.",
+      "player2": "Blockx A.",
+      "predicted_winner": "Khachanov K.",
+      "predicted_prob": 0.7754,
+      "actual_winner": "Khachanov K.",
+      "correct": true,
+      "status": "resolved"
+    },
+    {
+      "id": "live-us -zvereva-vandezandschulpb",
+      "origin": "à venir",
+      "date": "2026-09-09",
+      "tournament": "US Open",
+      "player1": "Zverev A.",
+      "player2": "Van De Zandschulp B.",
+      "predicted_winner": "Zverev A.",
+      "predicted_prob": 0.9288,
+      "actual_winner": "Zverev A.",
+      "correct": true,
+      "status": "resolved"
+    },
+    {
+      "id": "live-us -zhengq-rybakinae",
+      "origin": "à venir",
+      "date": "2026-09-09",
+      "tournament": "US Open",
+      "player1": "Zheng Q.",
+      "player2": "Rybakina E.",
+      "predicted_winner": "Rybakina E.",
+      "predicted_prob": 0.9019,
+      "actual_winner": "Rybakina E.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -andreevam-gauffc",

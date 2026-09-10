@@ -1,7 +1,5 @@
 id,date,tournament,surface,round,best_of,player1,player2
-us -khachanovk-blockxa,2026-09-09,US Open,Hard,,5,Khachanov K.,Blockx A.
-us -zvereva-vandezandschulpb,2026-09-10,US Open,Hard,,5,Zverev A.,Van De Zandschulp B.
 us -tiafoef-sheltonb,2026-09-11,US Open,Hard,,5,Tiafoe F.,Shelton B.
-us -zhengq-rybakinae,2026-09-09,US Open,Hard,,3,Zheng Q.,Rybakina E.
-us -andreevam-gauffc,2026-09-09,US Open,Hard,,3,Andreeva M.,Gauff C.
+us -zvereva-khachanovk,2026-09-11,US Open,Hard,,5,Zverev A.,Khachanov K.
 us -sabalenkaa-pegulaj,2026-09-11,US Open,Hard,,3,Sabalenka A.,Pegula J.
+us -gauffc-rybakinae,2026-09-11,US Open,Hard,,3,Gauff C.,Rybakina E.
