@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-11T10:09:03.462806+00:00",
+  "generated_at": "2026-09-12T09:43:28.880806+00:00",
   "model_version": "2026.07.13-0845",
   "model_metrics": {
     "accuracy": 0.6901,
     "log_loss": 0.5753,
     "roc_auc": 0.7665
   },
-  "count": 3,
+  "count": 2,
   "matches": [
     {
-      "id": "us -zvereva-khachanovk",
-      "date": "2026-09-11",
+      "id": "us -zvereva-sheltonb",
+      "date": "2026-09-13",
       "tour": "ATP",
       "tournament": "US Open",
       "surface": "Hard",
@@ -26,42 +26,7 @@
           0
         ],
         "matches_played": 172,
-        "win_prob": 0.7506
-      },
-      "player2": {
-        "name": "Khachanov K.",
-        "rank": 22,
-        "form_last5": [
-          1,
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 113,
-        "win_prob": 0.2494
-      },
-      "favorite": "Zverev A."
-    },
-    {
-      "id": "us -tiafoef-sheltonb",
-      "date": "2026-09-12",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Tiafoe F.",
-        "rank": 19,
-        "form_last5": [
-          1,
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 104,
-        "win_prob": 0.4211
+        "win_prob": 0.6512
       },
       "player2": {
         "name": "Shelton B.",
@@ -74,9 +39,9 @@
           0
         ],
         "matches_played": 54,
-        "win_prob": 0.5789
+        "win_prob": 0.3488
       },
-      "favorite": "Shelton B."
+      "favorite": "Zverev A."
     },
     {
       "id": "us -sabalenkaa-rybakinae",

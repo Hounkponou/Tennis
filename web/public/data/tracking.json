@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11T10:09:04.602526+00:00",
-  "success_rate": 0.6539,
-  "n_correct": 257,
-  "n_resolved": 393,
+  "generated_at": "2026-09-12T09:43:30.012342+00:00",
+  "success_rate": 0.6548,
+  "n_correct": 258,
+  "n_resolved": 394,
   "n_pending": 6,
   "entries": [
     {
@@ -58,19 +58,6 @@
       "status": "pending"
     },
     {
-      "id": "live-us -zvereva-khachanovk",
-      "origin": "à venir",
-      "date": "2026-09-11",
-      "tournament": "US Open",
-      "player1": "Zverev A.",
-      "player2": "Khachanov K.",
-      "predicted_winner": "Zverev A.",
-      "predicted_prob": 0.7506,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
-    },
-    {
       "id": "live-us -sabalenkaa-rybakinae",
       "origin": "à venir",
       "date": "2026-09-12",
@@ -82,6 +69,32 @@
       "actual_winner": null,
       "correct": null,
       "status": "pending"
+    },
+    {
+      "id": "live-us -zvereva-sheltonb",
+      "origin": "à venir",
+      "date": "2026-09-13",
+      "tournament": "US Open",
+      "player1": "Zverev A.",
+      "player2": "Shelton B.",
+      "predicted_winner": "Zverev A.",
+      "predicted_prob": 0.6512,
+      "actual_winner": null,
+      "correct": null,
+      "status": "pending"
+    },
+    {
+      "id": "live-us -zvereva-khachanovk",
+      "origin": "à venir",
+      "date": "2026-09-11",
+      "tournament": "US Open",
+      "player1": "Zverev A.",
+      "player2": "Khachanov K.",
+      "predicted_winner": "Zverev A.",
+      "predicted_prob": 0.7506,
+      "actual_winner": "Zverev A.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -tiafoef-sheltonb",
