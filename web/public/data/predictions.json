@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-12T09:43:28.880806+00:00",
+  "generated_at": "2026-09-13T10:45:28.023644+00:00",
   "model_version": "2026.07.13-0845",
   "model_metrics": {
     "accuracy": 0.6901,
     "log_loss": 0.5753,
     "roc_auc": 0.7665
   },
-  "count": 2,
+  "count": 1,
   "matches": [
     {
       "id": "us -zvereva-sheltonb",
@@ -42,41 +42,6 @@
         "win_prob": 0.3488
       },
       "favorite": "Zverev A."
-    },
-    {
-      "id": "us -sabalenkaa-rybakinae",
-      "date": "2026-09-12",
-      "tour": "WTA",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Sabalenka A.",
-        "rank": 1,
-        "form_last5": [
-          0,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 143,
-        "win_prob": 0.6122
-      },
-      "player2": {
-        "name": "Rybakina E.",
-        "rank": 2,
-        "form_last5": [
-          1,
-          0,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 96,
-        "win_prob": 0.3878
-      },
-      "favorite": "Sabalenka A."
     }
   ]
 }
