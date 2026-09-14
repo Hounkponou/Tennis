@@ -1,47 +1,11 @@
 {
-  "generated_at": "2026-09-13T10:45:28.023644+00:00",
+  "generated_at": "2026-09-14T11:09:08.241060+00:00",
   "model_version": "2026.07.13-0845",
   "model_metrics": {
     "accuracy": 0.6901,
     "log_loss": 0.5753,
     "roc_auc": 0.7665
   },
-  "count": 1,
-  "matches": [
-    {
-      "id": "us -zvereva-sheltonb",
-      "date": "2026-09-13",
-      "tour": "ATP",
-      "tournament": "US Open",
-      "surface": "Hard",
-      "round": "",
-      "player1": {
-        "name": "Zverev A.",
-        "rank": 3,
-        "form_last5": [
-          1,
-          1,
-          1,
-          1,
-          0
-        ],
-        "matches_played": 172,
-        "win_prob": 0.6512
-      },
-      "player2": {
-        "name": "Shelton B.",
-        "rank": 5,
-        "form_last5": [
-          1,
-          0,
-          1,
-          0,
-          0
-        ],
-        "matches_played": 54,
-        "win_prob": 0.3488
-      },
-      "favorite": "Zverev A."
-    }
-  ]
+  "count": 0,
+  "matches": []
 }

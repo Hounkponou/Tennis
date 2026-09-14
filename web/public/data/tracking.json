@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-13T10:45:29.858673+00:00",
-  "success_rate": 0.6532,
-  "n_correct": 258,
-  "n_resolved": 395,
-  "n_pending": 5,
+  "generated_at": "2026-09-14T11:09:09.771383+00:00",
+  "success_rate": 0.654,
+  "n_correct": 259,
+  "n_resolved": 396,
+  "n_pending": 4,
   "entries": [
     {
       "id": "live-us -zhangz-sakamotor",
@@ -66,9 +66,9 @@
       "player2": "Shelton B.",
       "predicted_winner": "Zverev A.",
       "predicted_prob": 0.6512,
-      "actual_winner": null,
-      "correct": null,
-      "status": "pending"
+      "actual_winner": "Zverev A.",
+      "correct": true,
+      "status": "resolved"
     },
     {
       "id": "live-us -sabalenkaa-rybakinae",
